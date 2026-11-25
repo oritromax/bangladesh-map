@@ -47,6 +47,9 @@ See [AGENTS.md](AGENTS.md) for the full data model, the pipeline and the rules f
   - The same tables supply the full names of 50 paurashavas that the 2015 boundaries call just "Paurashava".
 - **Population 2022**: UNFPA estimates (COD-PS) on HDX, for districts and upazilas. They are left out for 30 upazilas whose boundaries changed, and for city corporations.
 
+## Site analytics
+The deployed website (the map pages only) loads a visit-counting script. It is anonymous and does no user profiling. The data files and the static API contain no tracking.
+
 ## Licence
 - Code: MIT ([LICENSE](LICENSE)).
 - Boundary data: © Bangladesh Bureau of Statistics, via OCHA/HDX, under [CC BY-IGO](https://creativecommons.org/licenses/by/3.0/igo/). Attribution is required when you reuse `data/`.

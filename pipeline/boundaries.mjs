@@ -13,7 +13,7 @@ mkdirSync(`${OUT}/districts`, { recursive: true });
 const units = new Map(readFileSync(`${DATA}/gazetteer/units.jsonl`, 'utf8').trim().split('\n')
   .map((l) => JSON.parse(l)).map((u) => [u.pcode, u]));
 
-// Simplification interval (metres) per level, chosen against the size budget in plan.md.
+// Simplification interval (metres) per level, chosen to keep each TopoJSON file small.
 const INTERVAL = { 1: 400, 2: 250, 3: 60, 4: 40 };
 const TOPO = 'format=topojson quantization=100000';
 

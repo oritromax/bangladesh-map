@@ -184,3 +184,5 @@ footer a:hover, .link:hover { color: var(--accent); }
 .notfound main { overflow: visible; padding: 2rem; }
 .notfound h1 { font-size: 4rem; color: var(--accent); line-height: 1; margin-bottom: 1rem; }
 .notfound p { color: var(--muted); margin-bottom: .4rem; }
+footer .gh { display: inline-flex; align-items: center; gap: .35rem; }
+footer .gh svg { width: 1em; height: 1em; fill: currentColor; }

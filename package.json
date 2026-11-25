@@ -4,7 +4,7 @@
   "description": "Open, agent-friendly atlas of Bangladesh administrative units (division to union) with an interactive map",
   "scripts": {
     "fetch": "node pipeline/fetch.mjs",
-    "build:data": "node pipeline/fetch.mjs && node --max-old-space-size=8192 pipeline/geometry.mjs && node pipeline/units.mjs && node --max-old-space-size=8192 pipeline/boundaries.mjs",
+    "build:data": "node pipeline/fetch.mjs && node --max-old-space-size=8192 pipeline/geometry.mjs && node pipeline/census.mjs && node pipeline/units.mjs && node pipeline/population.mjs && node --max-old-space-size=8192 pipeline/boundaries.mjs",
     "build": "node pipeline/site.mjs",
     "test": "node --test test/*.test.mjs",
     "dev": "npm run build && node pipeline/serve.mjs",
@@ -14,6 +14,7 @@
   "type": "module",
   "devDependencies": {
     "ajv": "^8.20.0",
+    "exceljs": "^4.4.0",
     "mapshaper": "^0.8.10"
   },
   "dependencies": {

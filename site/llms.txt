@@ -6,7 +6,7 @@ Every unit is identified by its pcode (e.g. BD20 Chattogram division, BD2019 Cum
 
 ## API
 - [Index](/api/v1/index.json): counts, endpoint templates, sources and licences
-- Unit: /api/v1/units/{pcode}.json — the unit, its ancestors, children and boundary file
+- Unit: /api/v1/units/{pcode}.json — the unit, its ancestors, children, boundary file and population by year
 - [Search index](/api/v1/search.json): every unit as compact rows (pcode, level, kind, name_en, name_bn, parent_pcode, lon, lat)
 
 ## Data
@@ -15,6 +15,8 @@ Every unit is identified by its pcode (e.g. BD20 Chattogram division, BD2019 Cum
 - [National boundaries](/data/boundaries/national.topo.json): divisions and districts
 - District boundaries: /data/boundaries/districts/{district_pcode}.topo.json — upazilas and unions
 - [QA report](/data/qa/report.json): join coverage and re-parented units
+- [Population CSV](/data/population/population.csv) and [JSONL](/data/population/population.jsonl): one row per (pcode, year), total, male, female and 5-year age bands. Year 2011 is the census, with every union-level unit reported. Year 2022 is an estimate for districts and most upazilas. method=sum_of_children rows are sums over the current hierarchy.
+- [Population schema](/data/schema/population.schema.json), [population QA](/data/qa/population.json)
 
 ## Licence
-Boundaries: Bangladesh Bureau of Statistics via OCHA/HDX, CC BY-IGO. Bangla names: nuhil/bangladesh-geocode, MIT.
+Boundaries: Bangladesh Bureau of Statistics via OCHA/HDX, CC BY-IGO. Bangla names: nuhil/bangladesh-geocode, MIT. Population 2011: BBS census via US Census Bureau/HDX, CC BY. Population 2022: UNFPA COD-PS via HDX, CC BY-IGO.

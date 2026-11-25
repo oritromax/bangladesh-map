@@ -48,6 +48,32 @@
         "city_corporations/city_corporations.csv": "a10aee1cc002dec20e0d0c20365230e1dd66a86e2d50e322b0f6bee2fbc0c569",
         "LICENSE": "c3f77872e963b0c831ffbdc66e72a511f93b5365ffd28321e41b7559a48a18f7"
       }
+    },
+    {
+      "id": "uscb-2011",
+      "title": "Bangladesh subnational tabular data (Population and Housing Census 2011)",
+      "publisher": "US Census Bureau via HDX; source: Bangladesh Bureau of Statistics (BBS)",
+      "page": "https://data.humdata.org/dataset/bangladesh-subnational-boundaries-and-tabular-data",
+      "license": "CC BY",
+      "valid_on": "2011-03-15",
+      "used_for": "2011 census population by sex and age at union level; names of generically named paurashavas",
+      "url": "https://data.humdata.org/dataset/862d607b-a195-4f69-b0cb-bd2fe6ac858f/resource/1fdc9232-9fb4-49d2-b66a-b7a375472f72/download/bangladesh_uscb_202107.xlsx",
+      "file": "bangladesh_uscb_202107.xlsx",
+      "sha256": "0bb8ec1ce15217a511a4f547e7cf3c654b33f320202d34335b116a8923378aee"
+    },
+    {
+      "id": "cod-ps-2022",
+      "title": "Bangladesh Subnational Population Statistics (COD-PS), 2022",
+      "publisher": "UNFPA via HDX; source: US Census Bureau",
+      "page": "https://data.humdata.org/dataset/cod-ps-bgd",
+      "license": "CC BY-IGO",
+      "valid_on": "2022-01-01",
+      "used_for": "2022 population estimates by sex and age for districts and upazilas",
+      "base_url": "https://data.humdata.org/dataset/fdf0606c-8a3b-421a-b3e8-903301e5b2ff/resource/",
+      "files": {
+        "43bfa9fd-f571-4973-9f31-91093e1e6142/download/bgd_admpop_adm2_2022.csv": "fdad72f6f4a8c7038251f7efe27c50ec252d88f96f9222ab18d9ff4497ddb00e",
+        "f23d4da2-e473-4960-9d94-37df92c8d044/download/bgd_admpop_adm3_2022.csv": "c7d2a94d40c57a5438eec67cc5f14c79ee09887d9b518aab757614bcdcc355b7"
+      }
     }
   ]
 }

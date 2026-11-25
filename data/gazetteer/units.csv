@@ -592,7 +592,7 @@ BD10040991,4,union,Nishanbaria,নিশানবাড়ীয়া,BD10040090,BD10
 BD10040994,4,union,Pancha Koralia,পচাকোড়ালিয়া,BD10040090,BD10|BD1004|BD10040090,25.05,90.15274,22.06717,boundaries/districts/BD1004.topo.json#unions,cod-ab-2015,2020-11-13,BD100409
 BD10040995,4,union,Sarikkhali,শারিকখালি,BD10040090,BD10|BD1004|BD10040090,22.83,90.18709,22.03478,boundaries/districts/BD1004.topo.json#unions,cod-ab-2015,2020-11-13,BD100409
 BD10040996,4,union,Sonakata,সোনাকাটা,BD10040090,BD10|BD1004|BD10040090,24.376,90.06563,21.87765,boundaries/districts/BD1004.topo.json#unions,cod-ab-2015,2020-11-13,BD100409
-BD10040999,4,paurashava,Paurashava,,BD10040009,BD10|BD1004|BD10040009,7.84,90.22473,22.12021,boundaries/districts/BD1004.topo.json#unions,cod-ab-2015,2020-11-13,BD100409
+BD10040999,4,paurashava,Amtali Paurashava,,BD10040009,BD10|BD1004|BD10040009,7.84,90.22473,22.12021,boundaries/districts/BD1004.topo.json#unions,cod-ab-2015,2020-11-13,BD100409
 BD10041923,4,union,Bamna,বামনা,BD10040019,BD10|BD1004|BD10040019,23.637,90.08708,22.30625,boundaries/districts/BD1004.topo.json#unions,cod-ab-2015,2020-11-13,BD100419
 BD10041947,4,union,Bukabunia,বুকাবুনিয়া,BD10040019,BD10|BD1004|BD10040019,23.985,90.06372,22.32814,boundaries/districts/BD1004.topo.json#unions,cod-ab-2015,2020-11-13,BD100419
 BD10041971,4,union,Dauatala,ডৌয়াতলা,BD10040019,BD10|BD1004|BD10040019,29.608,90.04252,22.2301,boundaries/districts/BD1004.topo.json#unions,cod-ab-2015,2020-11-13,BD100419
@@ -607,7 +607,7 @@ BD10042866,4,union,Gaurichanna,গৌরিচন্না,BD10040028,BD10|BD100
 BD10042876,4,union,Keorabunia,কেওড়াবুনিয়া,BD10040028,BD10|BD1004|BD10040028,23.356,90.18078,22.21306,boundaries/districts/BD1004.topo.json#unions,cod-ab-2015,2020-11-13,BD100428
 BD10042885,4,union,M.Baliatali,এম. বালিয়াতলী,BD10040028,BD10|BD1004|BD10040028,55.334,90.06998,22.0671,boundaries/districts/BD1004.topo.json#unions,cod-ab-2015,2020-11-13,BD100428
 BD10042895,4,union,Naltona,নলটোনা,BD10040028,BD10|BD1004|BD10040028,35.434,90.01636,22.02136,boundaries/districts/BD1004.topo.json#unions,cod-ab-2015,2020-11-13,BD100428
-BD10042899,4,paurashava,Paurashava,,BD10040028,BD10|BD1004|BD10040028,14.694,90.12871,22.14899,boundaries/districts/BD1004.topo.json#unions,cod-ab-2015,2020-11-13,BD100428
+BD10042899,4,paurashava,Barguna Sadar Paurashava,,BD10040028,BD10|BD1004|BD10040028,14.694,90.12871,22.14899,boundaries/districts/BD1004.topo.json#unions,cod-ab-2015,2020-11-13,BD100428
 BD10044711,4,union,Betagi,বেতাগী,BD10040047,BD10|BD1004|BD10040047,15.556,90.20151,22.42709,boundaries/districts/BD1004.topo.json#unions,cod-ab-2015,2020-11-13,BD100447
 BD10044723,4,union,Bibichini,বিবিচিন,BD10040047,BD10|BD1004|BD10040047,23.079,90.20372,22.45878,boundaries/districts/BD1004.topo.json#unions,cod-ab-2015,2020-11-13,BD100447
 BD10044735,4,union,Bura Mazumdar,বুড়ামজুমদার,BD10040047,BD10|BD1004|BD10040047,24.82,90.12605,22.31828,boundaries/districts/BD1004.topo.json#unions,cod-ab-2015,2020-11-13,BD100447
@@ -615,7 +615,7 @@ BD10044747,4,union,Hosnabad,হোসনাবাদ,BD10040047,BD10|BD1004|BD10
 BD10044759,4,union,Kazirabad,কাজীরাবাদ,BD10040047,BD10|BD1004|BD10040047,20.164,90.13443,22.26599,boundaries/districts/BD1004.topo.json#unions,cod-ab-2015,2020-11-13,BD100447
 BD10044771,4,union,Mokamia,মোকামিয়া,BD10040047,BD10|BD1004|BD10040047,21.23,90.13305,22.37009,boundaries/districts/BD1004.topo.json#unions,cod-ab-2015,2020-11-13,BD100447
 BD10044783,4,union,Sarishamuri,সরিষামুড়ী,BD10040047,BD10|BD1004|BD10040047,27.64,90.09806,22.24857,boundaries/districts/BD1004.topo.json#unions,cod-ab-2015,2020-11-13,BD100447
-BD10044799,4,paurashava,Paurashava,,BD10040047,BD10|BD1004|BD10040047,7.672,90.17226,22.4121,boundaries/districts/BD1004.topo.json#unions,cod-ab-2015,2020-11-13,BD100447
+BD10044799,4,paurashava,Betagi Paurashava,,BD10040047,BD10|BD1004|BD10040047,7.672,90.17226,22.4121,boundaries/districts/BD1004.topo.json#unions,cod-ab-2015,2020-11-13,BD100447
 BD10048511,4,union,Char Duanti,চরদুয়ানী,BD10040085,BD10|BD1004|BD10040085,36.401,89.92742,22.08513,boundaries/districts/BD1004.topo.json#unions,cod-ab-2015,2020-11-13,BD100485
 BD10048523,4,union,Kakchira,কাকচিঢ়া,BD10040085,BD10|BD1004|BD10040085,21.852,90.01617,22.15154,boundaries/districts/BD1004.topo.json#unions,cod-ab-2015,2020-11-13,BD100485
 BD10048535,4,union,Kalmegha,কালমেঘা,BD10040085,BD10|BD1004|BD10040085,35.35,89.99574,22.08586,boundaries/districts/BD1004.topo.json#unions,cod-ab-2015,2020-11-13,BD100485
@@ -623,7 +623,7 @@ BD10048547,4,union,Kanthaltali,কাঠালতলী,BD10040085,BD10|BD1004|B
 BD10048559,4,union,Nachna Para,নাচনাপাড়া,BD10040085,BD10|BD1004|BD10040085,23.797,89.96715,22.15578,boundaries/districts/BD1004.topo.json#unions,cod-ab-2015,2020-11-13,BD100485
 BD10048571,4,union,Patharghata,পাথরঘাটা,BD10040085,BD10|BD1004|BD10040085,56.436,89.95791,21.99371,boundaries/districts/BD1004.topo.json#unions,cod-ab-2015,2020-11-13,BD100485
 BD10048583,4,union,Raihanpur,রায়হানপুর,BD10040085,BD10|BD1004|BD10040085,24.277,89.99672,22.18569,boundaries/districts/BD1004.topo.json#unions,cod-ab-2015,2020-11-13,BD100485
-BD10048599,4,paurashava,Paurashava,,BD10040085,BD10|BD1004|BD10040085,6.884,89.96319,22.0488,boundaries/districts/BD1004.topo.json#unions,cod-ab-2015,2020-11-13,BD100485
+BD10048599,4,paurashava,Patharghata Paurashava,,BD10040085,BD10|BD1004|BD10040085,6.884,89.96319,22.0488,boundaries/districts/BD1004.topo.json#unions,cod-ab-2015,2020-11-13,BD100485
 BD10060213,4,union,Bagdha,বাগধা,BD10060002,BD10|BD1006|BD10060002,34.037,90.09252,22.9443,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100602
 BD10060215,4,union,Bakal,বাকাল,BD10060002,BD10|BD1006|BD10060002,32.518,90.11652,22.98274,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100602
 BD10060247,4,union,Gaila,গৈলা,BD10060002,BD10|BD1006|BD10060002,25.991,90.17619,22.95578,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100602
@@ -649,7 +649,7 @@ BD10060774,4,union,Nalua,নলুয়া,BD10060007,BD10|BD1006|BD10060007,15.63
 BD10060781,4,union,Niamati,নিয়ামতি,BD10060007,BD10|BD1006|BD10060007,26.532,90.24194,22.50129,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100607
 BD10060788,4,union,Padri Shibpur,পাদ্রিশিবপুর,BD10060007,BD10|BD1006|BD10060007,33.095,90.27649,22.48864,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100607
 BD10060794,4,union,Rangasree,রঙ্গশ্রী,BD10060007,BD10|BD1006|BD10060007,30.078,90.31425,22.5486,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100607
-BD10060799,4,paurashava,Paurashava,,BD10060007,BD10|BD1006|BD10060007,1.728,90.34891,22.54539,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100607
+BD10060799,4,paurashava,Bakerganj Paurashava,,BD10060007,BD10|BD1006|BD10060007,1.728,90.34891,22.54539,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100607
 BD10061010,4,union,Banari Para,বানারিপাড়া,BD10060010,BD10|BD1006|BD10060010,12.119,90.15824,22.76905,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100610
 BD10061021,4,union,Baisari Para,বাইশারী,BD10060010,BD10|BD1006|BD10060010,10.577,90.13498,22.79164,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100610
 BD10061031,4,union,Bisarkandi,বিশারকান্দি,BD10060010,BD10|BD1006|BD10060010,19.817,90.053,22.84254,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100610
@@ -658,7 +658,7 @@ BD10061052,4,union,Iluhar,ইলুহার,BD10060010,BD10|BD1006|BD10060010,1
 BD10061063,4,union,Salia Bakpur,সলিয়াবাকপুর,BD10060010,BD10|BD1006|BD10060010,14.698,90.18173,22.79176,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100610
 BD10061073,4,union,Saidkati,সৈয়দকাঠী,BD10060010,BD10|BD1006|BD10060010,29.223,90.13552,22.83285,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100610
 BD10061084,4,union,Udaykati,উদয়কাঠী,BD10060010,BD10|BD1006|BD10060010,12.285,90.10163,22.81491,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100610
-BD10061099,4,paurashava,Paurashava,,BD10060010,BD10|BD1006|BD10060010,1.561,90.15793,22.78392,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100610
+BD10061099,4,paurashava,Banari Para Paurashava,,BD10060010,BD10|BD1006|BD10060010,1.561,90.15793,22.78392,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100610
 BD10063223,4,union,Barthi,বার্থী,BD10060032,BD10|BD1006|BD10060032,21.384,90.20633,23.01622,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100632
 BD10063231,4,union,Batajore,বাটাজোর,BD10060032,BD10|BD1006|BD10060032,22.052,90.26248,22.91358,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100632
 BD10063238,4,union,Chandshi,চাঁদশী,BD10060032,BD10|BD1006|BD10060032,7.247,90.1975,22.97159,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100632
@@ -666,7 +666,7 @@ BD10063255,4,union,Khanjapur,খাঞ্জাপুর,BD10060032,BD10|BD1006|
 BD10063263,4,union,Mahilara,মাহিলারা,BD10060032,BD10|BD1006|BD10060032,13.585,90.21969,22.93428,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100632
 BD10063271,4,union,Nalchira,নলচিড়া,BD10060032,BD10|BD1006|BD10060032,21.391,90.27035,22.95849,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100632
 BD10063294,4,union,Sarikal,সরিকল,BD10060032,BD10|BD1006|BD10060032,24.914,90.29765,22.91674,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100632
-BD10063299,4,paurashava,Paurashava,,BD10060032,BD10|BD1006|BD10060032,17.826,90.22422,22.96803,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100632
+BD10063299,4,paurashava,Gaurnadi Paurashava,,BD10060032,BD10|BD1006|BD10060032,17.826,90.22422,22.96803,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100632
 BD10063613,4,union,Bara Jalia,বড়জালিয়া,BD10060036,BD10|BD1006|BD10060036,22.118,90.51009,22.91541,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100636
 BD10063627,4,union,Dhulkhola,ধুলখোলা,BD10060036,BD10|BD1006|BD10060036,18.073,90.56949,22.8738,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100636
 BD10063654,4,union,Guabaria,গুয়াবাড়িয়া,BD10060036,BD10|BD1006|BD10060036,28.761,90.4652,22.93395,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100636
@@ -726,7 +726,7 @@ BD10066271,4,union,Jangalia,জাঙ্গালিয়া,BD10060062,BD10|BD100
 BD10066279,4,union,Lata,লতা,BD10060062,BD10|BD1006|BD10060062,26.136,90.43339,22.86366,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100662
 BD10066287,4,union,Mehendiganj,মেহেন্দিগঞ্জ,BD10060062,BD10|BD1006|BD10060062,11.105,90.55206,22.80676,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100662
 BD10066294,4,union,Ulania,উলানিয়া,BD10060062,BD10|BD1006|BD10060062,24.732,90.59616,22.84646,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100662
-BD10066299,4,paurashava,Paurashava,,BD10060062,BD10|BD1006|BD10060062,16.704,90.52984,22.824,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100662
+BD10066299,4,paurashava,Mehendiganj Paurashava,,BD10060062,BD10|BD1006|BD10060062,16.704,90.52984,22.824,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100662
 BD10066911,4,union,Batamara,বাটামারা,BD10060069,BD10|BD1006|BD10060069,27.507,90.33084,23.03529,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100669
 BD10066923,4,union,Char Kalekhan,চরকালেখা,BD10060069,BD10|BD1006|BD10060069,20.618,90.39692,22.98002,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100669
 BD10066935,4,union,Gachhua,গাছুয়া,BD10060069,BD10|BD1006|BD10060069,24.129,90.42914,22.95894,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100669
@@ -734,7 +734,7 @@ BD10066947,4,union,Kazir Char,কাজিরচর,BD10060069,BD10|BD1006|BD100
 BD10066959,4,union,Muladi,মুলাদী,BD10060069,BD10|BD1006|BD10060069,32.858,90.37841,22.91017,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100669
 BD10066971,4,union,Nazirpur,নাজিরপুর,BD10060069,BD10|BD1006|BD10060069,32.258,90.33846,22.95904,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100669
 BD10066983,4,union,Safipur,সফিপুর,BD10060069,BD10|BD1006|BD10060069,40.037,90.38031,23.02989,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100669
-BD10066999,4,paurashava,Paurashava,,BD10060069,BD10|BD1006|BD10060069,10.862,90.40347,22.91174,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100669
+BD10066999,4,paurashava,Muladi Paurashava,,BD10060069,BD10|BD1006|BD10060069,10.862,90.40347,22.91174,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100669
 BD10069410,4,union,Bamrail,বামরাইল,BD10060094,BD10|BD1006|BD10060094,27.614,90.24437,22.86214,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100694
 BD10069421,4,union,Bara Kotha,বরাকোঠা,BD10060094,BD10|BD1006|BD10060094,21.455,90.20495,22.85097,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100694
 BD10069431,4,union,Guthia,গুঠিয়া,BD10060094,BD10|BD1006|BD10060094,29.206,90.23256,22.78675,boundaries/districts/BD1006.topo.json#unions,cod-ab-2015,2020-11-13,BD100694
@@ -757,7 +757,7 @@ BD10091873,4,union,Rajapur,রাজাপুর,BD10090018,BD10|BD1009|BD100900
 BD10091880,4,union,Dakshin Dighaldi,দক্ষিণ দিঘলদী,BD10090018,BD10|BD1009|BD10090018,18.85,90.64154,22.58145,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100918
 BD10091887,4,union,Bhedaria,ভেদুরিয়া,BD10090018,BD10|BD1009|BD10090018,42.367,90.5864,22.67682,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100918
 BD10091894,4,union,Bhelu Miah, ভেলুমিয়া,BD10090018,BD10|BD1009|BD10090018,48.385,90.58915,22.60934,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100918
-BD10091899,4,paurashava,Paurashava,,BD10090018,BD10|BD1009|BD10090018,3.505,90.64513,22.68487,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100918
+BD10091899,4,paurashava,Bhola Sadar Paurashava,,BD10090018,BD10|BD1009|BD10090018,3.505,90.64513,22.68487,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100918
 BD10092116,4,union,Bara Manika,বড় মানিকা,BD10090021,BD10|BD1009|BD10090021,27.414,90.72957,22.54061,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100921
 BD10092119,4,union,Deula,দেউলা,BD10090021,BD10|BD1009|BD10090021,26.243,90.70812,22.43701,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100921
 BD10092128,4,union,Gangapur,,BD10090021,BD10|BD1009|BD10090021,40.263,90.62731,22.52249,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100921
@@ -767,7 +767,7 @@ BD10092157,4,union,Kutba,কুতুবা,BD10090021,BD10|BD1009|BD10090021,15
 BD10092166,4,union,Pakshia,পক্ষিয়া,BD10090021,BD10|BD1009|BD10090021,20.925,90.75349,22.50733,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100921
 BD10092176,4,union,Sachra,,BD10090021,BD10|BD1009|BD10090021,18.852,90.68692,22.4709,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100921
 BD10092195,4,union,Tabgi,,BD10090021,BD10|BD1009|BD10090021,26.267,90.77773,22.46705,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100921
-BD10092199,4,paurashava,Paurashava,,BD10090021,BD10|BD1009|BD10090021,8.126,90.71879,22.49616,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100921
+BD10092199,4,paurashava,Burhanuddin Paurashava,,BD10090021,BD10|BD1009|BD10090021,8.126,90.71879,22.49616,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100921
 BD10092511,4,union,Abu Bakarpur,আবুবকরপুর,BD10090025,BD10|BD1009|BD10090025,19.549,90.69792,22.21336,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100925
 BD10092513,4,union,Abdullapur,আবদুল্লাহ,BD10090025,BD10|BD1009|BD10090025,12.11,90.69238,22.14954,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100925
 BD10092514,4,union,Adhakha Nazrul Nagar,নজরুল নগর,BD10090025,BD10|BD1009|BD10090025,39.205,90.61801,22.0389,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100925
@@ -787,7 +787,7 @@ BD10092576,4,union,Nilkamal,নীলকমল,BD10090025,BD10|BD1009|BD10090025
 BD10092585,4,union,Nurabad,নুরাবাদ,BD10090025,BD10|BD1009|BD10090025,53.213,90.65387,22.16049,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100925
 BD10092588,4,union,Rasul Pur,রসুলপুর,BD10090025,BD10|BD1009|BD10090025,43.511,90.69405,22.07659,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100925
 BD10092595,4,union,Osmanganj,ওসমানগঞ্জ,BD10090025,BD10|BD1009|BD10090025,19.189,90.72578,22.234,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100925
-BD10092599,4,paurashava,Paurashava,,BD10090025,BD10|BD1009|BD10090025,18.03,90.74737,22.1821,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100925
+BD10092599,4,paurashava,Char Fasson Paurashava,,BD10090025,BD10|BD1009|BD10090025,18.03,90.74737,22.1821,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100925
 BD10092916,4,union,Bhabanipur,ভবানীপুর,BD10090029,BD10|BD1009|BD10090029,1.362,90.75484,22.59448,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100929
 BD10092919,4,union,Char Khalifa,চর খলিফা,BD10090029,BD10|BD1009|BD10090029,17.967,90.7118,22.60042,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100929
 BD10092928,4,union,Char Pata,চরপাতা,BD10090029,BD10|BD1009|BD10090029,21.743,90.69577,22.63356,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100929
@@ -797,7 +797,7 @@ BD10092957,4,union,Medua,মেদুয়া,BD10090029,BD10|BD1009|BD10090029
 BD10092976,4,union,Uttar Joynagar,উত্তর জয়নগর,BD10090029,BD10|BD1009|BD10090029,20.366,90.67791,22.58844,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100929
 BD10092985,4,union,Dakshin Joynagar,দক্ষিন জয়নগর,BD10090029,BD10|BD1009|BD10090029,14.817,90.68049,22.55198,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100929
 BD10092995,4,union,Saidpur,সৈয়দপুর,BD10090029,BD10|BD1009|BD10090029,12.608,90.742,22.5731,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100929
-BD10092999,4,paurashava,Paurashava,,BD10090029,BD10|BD1009|BD10090029,2.298,90.74616,22.59978,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100929
+BD10092999,4,paurashava,Daulatkhan Paurashava,,BD10090029,BD10|BD1009|BD10090029,2.298,90.74616,22.59978,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100929
 BD10095416,4,union,Badarpur,বদরপুর,BD10090054,BD10|BD1009|BD10090054,38.002,90.6966,22.37603,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100954
 BD10095419,4,union,Char Bhuta,চরভূতা,BD10090054,BD10|BD1009|BD10090054,28.358,90.76864,22.3257,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100954
 BD10095428,4,union,Dhali Gaurnagar,ধলীগৌর নগর,BD10090054,BD10|BD1009|BD10090054,38.278,90.81501,22.32407,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100954
@@ -807,7 +807,7 @@ BD10095457,4,union,Lalmohan,লালমোহন,BD10090054,BD10|BD1009|BD10090
 BD10095466,4,union,Lord Hardinje,লর্ড হার্ডিঞ্জ,BD10090054,BD10|BD1009|BD10090054,39.083,90.81677,22.25211,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100954
 BD10095470,4,union,Paschim Char Umed,পশ্চিম চর উমেদ,BD10090054,BD10|BD1009|BD10090054,26.851,90.70086,22.26819,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100954
 BD10095476,4,union,Ramganj,রমাগঞ্জ,BD10090054,BD10|BD1009|BD10090054,24.917,90.77214,22.27802,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100954
-BD10095499,4,paurashava,Paurashava,,BD10090054,BD10|BD1009|BD10090054,9.029,90.72876,22.33555,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100954
+BD10095499,4,paurashava,Lalmohan Paurashava,,BD10090054,BD10|BD1009|BD10090054,9.029,90.72876,22.33555,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100954
 BD10096521,4,union,Dakshin Sakuchia,দক্ষিন সাকুচিয়া,BD10090065,BD10|BD1009|BD10090065,51.682,90.92307,22.12831,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100965
 BD10096523,4,union,Hajirhat,হাজীর হাট,BD10090065,BD10|BD1009|BD10090065,62.43,90.97779,22.23877,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100965
 BD10096547,4,union,Manpura,মনপুরা,BD10090065,BD10|BD1009|BD10090065,46.148,90.98294,22.3099,boundaries/districts/BD1009.topo.json#unions,cod-ab-2015,2020-11-13,BD100965
@@ -827,7 +827,7 @@ BD10424066,4,union,Kirtipasha,কীর্তিপাশা,BD10420040,BD10|BD1
 BD10424076,4,union,Nabagram,নবগ্রাম,BD10420040,BD10|BD1042|BD10420040,20.174,90.19185,22.7197,boundaries/districts/BD1042.topo.json#unions,cod-ab-2015,2020-11-13,BD104240
 BD10424085,4,union,Ponabalia,পোনাবালিয়া,BD10420040,BD10|BD1042|BD10420040,20.382,90.19967,22.61453,boundaries/districts/BD1042.topo.json#unions,cod-ab-2015,2020-11-13,BD104240
 BD10424095,4,union,Sekherhat,শেখেরহাট,BD10420040,BD10|BD1042|BD10420040,24.679,90.12268,22.64416,boundaries/districts/BD1042.topo.json#unions,cod-ab-2015,2020-11-13,BD104240
-BD10424099,4,paurashava,Paurashava,,BD10420040,BD10|BD1042|BD10420040,4.052,90.19585,22.64687,boundaries/districts/BD1042.topo.json#unions,cod-ab-2015,2020-11-13,BD104240
+BD10424099,4,paurashava,Jhalokati Sadar Paurashava,,BD10420040,BD10|BD1042|BD10420040,4.052,90.19585,22.64687,boundaries/districts/BD1042.topo.json#unions,cod-ab-2015,2020-11-13,BD104240
 BD10424315,4,union,Amua,আমুয়া,BD10420043,BD10|BD1042|BD10420043,24.903,90.07691,22.37915,boundaries/districts/BD1042.topo.json#unions,cod-ab-2015,2020-11-13,BD104243
 BD10424331,4,union,Adrabunia,আওরাবুনিয়া,BD10420043,BD10|BD1042|BD10420043,23.214,90.15681,22.48338,boundaries/districts/BD1042.topo.json#unions,cod-ab-2015,2020-11-13,BD104243
 BD10424347,4,union,Chenchri Rampur,চেঁচরীরামপুর,BD10420043,BD10|BD1042|BD10420043,35.512,90.06084,22.42583,boundaries/districts/BD1042.topo.json#unions,cod-ab-2015,2020-11-13,BD104243
@@ -844,7 +844,7 @@ BD10427352,4,union,Nachan Mohal,নাচনমহল,BD10420073,BD10|BD1042|BD1
 BD10427373,4,union,Ranapasha,রানাপাশা,BD10420073,BD10|BD1042|BD10420073,19.137,90.20837,22.536,boundaries/districts/BD1042.topo.json#unions,cod-ab-2015,2020-11-13,BD104273
 BD10427384,4,union,Siddhakati,সিদ্ধকাঠী,BD10420073,BD10|BD1042|BD10420073,27.888,90.30407,22.60505,boundaries/districts/BD1042.topo.json#unions,cod-ab-2015,2020-11-13,BD104273
 BD10427394,4,union,Subidpur,সুবিদপুর,BD10420073,BD10|BD1042|BD10420073,17.063,90.26519,22.5524,boundaries/districts/BD1042.topo.json#unions,cod-ab-2015,2020-11-13,BD104273
-BD10427399,4,paurashava,Paurashava,,BD10420073,BD10|BD1042|BD10420073,21.263,90.28322,22.6338,boundaries/districts/BD1042.topo.json#unions,cod-ab-2015,2020-11-13,BD104273
+BD10427399,4,paurashava,Nalchity Paurashava,,BD10420073,BD10|BD1042|BD10420073,21.263,90.28322,22.6338,boundaries/districts/BD1042.topo.json#unions,cod-ab-2015,2020-11-13,BD104273
 BD10428413,4,union,Baruia,বড়ইয়া,BD10420084,BD10|BD1042|BD10420084,25.85,90.17007,22.51899,boundaries/districts/BD1042.topo.json#unions,cod-ab-2015,2020-11-13,BD104284
 BD10428427,4,union,Galua,গালুয়া,BD10420084,BD10|BD1042|BD10420084,30.946,90.10685,22.51435,boundaries/districts/BD1042.topo.json#unions,cod-ab-2015,2020-11-13,BD104284
 BD10428440,4,union,Mathbari,মঠবাড়ী,BD10420084,BD10|BD1042|BD10420084,25.455,90.17303,22.57328,boundaries/districts/BD1042.topo.json#unions,cod-ab-2015,2020-11-13,BD104284
@@ -865,7 +865,7 @@ BD10783877,4,union,Madanpura,মদনপুরা,BD10780038,BD10|BD1078|BD1078
 BD10783883,4,union,Noamala,নওমালা,BD10780038,BD10|BD1078|BD10780038,25.956,90.49909,22.37259,boundaries/districts/BD1078.topo.json#unions,cod-ab-2015,2020-11-13,BD107838
 BD10783889,4,union,Nazirpur,নাজিরপুর,BD10780038,BD10|BD1078|BD10780038,55.587,90.61103,22.4414,boundaries/districts/BD1078.topo.json#unions,cod-ab-2015,2020-11-13,BD107838
 BD10783895,4,union,Surjyamani,সূর্য্যমনি,BD10780038,BD10|BD1078|BD10780038,22.808,90.53225,22.48026,boundaries/districts/BD1078.topo.json#unions,cod-ab-2015,2020-11-13,BD107838
-BD10783899,4,paurashava,Paurashava,,BD10780038,BD10|BD1078|BD10780038,13.561,90.52978,22.41206,boundaries/districts/BD1078.topo.json#unions,cod-ab-2015,2020-11-13,BD107838
+BD10783899,4,paurashava,Bauphal Paurashava,,BD10780038,BD10|BD1078|BD10780038,13.561,90.52978,22.41206,boundaries/districts/BD1078.topo.json#unions,cod-ab-2015,2020-11-13,BD107838
 BD10785210,4,union,Alipur,আলীপুর,BD10780052,BD10|BD1078|BD10780052,35.832,90.52015,22.26978,boundaries/districts/BD1078.topo.json#unions,cod-ab-2015,2020-11-13,BD107852
 BD10785221,4,union,Bahrampur,বহরমপুর,BD10780052,BD10|BD1078|BD10780052,22.266,90.5604,22.33632,boundaries/districts/BD1078.topo.json#unions,cod-ab-2015,2020-11-13,BD107852
 BD10785231,4,union,Banshbaria,বাঁশবাড়ীয়া,BD10780052,BD10|BD1078|BD10780052,35.196,90.58695,22.30722,boundaries/districts/BD1078.topo.json#unions,cod-ab-2015,2020-11-13,BD107852
@@ -893,7 +893,7 @@ BD10785775,4,union,Kalyankalas,,BD10780057,BD10|BD1078|BD10780057,28.026,90.4512
 BD10785778,4,union,Panpatty,পানপট্টি,BD10780057,BD10|BD1078|BD10780057,21.729,90.44297,22.1124,boundaries/districts/BD1078.topo.json#unions,cod-ab-2015,2020-11-13,BD107857
 BD10785783,4,union,Rangabali,রাঙ্গাবালী,BD10780097,BD10|BD1078|BD10780097,86.822,90.42621,21.93297,boundaries/districts/BD1078.topo.json#unions,cod-ab-2015,2020-11-13,BD107857
 BD10785794,4,union,Ratandi Taltali,রতনদী তালতলী,BD10780057,BD10|BD1078|BD10780057,27.322,90.47248,22.15646,boundaries/districts/BD1078.topo.json#unions,cod-ab-2015,2020-11-13,BD107857
-BD10785799,4,paurashava,Paurashava,,BD10780057,BD10|BD1078|BD10780057,6.956,90.41882,22.16282,boundaries/districts/BD1078.topo.json#unions,cod-ab-2015,2020-11-13,BD107857
+BD10785799,4,paurashava,Galachipa Paurashava,,BD10780057,BD10|BD1078|BD10780057,6.956,90.41882,22.16282,boundaries/districts/BD1078.topo.json#unions,cod-ab-2015,2020-11-13,BD107857
 BD10786610,4,union,Baliatali,বালিয়াতলী,BD10780066,BD10|BD1078|BD10780066,41.772,90.22596,21.89363,boundaries/districts/BD1078.topo.json#unions,cod-ab-2015,2020-11-13,BD107866
 BD10786611,4,union,Chakamaiya,চাকামইয়া,BD10780066,BD10|BD1078|BD10780066,35.942,90.22068,22.01925,boundaries/districts/BD1078.topo.json#unions,cod-ab-2015,2020-11-13,BD107866
 BD10786615,4,union,Dalbuganj,ডালবুগঞ্জ,BD10780066,BD10|BD1078|BD10780066,24.842,90.17507,21.88442,boundaries/districts/BD1078.topo.json#unions,cod-ab-2015,2020-11-13,BD107866
@@ -905,7 +905,7 @@ BD10786655,4,union,Dhankhali,ধানখালী,BD10780066,BD10|BD1078|BD1078
 BD10786659,4,union,Mithaganj,মিঠাগঞ্জ,BD10780066,BD10|BD1078|BD10780066,31.041,90.21392,21.93118,boundaries/districts/BD1078.topo.json#unions,cod-ab-2015,2020-11-13,BD107866
 BD10786671,4,union,Nilganj,নীলগঞ্জ,BD10780066,BD10|BD1078|BD10780066,58.141,90.16969,21.94797,boundaries/districts/BD1078.topo.json#unions,cod-ab-2015,2020-11-13,BD107866
 BD10786683,4,union,Tiakhali,টিয়াখালী,BD10780066,BD10|BD1078|BD10780066,26.978,90.264,21.99668,boundaries/districts/BD1078.topo.json#unions,cod-ab-2015,2020-11-13,BD107866
-BD10786699,4,paurashava,Paurashava,,BD10780066,BD10|BD1078|BD10780066,8.704,90.22726,21.9923,boundaries/districts/BD1078.topo.json#unions,cod-ab-2015,2020-11-13,BD107866
+BD10786699,4,paurashava,Kala Para Paurashava,,BD10780066,BD10|BD1078|BD10780066,8.704,90.22726,21.9923,boundaries/districts/BD1078.topo.json#unions,cod-ab-2015,2020-11-13,BD107866
 BD10787613,4,union,Amragachhia,আমড়াগাছিয়া,BD10780076,BD10|BD1078|BD10780076,30.702,90.21676,22.3973,boundaries/districts/BD1078.topo.json#unions,cod-ab-2015,2020-11-13,BD107876
 BD10787627,4,union,Deuli Subidkhali,দেউলী সুবিদখালী,BD10780076,BD10|BD1078|BD10780076,26.785,90.19911,22.34182,boundaries/districts/BD1078.topo.json#unions,cod-ab-2015,2020-11-13,BD107876
 BD10787640,4,union,Karabunia,কাকড়াবুনিয়া,BD10780076,BD10|BD1078|BD10780076,29.187,90.17392,22.30148,boundaries/districts/BD1078.topo.json#unions,cod-ab-2015,2020-11-13,BD107876
@@ -924,7 +924,7 @@ BD10789554,4,union,Lohalia,লোহালিয়া,BD10780095,BD10|BD1078|BD
 BD10789561,4,union,Laukati,লাউকাঠী,BD10780095,BD10|BD1078|BD10780095,32.208,90.356,22.39822,boundaries/districts/BD1078.topo.json#unions,cod-ab-2015,2020-11-13,BD107895
 BD10789567,4,union,Madarbunia,মাদারবুনিয়া,BD10780095,BD10|BD1078|BD10780095,30.731,90.29549,22.32003,boundaries/districts/BD1078.topo.json#unions,cod-ab-2015,2020-11-13,BD107895
 BD10789574,4,union,Marichbunia,মরিচবুনিয়া,BD10780095,BD10|BD1078|BD10780095,28.253,90.29312,22.2741,boundaries/districts/BD1078.topo.json#unions,cod-ab-2015,2020-11-13,BD107895
-BD10789599,4,paurashava,Paurashava,,BD10780095,BD10|BD1078|BD10780095,10.326,90.32577,22.35945,boundaries/districts/BD1078.topo.json#unions,cod-ab-2015,2020-11-13,BD107895
+BD10789599,4,paurashava,Patuakhali Sadar Paurashava,,BD10780095,BD10|BD1078|BD10780095,10.326,90.32577,22.35945,boundaries/districts/BD1078.topo.json#unions,cod-ab-2015,2020-11-13,BD107895
 BD10791411,4,union,Bhandaria,ভান্ডারিয়া সদর,BD10790014,BD10|BD1079|BD10790014,11.793,90.06629,22.48187,boundaries/districts/BD1079.topo.json#unions,cod-ab-2015,2020-11-13,BD107914
 BD10791423,4,union,Bhitabaria,ভিটাবাড়িয়া,BD10790014,BD10|BD1079|BD10790014,19.263,90.04897,22.51828,boundaries/districts/BD1079.topo.json#unions,cod-ab-2015,2020-11-13,BD107914
 BD10791435,4,union,Dhaoa,ধাওয়া,BD10790014,BD10|BD1079|BD10790014,22.766,90.01969,22.45522,boundaries/districts/BD1079.topo.json#unions,cod-ab-2015,2020-11-13,BD107914
@@ -948,7 +948,7 @@ BD10795869,4,union,Mirukhali,মিরুখালী,BD10790058,BD10|BD1079|BD1
 BD10795877,4,union,Sapleza,শাপলেজা,BD10790058,BD10|BD1079|BD10790058,59.605,89.9199,22.19321,boundaries/districts/BD1079.topo.json#unions,cod-ab-2015,2020-11-13,BD107958
 BD10795886,4,union,Tikikata,টিকিকাটা,BD10790058,BD10|BD1079|BD10790058,31.017,89.98782,22.27339,boundaries/districts/BD1079.topo.json#unions,cod-ab-2015,2020-11-13,BD107958
 BD10795894,4,union,Tushkhali,তুষখালী,BD10790058,BD10|BD1079|BD10790058,21.391,89.91545,22.35026,boundaries/districts/BD1079.topo.json#unions,cod-ab-2015,2020-11-13,BD107958
-BD10795899,4,paurashava,Paurashava,,BD10790058,BD10|BD1079|BD10790058,7.499,89.94343,22.29259,boundaries/districts/BD1079.topo.json#unions,cod-ab-2015,2020-11-13,BD107958
+BD10795899,4,paurashava,Mathbaria Paurashava,,BD10790058,BD10|BD1079|BD10790058,7.499,89.94343,22.29259,boundaries/districts/BD1079.topo.json#unions,cod-ab-2015,2020-11-13,BD107958
 BD10797610,4,union,Dirgha,দীর্ঘা,BD10790076,BD10|BD1079|BD10790076,24.74,90.01413,22.7523,boundaries/districts/BD1079.topo.json#unions,cod-ab-2015,2020-11-13,BD107976
 BD10797621,4,union,Purba Deulbaridobra,,BD10790076,BD10|BD1079|BD10790076,49.411,90.01323,22.83807,boundaries/districts/BD1079.topo.json#unions,cod-ab-2015,2020-11-13,BD107976
 BD10797631,4,union,Malikhali,মালিখালী,BD10790076,BD10|BD1079|BD10790076,31.103,89.97433,22.8295,boundaries/districts/BD1079.topo.json#unions,cod-ab-2015,2020-11-13,BD107976
@@ -964,7 +964,7 @@ BD10798069,4,union,Shankarpasha,শংকরপাশা,BD10790080,BD10|BD1079|
 BD10798077,4,union,Sariktala,শরিকতলা,BD10790080,BD10|BD1079|BD10790080,24.55,90.0094,22.57578,boundaries/districts/BD1079.topo.json#unions,cod-ab-2015,2020-11-13,BD107980
 BD10798086,4,union,Sikdar Mallik,শিকদার মল্লিক,BD10790080,BD10|BD1079|BD10790080,23.677,89.93931,22.6618,boundaries/districts/BD1079.topo.json#unions,cod-ab-2015,2020-11-13,BD107980
 BD10798094,4,union,Tona,টোনা,BD10790080,BD10|BD1079|BD10790080,16.127,89.99343,22.61644,boundaries/districts/BD1079.topo.json#unions,cod-ab-2015,2020-11-13,BD107980
-BD10798099,4,paurashava,Paurashava,,BD10790080,BD10|BD1079|BD10790080,15.264,89.97767,22.58298,boundaries/districts/BD1079.topo.json#unions,cod-ab-2015,2020-11-13,BD107980
+BD10798099,4,paurashava,Pirojpur Sadar Paurashava,,BD10790080,BD10|BD1079|BD10790080,15.264,89.97767,22.58298,boundaries/districts/BD1079.topo.json#unions,cod-ab-2015,2020-11-13,BD107980
 BD10798717,4,union,Atghar Kuriana,আটঘর কুড়িয়ানা,BD10790087,BD10|BD1079|BD10790087,19.666,90.15254,22.74242,boundaries/districts/BD1079.topo.json#unions,cod-ab-2015,2020-11-13,BD107987
 BD10798719,4,union,Baldia,বলদিয়া,BD10790087,BD10|BD1079|BD10790087,21.116,90.05423,22.76975,boundaries/districts/BD1079.topo.json#unions,cod-ab-2015,2020-11-13,BD107987
 BD10798728,4,union,Daihari,দৈহারী,BD10790087,BD10|BD1079|BD10790087,16.02,90.03498,22.72026,boundaries/districts/BD1079.topo.json#unions,cod-ab-2015,2020-11-13,BD107987
@@ -975,7 +975,7 @@ BD10798766,4,union,Sarengkati,সারেংকাঠী,BD10790087,BD10|BD1079
 BD10798776,4,union,Sohagdal,সোহাগদল,BD10790087,BD10|BD1079|BD10790087,10.184,90.07353,22.74024,boundaries/districts/BD1079.topo.json#unions,cod-ab-2015,2020-11-13,BD107987
 BD10798785,4,union,Sutiakati,সুটিয়াকাঠী,BD10790087,BD10|BD1079|BD10790087,12.122,90.0883,22.76894,boundaries/districts/BD1079.topo.json#unions,cod-ab-2015,2020-11-13,BD107987
 BD10798795,4,union,Nesarabad (Swarupkati),,BD10790087,BD10|BD1079|BD10790087,7.894,90.12035,22.75519,boundaries/districts/BD1079.topo.json#unions,cod-ab-2015,2020-11-13,BD107987
-BD10798799,4,paurashava,Paurashava,,BD10790087,BD10|BD1079|BD10790087,5.431,90.1031,22.74501,boundaries/districts/BD1079.topo.json#unions,cod-ab-2015,2020-11-13,BD107987
+BD10798799,4,paurashava,Nesarabad (Swarupkati) Paurashava,,BD10790087,BD10|BD1079|BD10790087,5.431,90.1031,22.74501,boundaries/districts/BD1079.topo.json#unions,cod-ab-2015,2020-11-13,BD107987
 BD10799015,4,union,Bali Para,বালিপাড়া,BD10790090,BD10|BD1079|BD10790090,42.215,89.91499,22.42374,boundaries/districts/BD1079.topo.json#unions,cod-ab-2015,2020-11-13,BD107990
 BD10799043,4,union,Parerhat,পাড়েরহাট,BD10790090,BD10|BD1079|BD10790090,22.822,89.96228,22.52133,boundaries/districts/BD1079.topo.json#unions,cod-ab-2015,2020-11-13,BD107990
 BD10799051,4,union,Pattashi,পত্তাশি,BD10790090,BD10|BD1079|BD10790090,36.157,89.95599,22.47745,boundaries/districts/BD1079.topo.json#unions,cod-ab-2015,2020-11-13,BD107990
@@ -4228,7 +4228,7 @@ BD50108543,4,union,Khotta Para,খোট্টাপাড়া,BD50100085,BD50|BD
 BD50108551,4,union,Madla,মাদলা,BD50100085,BD50|BD5010|BD50100085,19.532,89.41981,24.81371,boundaries/districts/BD5010.topo.json#unions,cod-ab-2015,2020-11-13,BD501085
 BD50108556,4,union,Majhira,মাঝিড়া,BD50100085,BD50|BD5010|BD50100085,11.853,89.38357,24.77229,boundaries/districts/BD5010.topo.json#unions,cod-ab-2015,2020-11-13,BD501085
 BD50108590,4,union,Sultanganj (Part),,BD50100085,BD50|BD5010|BD50100085,3.455,89.39785,24.80043,boundaries/districts/BD5010.topo.json#unions,cod-ab-2015,2020-11-13,BD501085
-BD50108599,4,paurashava,Paurashava,,BD50100085,BD50|BD5010|BD50100085,9.826,89.37229,24.8169,boundaries/districts/BD5010.topo.json#unions,cod-ab-2015,2020-11-13,BD501085
+BD50108599,4,paurashava,Bogra Paurashava (Part),,BD50100085,BD50|BD5010|BD50100085,9.826,89.37229,24.8169,boundaries/districts/BD5010.topo.json#unions,cod-ab-2015,2020-11-13,BD501085
 BD50108817,4,union,Bhabanipur,ভবানীপুর,BD50100088,BD50|BD5010|BD50100088,36.936,89.43889,24.57451,boundaries/districts/BD5010.topo.json#unions,cod-ab-2015,2020-11-13,BD501088
 BD50108819,4,union,Bishalpur,বিশালপুর,BD50100088,BD50|BD5010|BD50100088,54.311,89.36731,24.59243,boundaries/districts/BD5010.topo.json#unions,cod-ab-2015,2020-11-13,BD501088
 BD50108828,4,union,Garidaha,গাড়িদহ,BD50100088,BD50|BD5010|BD50100088,26.227,89.41607,24.69858,boundaries/districts/BD5010.topo.json#unions,cod-ab-2015,2020-11-13,BD501088
@@ -4801,7 +4801,7 @@ BD55271047,4,union,Jotbani,জোতবানী,BD55270010,BD55|BD5527|BD552700
 BD55271059,4,union,Katla,কাটলা,BD55270010,BD55|BD5527|BD55270010,15.49,88.96145,25.32297,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552710
 BD55271071,4,union,Khanpur,খানপুর,BD55270010,BD55|BD5527|BD55270010,39.646,89.00712,25.44094,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552710
 BD55271083,4,union,Pali Prayagpur,পলিপ্রয়াগপুর,BD55270010,BD55|BD5527|BD55270010,15.311,88.97736,25.40496,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552710
-BD55271099,4,paurashava,Paurashava,,BD55270010,BD55|BD5527|BD55270010,18.583,88.9959,25.36245,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552710
+BD55271099,4,paurashava,Birampur Paurashava,,BD55270010,BD55|BD5527|BD55270010,18.583,88.9959,25.36245,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552710
 BD55271213,4,union,Bhognagar,ভোগনগর,BD55270012,BD55|BD5527|BD55270012,38.152,88.58391,25.88893,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552712
 BD55271217,4,union,Maricha,মরিচা,BD55270012,BD55|BD5527|BD55270012,37.781,88.63055,25.94827,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552712
 BD55271225,4,union,Mohammadpur,মোহাম্মদপুর,BD55270012,BD55|BD5527|BD55270012,31.69,88.52728,25.90633,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552712
@@ -4813,7 +4813,7 @@ BD55271269,4,union,Shatagram,শতগ্রাম,BD55270012,BD55|BD5527|BD5527
 BD55271277,4,union,Satair,সাতোর,BD55270012,BD55|BD5527|BD55270012,39.449,88.56758,25.93952,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552712
 BD55271286,4,union,Shibrampur,শিবরামপুর,BD55270012,BD55|BD5527|BD55270012,38.374,88.57148,25.99335,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552712
 BD55271294,4,union,Sujalpur,সুজালপুর,BD55270012,BD55|BD5527|BD55270012,25.306,88.61303,25.85062,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552712
-BD55271299,4,paurashava,Paurashava,,BD55270012,BD55|BD5527|BD55270012,15.551,88.64804,25.85209,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552712
+BD55271299,4,paurashava,Birganj Paurashava,,BD55270012,BD55|BD5527|BD55270012,15.551,88.64804,25.85209,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552712
 BD55271713,4,union,Azimpur,আজিমপুর,BD55270017,BD55|BD5527|BD55270017,31.637,88.603,25.72534,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552717
 BD55271719,4,union,Bhandara,ভান্ডারা,BD55270017,BD55|BD5527|BD55270017,38.923,88.47646,25.62386,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552717
 BD55271728,4,union,Biral,বিরল,BD55270017,BD55|BD5527|BD55270017,38.769,88.54288,25.64325,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552717
@@ -4850,16 +4850,16 @@ BD55273847,4,union,Eluary,,BD55270038,BD55|BD5527|BD55270038,41.579,88.85063,25.
 BD55273866,4,union,Kazihal,কাজীহাল,BD55270038,BD55|BD5527|BD55270038,36.951,88.85247,25.42938,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552738
 BD55273876,4,union,Khayerbari,খয়েরবাড়ী,BD55270038,BD55|BD5527|BD55270038,13.72,88.95736,25.45922,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552738
 BD55273884,4,union,Shibnagar,শিবনগর,BD55270038,BD55|BD5527|BD55270038,37.15,88.91902,25.52728,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552738
-BD55273899,4,paurashava,Paurashava,,BD55270038,BD55|BD5527|BD55270038,15.736,88.96895,25.49312,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552738
+BD55273899,4,paurashava,Fulbari Paurashava,,BD55270038,BD55|BD5527|BD55270038,15.736,88.96895,25.49312,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552738
 BD55274319,4,union,Bulakipur,বুলাকীপুর,BD55270043,BD55|BD5527|BD55270043,34.569,89.20375,25.32988,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552743
 BD55274338,4,union,Ghoraghat,ঘোড়াঘাট,BD55270043,BD55|BD5527|BD55270043,15.166,89.21983,25.24727,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552743
 BD55274357,4,union,Palsa,পালশা,BD55270043,BD55|BD5527|BD55270043,40.218,89.17204,25.2783,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552743
 BD55274376,4,union,Singra,সিংড়া,BD55270043,BD55|BD5527|BD55270043,37.558,89.23256,25.28766,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552743
-BD55274399,4,paurashava,Paurashava,,BD55270043,BD55|BD5527|BD55270043,23.29,89.26475,25.2435,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552743
+BD55274399,4,paurashava,Ghoraghat Paurashava,,BD55270043,BD55|BD5527|BD55270043,23.29,89.26475,25.2435,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552743
 BD55274713,4,union,Alihat,আলীহাট,BD55270047,BD55|BD5527|BD55270047,41.158,89.11014,25.2746,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552747
 BD55274740,4,union,Boaldar,বোয়ালদার,BD55270047,BD55|BD5527|BD55270047,26.597,89.04461,25.3063,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552747
 BD55274781,4,union,Khatta Madhab Para,খট্টামাধবপাড়া,BD55270047,BD55|BD5527|BD55270047,16.638,88.99385,25.32362,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552747
-BD55274799,4,paurashava,Paurashava,,BD55270047,BD55|BD5527|BD55270047,15.606,89.02016,25.28387,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552747
+BD55274799,4,paurashava,Hakimpur Paurashava,,BD55270047,BD55|BD5527|BD55270047,15.606,89.02016,25.28387,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552747
 BD55275615,4,union,Dabar,ডাবোর,BD55270056,BD55|BD5527|BD55270056,34.228,88.53275,25.85026,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552756
 BD55275631,4,union,Mukundapur,মুকুন্দপুর,BD55270056,BD55|BD5527|BD55270056,33.839,88.63078,25.80926,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552756
 BD55275647,4,union,Ramchandrapur,রামচন্দ্রপুর,BD55270056,BD55|BD5527|BD55270056,33.245,88.62878,25.76365,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552756
@@ -4882,7 +4882,7 @@ BD55276469,4,union,Shashara,শশরা,BD55270064,BD55|BD5527|BD55270064,27.52
 BD55276477,4,union,Sekhpura,শেখপুরা,BD55270064,BD55|BD5527|BD55270064,32.43,88.68592,25.63956,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552764
 BD55276486,4,union,Sundarban,সুন্দরবন,BD55270064,BD55|BD5527|BD55270064,37.62,88.70643,25.74391,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552764
 BD55276494,4,union,Uthrail,উথরাইল,BD55270064,BD55|BD5527|BD55270064,35.141,88.67902,25.54676,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552764
-BD55276499,4,paurashava,Paurashava,,BD55270064,BD55|BD5527|BD55270064,12.922,88.63669,25.62468,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552764
+BD55276499,4,paurashava,Dinajpur Sadar Paurashava,,BD55270064,BD55|BD5527|BD55270064,12.922,88.63669,25.62468,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552764
 BD55276913,4,union,Bhaduria,ভাদুরিয়া,BD55270069,BD55|BD5527|BD55270069,38.064,89.12334,25.32814,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552769
 BD55276917,4,union,Binodnagar,বিনোদনগর,BD55270069,BD55|BD5527|BD55270069,40.939,89.0989,25.44211,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552769
 BD55276925,4,union,Daudpur,দাউদপুর,BD55270069,BD55|BD5527|BD55270069,39.906,89.12048,25.39411,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552769
@@ -4902,7 +4902,7 @@ BD55277760,4,union,Mominpur,মোমিনপুর,BD55270077,BD55|BD5527|BD55
 BD55277769,4,union,Mostafapur,মোস্তফাপুর,BD55270077,BD55|BD5527|BD55270077,34.941,88.85049,25.56252,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552777
 BD55277777,4,union,Palashbari,পলাশবাড়ী,BD55270077,BD55|BD5527|BD55270077,39.159,88.97039,25.62138,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552777
 BD55277786,4,union,Rampur,রামপুর,BD55270077,BD55|BD5527|BD55270077,32.875,88.94074,25.66392,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552777
-BD55277799,4,paurashava,Paurashava,,BD55270077,BD55|BD5527|BD55270077,5.684,88.91305,25.65473,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552777
+BD55277799,4,paurashava,Parbatipur Paurashava,,BD55270077,BD55|BD5527|BD55270077,5.684,88.91305,25.65473,boundaries/districts/BD5527.topo.json#unions,cod-ab-2015,2020-11-13,BD552777
 BD55322111,4,union,Erendabari,এরেন্ডাবাড়ী,BD55320021,BD55|BD5532|BD55320021,90.336,89.71733,25.30265,boundaries/districts/BD5532.topo.json#unions,cod-ab-2015,2020-11-13,BD553221
 BD55322123,4,union,Fazlupur,ফজলুপুর,BD55320021,BD55|BD5532|BD55320021,74.461,89.66232,25.27155,boundaries/districts/BD5532.topo.json#unions,cod-ab-2015,2020-11-13,BD553221
 BD55322135,4,union,Fulchhari,ফুলছড়ি,BD55320021,BD55|BD5532|BD55320021,50.011,89.63674,25.1603,boundaries/districts/BD5532.topo.json#unions,cod-ab-2015,2020-11-13,BD553221
@@ -4923,7 +4923,7 @@ BD55322480,4,union,Malibari,মালীবাড়ী,BD55320024,BD55|BD5532|BD55
 BD55322485,4,union,Mollar Char,মোল্লারচর,BD55320024,BD55|BD5532|BD55320024,28.538,89.72174,25.37979,boundaries/districts/BD5532.topo.json#unions,cod-ab-2015,2020-11-13,BD553224
 BD55322487,4,union,Ramchandrapur,রামচন্দ্রপুর,BD55320024,BD55|BD5532|BD55320024,21.29,89.50227,25.28989,boundaries/districts/BD5532.topo.json#unions,cod-ab-2015,2020-11-13,BD553224
 BD55322494,4,union,Saha Para,সাহাপাড়া,BD55320024,BD55|BD5532|BD55320024,18.043,89.45485,25.32758,boundaries/districts/BD5532.topo.json#unions,cod-ab-2015,2020-11-13,BD553224
-BD55322499,4,paurashava,Paurashava,,BD55320024,BD55|BD5532|BD55320024,17.274,89.55909,25.33356,boundaries/districts/BD5532.topo.json#unions,cod-ab-2015,2020-11-13,BD553224
+BD55322499,4,paurashava,Gaibandha Sadar Paurashava,,BD55320024,BD55|BD5532|BD55320024,17.274,89.55909,25.33356,boundaries/districts/BD5532.topo.json#unions,cod-ab-2015,2020-11-13,BD553224
 BD55323010,4,union,Darbasta,দরবস্ত ইয়নিয়ন,BD55320030,BD55|BD5532|BD55320030,34.133,89.361,25.19647,boundaries/districts/BD5532.topo.json#unions,cod-ab-2015,2020-11-13,BD553230
 BD55323011,4,union,Fulbari,ফুলবাড়ী,BD55320030,BD55|BD5532|BD55320030,16.825,89.41086,25.15171,boundaries/districts/BD5532.topo.json#unions,cod-ab-2015,2020-11-13,BD553230
 BD55323016,4,union,Gumaniganj,গুমানীগঞ্জ,BD55320030,BD55|BD5532|BD55320030,30.798,89.34943,25.12413,boundaries/districts/BD5532.topo.json#unions,cod-ab-2015,2020-11-13,BD553230
@@ -4941,7 +4941,7 @@ BD55323078,4,union,Sapmara,সাপমারা,BD55320030,BD55|BD5532|BD553200
 BD55323083,4,union,Shakhahar,শাখাহার,BD55320030,BD55|BD5532|BD55320030,35.98,89.24491,25.16933,boundaries/districts/BD5532.topo.json#unions,cod-ab-2015,2020-11-13,BD553230
 BD55323089,4,union,Shibpur,শিবপুর,BD55320030,BD55|BD5532|BD55320030,17.354,89.43237,25.12292,boundaries/districts/BD5532.topo.json#unions,cod-ab-2015,2020-11-13,BD553230
 BD55323094,4,union,Taluk Kanupur,তালুককানুপুর,BD55320030,BD55|BD5532|BD55320030,28.452,89.4016,25.20219,boundaries/districts/BD5532.topo.json#unions,cod-ab-2015,2020-11-13,BD553230
-BD55323099,4,paurashava,Paurashava,,BD55320030,BD55|BD5532|BD55320030,12.736,89.38987,25.13308,boundaries/districts/BD5532.topo.json#unions,cod-ab-2015,2020-11-13,BD553230
+BD55323099,4,paurashava,Gobindaganj Paurashava,,BD55320030,BD55|BD5532|BD55320030,12.736,89.38987,25.13308,boundaries/districts/BD5532.topo.json#unions,cod-ab-2015,2020-11-13,BD553230
 BD55326713,4,union,Barisal,বরিশাল,BD55320067,BD55|BD5532|BD55320067,20.734,89.38603,25.2484,boundaries/districts/BD5532.topo.json#unions,cod-ab-2015,2020-11-13,BD553267
 BD55326719,4,union,Betkapa,বেতকাপা,BD55320067,BD55|BD5532|BD55320067,20.664,89.44565,25.29434,boundaries/districts/BD5532.topo.json#unions,cod-ab-2015,2020-11-13,BD553267
 BD55326728,4,union,Harinathpur,হরিণাথপুর,BD55320067,BD55|BD5532|BD55320067,19.133,89.50287,25.22669,boundaries/districts/BD5532.topo.json#unions,cod-ab-2015,2020-11-13,BD553267
@@ -5021,7 +5021,7 @@ BD55495247,4,union,Jatrapur,যাত্রাপুর,BD55490052,BD55|BD5549|B
 BD55495257,4,union,Kanthalbari,কাঁঠালবাড়ী,BD55490052,BD55|BD5549|BD55490052,18.726,89.59905,25.83135,boundaries/districts/BD5549.topo.json#unions,cod-ab-2015,2020-11-13,BD554952
 BD55495276,4,union,Mogalbachha,মোগলবাসা,BD55490052,BD55|BD5549|BD55490052,32.755,89.6513,25.77802,boundaries/districts/BD5549.topo.json#unions,cod-ab-2015,2020-11-13,BD554952
 BD55495285,4,union,Punchgachhi,পাঁচগাছি,BD55490052,BD55|BD5549|BD55490052,24.011,89.68039,25.79865,boundaries/districts/BD5549.topo.json#unions,cod-ab-2015,2020-11-13,BD554952
-BD55495299,4,paurashava,Paurashava,,BD55490052,BD55|BD5549|BD55490052,9.661,89.65974,25.82253,boundaries/districts/BD5549.topo.json#unions,cod-ab-2015,2020-11-13,BD554952
+BD55495299,4,paurashava,Kurigram Sadar Paurashava,,BD55490052,BD55|BD5549|BD55490052,9.661,89.65974,25.82253,boundaries/districts/BD5549.topo.json#unions,cod-ab-2015,2020-11-13,BD554952
 BD55496111,4,union,Ballabher Khas,বল্লভেরখাস,BD55490061,BD55|BD5549|BD55490061,32.983,89.78663,25.96847,boundaries/districts/BD5549.topo.json#unions,cod-ab-2015,2020-11-13,BD554961
 BD55496112,4,union,Bamandanga,বামনডাঙ্গা,BD55490061,BD55|BD5549|BD55490061,23.382,89.73637,25.99277,boundaries/districts/BD5549.topo.json#unions,cod-ab-2015,2020-11-13,BD554961
 BD55496118,4,union,Berubari,বেরুবাড়ী,BD55490061,BD55|BD5549|BD55490061,19.842,89.74359,25.95848,boundaries/districts/BD5549.topo.json#unions,cod-ab-2015,2020-11-13,BD554961
@@ -5036,7 +5036,7 @@ BD55496175,4,union,Noonkhawa,নুনখাওয়া,BD55490061,BD55|BD5549|BD5
 BD55496182,4,union,Royganj,রায়গঞ্জ,BD55490061,BD55|BD5549|BD55490061,24.319,89.70495,26.01975,boundaries/districts/BD5549.topo.json#unions,cod-ab-2015,2020-11-13,BD554961
 BD55496188,4,union,Ramkhana,রামখানা,BD55490061,BD55|BD5549|BD55490061,26.851,89.62807,26.04162,boundaries/districts/BD5549.topo.json#unions,cod-ab-2015,2020-11-13,BD554961
 BD55496194,4,union,Santoshpur,সন্তোষপুর,BD55490061,BD55|BD5549|BD55490061,29.899,89.6556,26.01266,boundaries/districts/BD5549.topo.json#unions,cod-ab-2015,2020-11-13,BD554961
-BD55496199,4,paurashava,Paurashava,,BD55490061,BD55|BD5549|BD55490061,45.726,89.68731,25.96348,boundaries/districts/BD5549.topo.json#unions,cod-ab-2015,2020-11-13,BD554961
+BD55496199,4,paurashava,Nageshwari Paurashava,,BD55490061,BD55|BD5549|BD55490061,45.726,89.68731,25.96348,boundaries/districts/BD5549.topo.json#unions,cod-ab-2015,2020-11-13,BD554961
 BD55497710,4,union,Bidyananda,বিদ্যানন্দ,BD55490077,BD55|BD5549|BD55490077,21.459,89.51124,25.75049,boundaries/districts/BD5549.topo.json#unions,cod-ab-2015,2020-11-13,BD554977
 BD55497721,4,union,Chakirpashar,চাকিরপশার,BD55490077,BD55|BD5549|BD55490077,23.373,89.56137,25.78581,boundaries/districts/BD5549.topo.json#unions,cod-ab-2015,2020-11-13,BD554977
 BD55497731,4,union,Chhinai,ছিনাই,BD55490077,BD55|BD5549|BD55490077,24.872,89.55678,25.84804,boundaries/districts/BD5549.topo.json#unions,cod-ab-2015,2020-11-13,BD554977
@@ -5062,7 +5062,7 @@ BD55499472,4,union,Pandul,পান্ডুল,BD55490094,BD55|BD5549|BD5549009
 BD55499475,4,union,Saheber Alga,সাহেবের আলগা,BD55490094,BD55|BD5549|BD55490094,99.442,89.80441,25.73961,boundaries/districts/BD5549.topo.json#unions,cod-ab-2015,2020-11-13,BD554994
 BD55499478,4,union,Tabakpur,তবকপুর,BD55490094,BD55|BD5549|BD55490094,25.482,89.62427,25.61265,boundaries/districts/BD5549.topo.json#unions,cod-ab-2015,2020-11-13,BD554994
 BD55499483,4,union,Thetroy,থেতরাই,BD55490094,BD55|BD5549|BD55490094,27.409,89.54303,25.66085,boundaries/districts/BD5549.topo.json#unions,cod-ab-2015,2020-11-13,BD554994
-BD55499499,4,paurashava,Paurashava,,BD55490094,BD55|BD5549|BD55490094,20.32,89.59374,25.67995,boundaries/districts/BD5549.topo.json#unions,cod-ab-2015,2020-11-13,BD554994
+BD55499499,4,paurashava,Ulipur Paurashava,,BD55490094,BD55|BD5549|BD55490094,20.32,89.59374,25.67995,boundaries/districts/BD5549.topo.json#unions,cod-ab-2015,2020-11-13,BD554994
 BD55520210,4,union,Bhadai,ভাদাই,BD55520002,BD55|BD5552|BD55520002,21.767,89.35283,25.91427,boundaries/districts/BD5552.topo.json#unions,cod-ab-2015,2020-11-13,BD555202
 BD55520211,4,union,Bhelabari,ভেলাবাড়ী,BD55520002,BD55|BD5552|BD55520002,23.995,89.38307,25.99092,boundaries/districts/BD5552.topo.json#unions,cod-ab-2015,2020-11-13,BD555202
 BD55520241,4,union,Durgapur,দূর্গাপুর,BD55520002,BD55|BD5552|BD55520002,36.626,89.41941,25.99876,boundaries/districts/BD5552.topo.json#unions,cod-ab-2015,2020-11-13,BD555202
@@ -5100,7 +5100,7 @@ BD55525565,4,union,Mogalhat,মোগলহাট,BD55520055,BD55|BD5552|BD55520
 BD55525573,4,union,Mahendranagar,মহেন্দ্রনগর,BD55520055,BD55|BD5552|BD55520055,32.982,89.46399,25.87498,boundaries/districts/BD5552.topo.json#unions,cod-ab-2015,2020-11-13,BD555255
 BD55525583,4,union,Panchagram,পঞ্চগ্রাম,BD55520055,BD55|BD5552|BD55520055,27.507,89.50803,25.836,boundaries/districts/BD5552.topo.json#unions,cod-ab-2015,2020-11-13,BD555255
 BD55525594,4,union,Rajpur,রাজপুর,BD55520055,BD55|BD5552|BD55520055,28.528,89.40217,25.8195,boundaries/districts/BD5552.topo.json#unions,cod-ab-2015,2020-11-13,BD555255
-BD55525599,4,paurashava,Paurashava,,BD55520055,BD55|BD5552|BD55520055,18.039,89.44837,25.91051,boundaries/districts/BD5552.topo.json#unions,cod-ab-2015,2020-11-13,BD555255
+BD55525599,4,paurashava,Lalmonirhat Sadar Paurashava,,BD55520055,BD55|BD5552|BD55520055,18.039,89.44837,25.91051,boundaries/districts/BD5552.topo.json#unions,cod-ab-2015,2020-11-13,BD555255
 BD55527013,4,union,Baura,বাউড়া,BD55520070,BD55|BD5552|BD55520070,37.483,89.07812,26.25771,boundaries/districts/BD5552.topo.json#unions,cod-ab-2015,2020-11-13,BD555270
 BD55527015,4,union,Burimari,বুড়িমারী,BD55520070,BD55|BD5552|BD55520070,24.243,88.941,26.37464,boundaries/districts/BD5552.topo.json#unions,cod-ab-2015,2020-11-13,BD555270
 BD55527019,4,union,Dahagram,দহগ্রাম,BD55520070,BD55|BD5552|BD55520070,19.099,88.94381,26.29917,boundaries/districts/BD5552.topo.json#unions,cod-ab-2015,2020-11-13,BD555270
@@ -5109,7 +5109,7 @@ BD55527040,4,union,Jongra,জোংড়া,BD55520070,BD55|BD5552|BD55520070,37.2
 BD55527054,4,union,Kuchlibari,কুচলিবাড়ী,BD55520070,BD55|BD5552|BD55520070,28.286,89.012,26.31776,boundaries/districts/BD5552.topo.json#unions,cod-ab-2015,2020-11-13,BD555270
 BD55527067,4,union,Patgram,পাটগ্রাম,BD55520070,BD55|BD5552|BD55520070,40.024,89.00015,26.36495,boundaries/districts/BD5552.topo.json#unions,cod-ab-2015,2020-11-13,BD555270
 BD55527081,4,union,Sreerampur,শ্রীরামপুর,BD55520070,BD55|BD5552|BD55520070,41.725,88.9663,26.41299,boundaries/districts/BD5552.topo.json#unions,cod-ab-2015,2020-11-13,BD555270
-BD55527099,4,paurashava,Paurashava,,BD55520070,BD55|BD5552|BD55520070,7.343,89.02844,26.33996,boundaries/districts/BD5552.topo.json#unions,cod-ab-2015,2020-11-13,BD555270
+BD55527099,4,paurashava,Patgram Paurashava,,BD55520070,BD55|BD5552|BD55520070,7.343,89.02844,26.33996,boundaries/districts/BD5552.topo.json#unions,cod-ab-2015,2020-11-13,BD555270
 BD55731213,4,union,Bala Para,বালাপাড়া,BD55730012,BD55|BD5573|BD55730012,41.116,88.89857,26.18982,boundaries/districts/BD5573.topo.json#unions,cod-ab-2015,2020-11-13,BD557312
 BD55731219,4,union,Dimla,ডিমলা সদর,BD55730012,BD55|BD5573|BD55730012,43.292,88.93816,26.13438,boundaries/districts/BD5573.topo.json#unions,cod-ab-2015,2020-11-13,BD557312
 BD55731228,4,union,Gayabari,গয়াবাড়ী,BD55730012,BD55|BD5573|BD55730012,20.906,88.96741,26.19977,boundaries/districts/BD5573.topo.json#unions,cod-ab-2015,2020-11-13,BD557312
@@ -5130,7 +5130,7 @@ BD55731566,4,union,Jorabari,জোড়াবাড়ী,BD55730015,BD55|BD557
 BD55731576,4,union,Ketkibari,কেতকীবাড়ী,BD55730015,BD55|BD5573|BD55730015,19.524,88.80891,26.22477,boundaries/districts/BD5573.topo.json#unions,cod-ab-2015,2020-11-13,BD557315
 BD55731585,4,union,Panga Matukpur,পাংগা মটকপুর,BD55730015,BD55|BD5573|BD55730015,25.002,88.87179,26.1123,boundaries/districts/BD5573.topo.json#unions,cod-ab-2015,2020-11-13,BD557315
 BD55731595,4,union,Sonaroy,সোনারায়,BD55730015,BD55|BD5573|BD55730015,28.698,88.7985,26.06761,boundaries/districts/BD5573.topo.json#unions,cod-ab-2015,2020-11-13,BD557315
-BD55731599,4,paurashava,Paurashava,,BD55730015,BD55|BD5573|BD55730015,14.325,88.82478,26.09268,boundaries/districts/BD5573.topo.json#unions,cod-ab-2015,2020-11-13,BD557315
+BD55731599,4,paurashava,Domar Paurashava,,BD55730015,BD55|BD5573|BD55730015,14.325,88.82478,26.09268,boundaries/districts/BD5573.topo.json#unions,cod-ab-2015,2020-11-13,BD557315
 BD55733613,4,union,Balagram,বালাগ্রাম,BD55730036,BD55|BD5573|BD55730036,28.363,89.00119,26.05986,boundaries/districts/BD5573.topo.json#unions,cod-ab-2015,2020-11-13,BD557336
 BD55733614,4,union,Daoabari,ডাউয়াবাড়ী,BD55730036,BD55|BD5573|BD55730036,23.044,89.08066,26.07566,boundaries/districts/BD5573.topo.json#unions,cod-ab-2015,2020-11-13,BD557336
 BD55733621,4,union,Dharmapal,ধর্মপাল,BD55730036,BD55|BD5573|BD55730036,27.242,88.89322,26.07166,boundaries/districts/BD5573.topo.json#unions,cod-ab-2015,2020-11-13,BD557336
@@ -5142,7 +5142,7 @@ BD55733665,4,union,Khutamara,খুটামারা,BD55730036,BD55|BD5573|BD5
 BD55733680,4,union,Mirganj,মীরগঞ্জ,BD55730036,BD55|BD5573|BD55730036,20.555,88.94183,26.02284,boundaries/districts/BD5573.topo.json#unions,cod-ab-2015,2020-11-13,BD557336
 BD55733687,4,union,Shimulbari,শিমুলবাড়ী,BD55730036,BD55|BD5573|BD55730036,23.899,88.90516,26.02658,boundaries/districts/BD5573.topo.json#unions,cod-ab-2015,2020-11-13,BD557336
 BD55733694,4,union,Saulmari,শৌলমারী,BD55730036,BD55|BD5573|BD55730036,23.787,89.08382,26.00643,boundaries/districts/BD5573.topo.json#unions,cod-ab-2015,2020-11-13,BD557336
-BD55733699,4,paurashava,Paurashava,,BD55730036,BD55|BD5573|BD55730036,27.37,89.02011,26.01239,boundaries/districts/BD5573.topo.json#unions,cod-ab-2015,2020-11-13,BD557336
+BD55733699,4,paurashava,Jaldhaka Paurashava,,BD55730036,BD55|BD5573|BD55730036,27.37,89.02011,26.01239,boundaries/districts/BD5573.topo.json#unions,cod-ab-2015,2020-11-13,BD557336
 BD55734517,4,union,Bahagili,বাহাগিলি,BD55730045,BD55|BD5573|BD55730045,23.575,89.00137,25.85888,boundaries/districts/BD5573.topo.json#unions,cod-ab-2015,2020-11-13,BD557345
 BD55734525,4,union,Barabhita,বড়ভিটা,BD55730045,BD55|BD5573|BD55730045,22.397,89.02602,25.95369,boundaries/districts/BD5573.topo.json#unions,cod-ab-2015,2020-11-13,BD557345
 BD55734534,4,union,Chandkhana,চাঁদখানা,BD55730045,BD55|BD5573|BD55730045,22.975,89.04066,25.84002,boundaries/districts/BD5573.topo.json#unions,cod-ab-2015,2020-11-13,BD557345
@@ -5167,13 +5167,13 @@ BD55736475,4,union,Ramnagar,রামনগর,BD55730064,BD55|BD5573|BD55730064
 BD55736482,4,union,Sangalshi,সংগলশী,BD55730064,BD55|BD5573|BD55730064,19.413,88.87115,25.84501,boundaries/districts/BD5573.topo.json#unions,cod-ab-2015,2020-11-13,BD557364
 BD55736488,4,union,Sonaroy,সোনারায়,BD55730064,BD55|BD5573|BD55730064,24.959,88.84241,25.85436,boundaries/districts/BD5573.topo.json#unions,cod-ab-2015,2020-11-13,BD557364
 BD55736494,4,union,Tupamari,টুপামারী,BD55730064,BD55|BD5573|BD55730064,20.982,88.86847,25.98345,boundaries/districts/BD5573.topo.json#unions,cod-ab-2015,2020-11-13,BD557364
-BD55736499,4,paurashava,Paurashava,,BD55730064,BD55|BD5573|BD55730064,21.826,88.84031,25.93324,boundaries/districts/BD5573.topo.json#unions,cod-ab-2015,2020-11-13,BD557364
+BD55736499,4,paurashava,Nilphamari Sadar Paurashava,,BD55730064,BD55|BD5573|BD55730064,21.826,88.84031,25.93324,boundaries/districts/BD5573.topo.json#unions,cod-ab-2015,2020-11-13,BD557364
 BD55738523,4,union,Bangalipur,বাঙ্গালীপুর,BD55730085,BD55|BD5573|BD55730085,18.755,88.92166,25.75313,boundaries/districts/BD5573.topo.json#unions,cod-ab-2015,2020-11-13,BD557385
 BD55738527,4,union,Bothlagari,বোতলাগাড়ী,BD55730085,BD55|BD5573|BD55730085,27.342,88.89446,25.82406,boundaries/districts/BD5573.topo.json#unions,cod-ab-2015,2020-11-13,BD557385
 BD55738540,4,union,Kamar Pukur,কামারপুকুর,BD55730085,BD55|BD5573|BD55730085,20.21,88.93006,25.78803,boundaries/districts/BD5573.topo.json#unions,cod-ab-2015,2020-11-13,BD557385
 BD55738554,4,union,Khata Madhupur,খাতা মধুপুর,BD55730085,BD55|BD5573|BD55730085,20.115,88.96817,25.84191,boundaries/districts/BD5573.topo.json#unions,cod-ab-2015,2020-11-13,BD557385
 BD55738567,4,union,Kushiram Belpukur,কাশিরাম বেলপুকুর,BD55730085,BD55|BD5573|BD55730085,21.774,88.9346,25.83059,boundaries/districts/BD5573.topo.json#unions,cod-ab-2015,2020-11-13,BD557385
-BD55738599,4,paurashava,Paurashava,,BD55730085,BD55|BD5573|BD55730085,11.663,88.88994,25.78569,boundaries/districts/BD5573.topo.json#unions,cod-ab-2015,2020-11-13,BD557385
+BD55738599,4,paurashava,Saidpur Paurashava,,BD55730085,BD55|BD5573|BD55730085,11.663,88.88994,25.78569,boundaries/districts/BD5573.topo.json#unions,cod-ab-2015,2020-11-13,BD557385
 BD55770413,4,union,Alowa Khowa,আলোয়াখোয়া,BD55770004,BD55|BD5577|BD55770004,37.327,88.36741,26.21089,boundaries/districts/BD5577.topo.json#unions,cod-ab-2015,2020-11-13,BD557704
 BD55770427,4,union,Balarampur,বলরামপুর,BD55770004,BD55|BD5577|BD55770004,30.354,88.52992,26.20763,boundaries/districts/BD5577.topo.json#unions,cod-ab-2015,2020-11-13,BD557704
 BD55770440,4,union,Dhamor,ধামোর,BD55770004,BD55|BD5577|BD55770004,34.946,88.41376,26.30022,boundaries/districts/BD5577.topo.json#unions,cod-ab-2015,2020-11-13,BD557704
@@ -5190,7 +5190,7 @@ BD55772573,4,union,Maidan Dighi,ময়দান দীঘি,BD55770025,BD55|
 BD55772580,4,union,Marea Bamanhat,মাড়েয়া বামনহাট,BD55770025,BD55|BD5577|BD55770025,29.877,88.64801,26.23277,boundaries/districts/BD5577.topo.json#unions,cod-ab-2015,2020-11-13,BD557725
 BD55772587,4,union,Panchpir,পাচপীর,BD55770025,BD55|BD5577|BD55770025,26.626,88.63253,26.13941,boundaries/districts/BD5577.topo.json#unions,cod-ab-2015,2020-11-13,BD557725
 BD55772594,4,union,Sakoa,সাকোয়া,BD55770025,BD55|BD5577|BD55770025,24.784,88.63451,26.19269,boundaries/districts/BD5577.topo.json#unions,cod-ab-2015,2020-11-13,BD557725
-BD55772599,4,paurashava,Paurashava,,BD55770025,BD55|BD5577|BD55770025,11.609,88.56483,26.20569,boundaries/districts/BD5577.topo.json#unions,cod-ab-2015,2020-11-13,BD557725
+BD55772599,4,paurashava,Boda Paurashava,,BD55770025,BD55|BD5577|BD55770025,11.609,88.56483,26.20569,boundaries/districts/BD5577.topo.json#unions,cod-ab-2015,2020-11-13,BD557725
 BD55773419,4,union,Chilahati,চিলাহাটি,BD55770034,BD55|BD5577|BD55770034,48.929,88.74214,26.23907,boundaries/districts/BD5577.topo.json#unions,cod-ab-2015,2020-11-13,BD557734
 BD55773428,4,union,Dandapal,দন্ডপাল,BD55770034,BD55|BD5577|BD55770034,25.431,88.68551,26.09367,boundaries/districts/BD5577.topo.json#unions,cod-ab-2015,2020-11-13,BD557734
 BD55773438,4,union,Debidoba,দেবীডুবা,BD55770034,BD55|BD5577|BD55770034,34.964,88.72745,26.12098,boundaries/districts/BD5577.topo.json#unions,cod-ab-2015,2020-11-13,BD557734
@@ -5211,7 +5211,7 @@ BD55777359,4,union,Kamat Kajal Dighi,কামাত কাজল দীঘি,B
 BD55777365,4,union,Magura,মাগুরা,BD55770073,BD55|BD5577|BD55770073,33.129,88.503,26.29444,boundaries/districts/BD5577.topo.json#unions,cod-ab-2015,2020-11-13,BD557773
 BD55777371,4,union,Panchagarh,পঞ্চগড় সদর,BD55770073,BD55|BD5577|BD55770073,33.695,88.56692,26.37659,boundaries/districts/BD5577.topo.json#unions,cod-ab-2015,2020-11-13,BD557773
 BD55777383,4,union,Satmara,সাতমেরা,BD55770073,BD55|BD5577|BD55770073,45.513,88.53404,26.40863,boundaries/districts/BD5577.topo.json#unions,cod-ab-2015,2020-11-13,BD557773
-BD55777399,4,paurashava,Paurashava,,BD55770073,BD55|BD5577|BD55770073,10.352,88.57109,26.33233,boundaries/districts/BD5577.topo.json#unions,cod-ab-2015,2020-11-13,BD557773
+BD55777399,4,paurashava,Panchagarh Sadar Paurashava,,BD55770073,BD55|BD5577|BD55770073,10.352,88.57109,26.33233,boundaries/districts/BD5577.topo.json#unions,cod-ab-2015,2020-11-13,BD557773
 BD55779013,4,union,Banglabandha,বাংলাবান্ধা,BD55770090,BD55|BD5577|BD55770090,21.166,88.40178,26.59113,boundaries/districts/BD5577.topo.json#unions,cod-ab-2015,2020-11-13,BD557790
 BD55779027,4,union,Bhojanpur,ভজনপুর,BD55770090,BD55|BD5577|BD55770090,14.602,88.47963,26.51416,boundaries/districts/BD5577.topo.json#unions,cod-ab-2015,2020-11-13,BD557790
 BD55779040,4,union,Bhojanpur Debnagar,,BD55770090,BD55|BD5577|BD55770090,32.703,88.50532,26.46194,boundaries/districts/BD5577.topo.json#unions,cod-ab-2015,2020-11-13,BD557790
@@ -5229,7 +5229,7 @@ BD55850369,4,union,Lohani Para,লোহানীপাড়া,BD55850003,BD55|BD
 BD55850375,4,union,Madhupur,মধুপুর,BD55850003,BD55|BD5585|BD55850003,27.89,89.08634,25.69696,boundaries/districts/BD5585.topo.json#unions,cod-ab-2015,2020-11-13,BD558503
 BD55850382,4,union,Radhanagar,রাধানগর,BD55850003,BD55|BD5585|BD55850003,22.411,89.00115,25.72309,boundaries/districts/BD5585.topo.json#unions,cod-ab-2015,2020-11-13,BD558503
 BD55850388,4,union,Ramnathpur,রামনাথপুর,BD55850003,BD55|BD5585|BD55850003,32.574,89.01089,25.66422,boundaries/districts/BD5585.topo.json#unions,cod-ab-2015,2020-11-13,BD558503
-BD55850399,4,paurashava,Paurashava,,BD55850003,BD55|BD5585|BD55850003,4.138,89.05715,25.66812,boundaries/districts/BD5585.topo.json#unions,cod-ab-2015,2020-11-13,BD558503
+BD55850399,4,paurashava,Badarganj Paurashava,,BD55850003,BD55|BD5585|BD55850003,4.138,89.05715,25.66812,boundaries/districts/BD5585.topo.json#unions,cod-ab-2015,2020-11-13,BD558503
 BD55852716,4,union,Alam Biditar,আলমবিদিতর,BD55850027,BD55|BD5585|BD55850027,29.796,89.14093,25.90716,boundaries/districts/BD5585.topo.json#unions,cod-ab-2015,2020-11-13,BD558527
 BD55852719,4,union,Barabil,বড়বিল,BD55850027,BD55|BD5585|BD55850027,33.729,89.17642,25.85428,boundaries/districts/BD5585.topo.json#unions,cod-ab-2015,2020-11-13,BD558527
 BD55852721,4,union,Betgari,বেতগাড়ী,BD55850027,BD55|BD5585|BD55850027,22.323,89.12508,25.87236,boundaries/districts/BD5585.topo.json#unions,cod-ab-2015,2020-11-13,BD558527
@@ -5246,7 +5246,7 @@ BD55854240,4,union,Kursha,কুর্শা,BD55850042,BD55|BD5585|BD55850042,2
 BD55854254,4,union,Sarai,সারাই,BD55850042,BD55|BD5585|BD55850042,13.863,89.31927,25.76993,boundaries/districts/BD5585.topo.json#unions,cod-ab-2015,2020-11-13,BD558542
 BD55854267,4,union,Shahidbagh,শহীদবাগ,BD55850042,BD55|BD5585|BD55850042,12.275,89.38394,25.77529,boundaries/districts/BD5585.topo.json#unions,cod-ab-2015,2020-11-13,BD558542
 BD55854281,4,union,Tepa Madhupur,টেপামধুপুর,BD55850042,BD55|BD5585|BD55850042,34.532,89.46231,25.73737,boundaries/districts/BD5585.topo.json#unions,cod-ab-2015,2020-11-13,BD558542
-BD55854299,4,paurashava,Paurashava,,BD55850042,BD55|BD5585|BD55850042,14.208,89.33226,25.80501,boundaries/districts/BD5585.topo.json#unions,cod-ab-2015,2020-11-13,BD558542
+BD55854299,4,paurashava,Kaunia Paurashava,,BD55850042,BD55|BD5585|BD55850042,14.208,89.33226,25.80501,boundaries/districts/BD5585.topo.json#unions,cod-ab-2015,2020-11-13,BD558542
 BD55854917,4,union,Chandanpat,চন্দনপাট,BD55850049,BD55|BD5585|BD55850049,28.933,89.15835,25.72241,boundaries/districts/BD5585.topo.json#unions,cod-ab-2015,2020-11-13,BD558549
 BD55854919,4,union,Darshana,দর্শানা,BD55857500,BD55|BD5585|BD55857500,12.577,89.24816,25.69552,boundaries/districts/BD5585.topo.json#unions,cod-ab-2015,2020-11-13,BD558549
 BD55854923,4,union,Haridebpur,হরিদেবপুর,BD55850049,BD55|BD5585|BD55850049,29.362,89.15957,25.79683,boundaries/districts/BD5585.topo.json#unions,cod-ab-2015,2020-11-13,BD558549
@@ -5258,7 +5258,7 @@ BD55854971,4,union,Satgara,সাতগারা,BD55857500,BD55|BD5585|BD558575
 BD55854979,4,union,Tamphat,তামপাট,BD55857500,BD55|BD5585|BD55857500,27.291,89.29064,25.69583,boundaries/districts/BD5585.topo.json#unions,cod-ab-2015,2020-11-13,BD558549
 BD55854987,4,union,Tapodhan,তপোধন,BD55857500,BD55|BD5585|BD55857500,27.626,89.29338,25.78602,boundaries/districts/BD5585.topo.json#unions,cod-ab-2015,2020-11-13,BD558549
 BD55854994,4,union,Uttam,উত্তম,BD55857500,BD55|BD5585|BD55857500,23.411,89.20973,25.80229,boundaries/districts/BD5585.topo.json#unions,cod-ab-2015,2020-11-13,BD558549
-BD55854999,4,paurashava,Paurashava,,BD55857500,BD55|BD5585|BD55857500,37.22,89.26041,25.74166,boundaries/districts/BD5585.topo.json#unions,cod-ab-2015,2020-11-13,BD558549
+BD55854999,4,paurashava,Rangpur Sadar Paurashava,,BD55857500,BD55|BD5585|BD55857500,37.22,89.26041,25.74166,boundaries/districts/BD5585.topo.json#unions,cod-ab-2015,2020-11-13,BD558549
 BD55855817,4,union,Balua Masimpur,বালুয়া মাসিমপুর,BD55850058,BD55|BD5585|BD55850058,30.714,89.16173,25.54547,boundaries/districts/BD5585.topo.json#unions,cod-ab-2015,2020-11-13,BD558558
 BD55855821,4,union,Barabala,বড়বালা,BD55850058,BD55|BD5585|BD55850058,24.183,89.12097,25.52669,boundaries/districts/BD5585.topo.json#unions,cod-ab-2015,2020-11-13,BD558558
 BD55855826,4,union,Bara Hazratpur,বড় হযরতপুর,BD55850058,BD55|BD5585|BD55850058,33.535,89.32422,25.54565,boundaries/districts/BD5585.topo.json#unions,cod-ab-2015,2020-11-13,BD558558
@@ -5329,7 +5329,7 @@ BD55948269,4,union,Kusha Raniganj,কোষারাণীগঞ্জ,BD5594008
 BD55948277,4,union,Pirganj,পীরগঞ্জ,BD55940082,BD55|BD5594|BD55940082,22.797,88.32263,25.87682,boundaries/districts/BD5594.topo.json#unions,cod-ab-2015,2020-11-13,BD559482
 BD55948286,4,union,Saidpur,সৈয়দপুর,BD55940082,BD55|BD5594|BD55940082,35.415,88.45371,25.88795,boundaries/districts/BD5594.topo.json#unions,cod-ab-2015,2020-11-13,BD559482
 BD55948294,4,union,Sengaon,সেনগাঁও,BD55940082,BD55|BD5594|BD55940082,34.688,88.3059,25.78971,boundaries/districts/BD5594.topo.json#unions,cod-ab-2015,2020-11-13,BD559482
-BD55948299,4,paurashava,Paurashava,,BD55940082,BD55|BD5594|BD55940082,21.676,88.35411,25.86291,boundaries/districts/BD5594.topo.json#unions,cod-ab-2015,2020-11-13,BD559482
+BD55948299,4,paurashava,Pirganj Paurashava,,BD55940082,BD55|BD5594|BD55940082,21.676,88.35411,25.86291,boundaries/districts/BD5594.topo.json#unions,cod-ab-2015,2020-11-13,BD559482
 BD55948615,4,union,Bachor,বাচোর,BD55940086,BD55|BD5594|BD55940086,35.447,88.29277,25.91432,boundaries/districts/BD5594.topo.json#unions,cod-ab-2015,2020-11-13,BD559486
 BD55948631,4,union,Dharmagarh,ধর্মগড়,BD55940086,BD55|BD5594|BD55940086,54.636,88.19427,25.99483,boundaries/districts/BD5594.topo.json#unions,cod-ab-2015,2020-11-13,BD559486
 BD55948647,4,union,Hossain Gaon,হোসেনগাঁও,BD55940086,BD55|BD5594|BD55940086,33.02,88.21993,25.87526,boundaries/districts/BD5594.topo.json#unions,cod-ab-2015,2020-11-13,BD559486
@@ -5338,7 +5338,7 @@ BD55948663,4,union,Lehemba,লেহেম্বা,BD55940086,BD55|BD5594|BD559
 BD55948671,4,union,Nonduar,নন্দুয়ার,BD55940086,BD55|BD5594|BD55940086,38.684,88.22442,25.93015,boundaries/districts/BD5594.topo.json#unions,cod-ab-2015,2020-11-13,BD559486
 BD55948679,4,union,Nekmarad,নেকমরদ,BD55940086,BD55|BD5594|BD55940086,39.808,88.25474,25.9777,boundaries/districts/BD5594.topo.json#unions,cod-ab-2015,2020-11-13,BD559486
 BD55948687,4,union,Rator,রাতোর,BD55940086,BD55|BD5594|BD55940086,32.538,88.31184,25.96686,boundaries/districts/BD5594.topo.json#unions,cod-ab-2015,2020-11-13,BD559486
-BD55948699,4,paurashava,Paurashava,,BD55940086,BD55|BD5594|BD55940086,5.573,88.26089,25.89255,boundaries/districts/BD5594.topo.json#unions,cod-ab-2015,2020-11-13,BD559486
+BD55948699,4,paurashava,Ranisankail Paurashava,,BD55940086,BD55|BD5594|BD55940086,5.573,88.26089,25.89255,boundaries/districts/BD5594.topo.json#unions,cod-ab-2015,2020-11-13,BD559486
 BD55949413,4,union,Akhanagar,আখানগর,BD55940094,BD55|BD5594|BD55940094,36.401,88.3784,26.11752,boundaries/districts/BD5594.topo.json#unions,cod-ab-2015,2020-11-13,BD559494
 BD55949414,4,union,Akcha,আকচা,BD55940094,BD55|BD5594|BD55940094,39.066,88.43606,26.08932,boundaries/districts/BD5594.topo.json#unions,cod-ab-2015,2020-11-13,BD559494
 BD55949415,4,union,Auliapur,আউলিয়াপুর,BD55940094,BD55|BD5594|BD55940094,36.76,88.5233,26.09319,boundaries/districts/BD5594.topo.json#unions,cod-ab-2015,2020-11-13,BD559494
@@ -5358,7 +5358,7 @@ BD55949479,4,union,Rajagaon,রাজাগাঁও,BD55940094,BD55|BD5594|BD55
 BD55949484,4,union,Ruhea,রুহিয়া,BD55940094,BD55|BD5594|BD55940094,37.462,88.40031,26.17083,boundaries/districts/BD5594.topo.json#unions,cod-ab-2015,2020-11-13,BD559494
 BD55949489,4,union,Salandar,সালন্দর,BD55940094,BD55|BD5594|BD55940094,40.084,88.4927,26.05555,boundaries/districts/BD5594.topo.json#unions,cod-ab-2015,2020-11-13,BD559494
 BD55949494,4,union,Sukhanpukhari,শুখানপুকুরী,BD55940094,BD55|BD5594|BD55940094,37.07,88.61014,26.09445,boundaries/districts/BD5594.topo.json#unions,cod-ab-2015,2020-11-13,BD559494
-BD55949499,4,paurashava,Paurashava,,BD55940094,BD55|BD5594|BD55940094,3.125,88.4627,26.03182,boundaries/districts/BD5594.topo.json#unions,cod-ab-2015,2020-11-13,BD559494
+BD55949499,4,paurashava,Thakurgaon Sadar Paurashava,,BD55940094,BD55|BD5594|BD55940094,3.125,88.4627,26.03182,boundaries/districts/BD5594.topo.json#unions,cod-ab-2015,2020-11-13,BD559494
 BD60360213,4,union,Ajmiriganj,আজমিরীগঞ্জ সদর,BD60360002,BD60|BD6036|BD60360002,7.745,91.25477,24.54267,boundaries/districts/BD6036.topo.json#unions,cod-ab-2015,2020-11-13,BD603602
 BD60360227,4,union,Badalpur,বদলপুর,BD60360002,BD60|BD6036|BD60360002,68.76,91.32421,24.60374,boundaries/districts/BD6036.topo.json#unions,cod-ab-2015,2020-11-13,BD603602
 BD60360254,4,union,Jalsuka,জলসুখা,BD60360002,BD60|BD6036|BD60360002,24.477,91.29653,24.5603,boundaries/districts/BD6036.topo.json#unions,cod-ab-2015,2020-11-13,BD603602

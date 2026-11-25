@@ -24,6 +24,13 @@ for (const u of list) {
   children.get(u.parent_pcode).push(u.pcode);
 }
 const ref = (p) => { const u = units.get(p); return { pcode: u.pcode, level: u.level, kind: u.kind, name_en: u.name_en, name_bn: u.name_bn }; };
+// population[pcode][year] = record without the repeated pcode/year keys
+const population = new Map();
+for (const line of readFileSync(join(DATA, 'population/population.jsonl'), 'utf8').trim().split('\n')) {
+  const { pcode, year, ...rest } = JSON.parse(line);
+  if (!population.has(pcode)) population.set(pcode, {});
+  population.get(pcode)[year] = rest;
+}
 
 const API = join(DIST, 'api/v1');
 mkdirSync(join(API, 'units'), { recursive: true });
@@ -33,6 +40,7 @@ for (const u of list) {
     boundary: `/data/${u.boundary}`,
     ancestors: u.ancestry.map(ref),
     children: (children.get(u.pcode) ?? []).map(ref),
+    population: population.get(u.pcode) ?? {},
   }));
 }
 
@@ -55,8 +63,11 @@ writeFileSync(join(API, 'index.json'), JSON.stringify({
     gazetteer_jsonl: '/data/gazetteer/units.jsonl',
     national_boundaries: '/data/boundaries/national.topo.json',
     district_boundaries: '/data/boundaries/districts/{district_pcode}.topo.json',
+    population_csv: '/data/population/population.csv',
+    population_jsonl: '/data/population/population.jsonl',
     schemas: '/data/schema/',
     qa_report: '/data/qa/report.json',
+    population_qa_report: '/data/qa/population.json',
   },
   divisions: list.filter((u) => u.level === 1).map((u) => ref(u.pcode)),
   sources: manifest.sources.map(({ id, title, publisher, page, license, valid_on }) => ({ id, title, publisher, page, license, valid_on })),

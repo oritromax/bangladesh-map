@@ -61,3 +61,34 @@ test('every unit appears exactly once in its boundary file', () => {
     assert.equal(hits, 1, `${u.pcode} in ${u.boundary}`);
   }
 });
+
+// ---- Population ----------------------------------------------------------------
+const population = read('population/population.jsonl').trim().split('\n').map((l) => JSON.parse(l));
+
+test('population records match the schema and reference existing units', () => {
+  const validate = new Ajv2020().compile(JSON.parse(read('schema/population.schema.json')));
+  assert.deepEqual(population.filter((r) => !validate(r)).slice(0, 3).map((r) => [r.pcode, validate.errors]), []);
+  assert.deepEqual(population.filter((r) => !units.has(r.pcode)).map((r) => r.pcode), []);
+});
+
+test('population: one record per (pcode, year); male + female = total = sum of age bands', () => {
+  assert.equal(new Set(population.map((r) => `${r.pcode}/${r.year}`)).size, population.length);
+  for (const r of population) {
+    assert.equal(r.male + r.female, r.total, `${r.pcode}/${r.year}`);
+    assert.equal(Object.values(r.age).reduce((a, b) => a + b, 0), r.total, `${r.pcode}/${r.year}`);
+  }
+});
+
+test('population: coverage and national totals', () => {
+  const at = (year, level) => population.filter((r) => r.year === year && units.get(r.pcode).level === level);
+  assert.ok(at(2011, 4).length >= 5100, '2011 union-level coverage');
+  assert.equal(at(2022, 2).length, 64);
+  assert.equal(at(2022, 1).reduce((s, r) => s + r.total, 0), 165650475);
+  // 2011 divisions sum to the census total minus the source rows with no matching unit (cantonments etc.).
+  const qa = JSON.parse(read('qa/population.json'));
+  assert.equal(at(2011, 1).reduce((s, r) => s + r.total, 0) + qa['2011'].unmatched_source_population, 144043697);
+});
+
+test('generic "Paurashava" names were replaced', () => {
+  assert.deepEqual(list.filter((u) => u.name_en === 'Paurashava').map((u) => u.pcode), []);
+});

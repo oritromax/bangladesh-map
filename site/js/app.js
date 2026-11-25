@@ -11,6 +11,7 @@ const name = (u) => (state.lang === 'bn' ? u.name_bn ?? u.name_en : u.name_en);
 const other = (u) => (state.lang === 'bn' ? u.name_en : u.name_bn);
 const kindLabel = (u) => KIND_LABEL[u.kind][state.lang === 'bn' ? 0 : 1];
 const t = (bn, en) => (state.lang === 'bn' ? bn : en);
+const num = (n) => n.toLocaleString(state.lang === 'bn' ? 'bn-BD' : 'en-US');
 
 const HUE = { BD10: 174, BD20: 4, BD30: 200, BD40: 140, BD45: 45, BD50: 300, BD55: 160, BD60: 32 };
 const hash = (s) => [...s].reduce((h, c) => (h * 31 + c.charCodeAt(0)) >>> 0, 7);
@@ -115,11 +116,25 @@ async function renderPanel(pcode) {
     $('title').textContent = name(u);
     $('subtitle').textContent = [other(u), kindLabel(u)].filter(Boolean).join(' · ');
     const detail = await (await fetch(`/api/v1/units/${pcode}.json`)).json();
-    facts.push([t('পি-কোড', 'P-code'), detail.pcode], [t('আয়তন', 'Area'), `${detail.area_sqkm.toLocaleString()} km²`]);
+    facts.push([t('পি-কোড', 'P-code'), detail.pcode], [t('আয়তন', 'Area'), `${num(detail.area_sqkm)} ${t('বর্গ কিমি', 'km²')}`]);
+    for (const year of ['2022', '2011']) {
+      const p = detail.population[year];
+      if (!p) continue;
+      const label = year === '2022' ? t('জনসংখ্যা ২০২২ (প্রাক্কলন)', 'Population 2022 (estimate)') : t('জনসংখ্যা ২০১১ (আদমশুমারি)', 'Population 2011 (census)');
+      const partial = p.children_with_data && p.children_with_data.split('/')[0] !== p.children_with_data.split('/')[1];
+      facts.push([label, `${num(p.total)}${partial ? '+' : ''}`]);
+      facts.push([t('পুরুষ / নারী', 'Male / female'), `${num(p.male)} / ${num(p.female)}`]);
+      facts.push([t('ঘনত্ব', 'Density'), `${num(Math.round(p.total / detail.area_sqkm))} ${t('জন/বর্গ কিমি', '/km²')}`]);
+    }
     facts.push(['API', Object.assign(document.createElement('a'), { href: `/api/v1/units/${pcode}.json`, textContent: `${pcode}.json` })]);
     if (u.level === 4) {
       $('note').hidden = false;
       $('note').textContent = t('ইউনিয়নের সীমানা বিবিএস ২০১৫ সালের তথ্য অনুযায়ী।', 'Union boundary is from the 2015 BBS release.');
+    } else if (Object.values(detail.population).some((p) => p.method === 'sum_of_children')) {
+      $('note').hidden = false;
+      $('note').textContent = t(
+        'জনসংখ্যা বর্তমান অন্তর্ভুক্ত এলাকাগুলোর যোগফল। "+" মানে কিছু এলাকার তথ্য নেই।',
+        'Population is the sum of the areas it currently contains. "+" means some areas have no data.');
     }
   }
   $('facts').replaceChildren(...facts.flatMap(([k, v]) => [
@@ -173,10 +188,13 @@ window.addEventListener('hashchange', show);
 // ---- Language -----------------------------------------------------------------
 function applyLang() {
   document.documentElement.lang = state.lang;
-  $('lang').textContent = state.lang === 'bn' ? 'English' : 'বাংলা';
+  for (const b of $('lang').querySelectorAll('button')) b.setAttribute('aria-pressed', String(b.dataset.lang === state.lang));
+  $('q').placeholder = t('যেকোনো এলাকা খুঁজুন (বাংলা বা English)', 'Search any area (English or বাংলা)');
 }
-$('lang').addEventListener('click', () => {
-  state.lang = state.lang === 'bn' ? 'en' : 'bn';
+$('lang').addEventListener('click', (e) => {
+  const lang = e.target.closest('button')?.dataset.lang;
+  if (!lang || lang === state.lang) return;
+  state.lang = lang;
   localStorage.setItem('lang', state.lang);
   applyLang();
   show();

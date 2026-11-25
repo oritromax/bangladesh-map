@@ -34,7 +34,7 @@ for (const src of manifest.sources) {
   if (src.url) {
     const dest = join(dir, src.file);
     verify(src.id, await download(src.url, dest), src.sha256);
-    const missing = src.extract.filter((m) => !existsSync(join(dir, m)));
+    const missing = (src.extract ?? []).filter((m) => !existsSync(join(dir, m)));
     if (missing.length) execFileSync('unzip', ['-o', '-j', '-q', dest, ...missing, '-d', dir]);
   } else {
     for (const [file, sha] of Object.entries(src.files)) {

@@ -70,13 +70,30 @@ Open, static, agent-friendly atlas of Bangladesh's administrative units: divisio
 - [x] Site: search (bn/en), deep links (`#<pcode>`), unit info panel, language toggle
 - [x] Cloudflare deploy config (wrangler.jsonc, `_headers` with CORS on /api and /data)
 - [x] First commit
+- [x] Explicit বাংলা | English switch (pressed state, persisted, placeholder follows language)
+- [x] Population layer
+  - 2011 census (USCB): 5,139 union-level units reported. Levels 1–3 are summed over the current hierarchy.
+  - 2022 COD-PS: 64 districts, 452 upazilas. 30 changed upazilas are skipped.
+  - Population shown in the panel and exposed in the unit API.
+- [x] Full names for the 50 paurashavas named only "Paurashava", taken from the census table
+- [x] Commit population work
 - [ ] Publish GitHub repo and deploy
+
+## Enrichment backlog (from source research, 2026-11-25)
+- BBS Census 2022 district indicators (literacy, internet, electricity, water) on HDX. Labelled CC0; confirm before use.
+- Official union/upazila websites and postcodes from nuhil (MIT; postcodes CC BY 4.0 via GeoNames). Check that the links are live.
+- Wikidata sitelinks (CC0): bn/en Wikipedia links for all divisions and districts, about 452 upazilas and 685 unions.
+- Upazila HQ points (COD-AB admincapitals), division MPI poverty (CC0).
+- Blocked:
+  - Post-2015 union geometry and OSM `name:bn` coverage: Overpass was down; retry, or use a Geofabrik extract.
+  - Constituency geometry: no open source found.
+- Skip: DHS subnational (NoDerivatives licence).
 
 ## Known limitations / follow-ups
 - Union (2015) and upazila (2025) edges don't line up exactly. The misfit is visible at upazila zoom.
 - Paurashavas and wards have no Bangla names. No open source was found.
 - About 150 unions created after 2015 have no geometry.
-- Possible later layers: population (cod-ps-bgd), election constituencies.
+- 2011 population covers about 260,000 people (cantonments, partial wards) with no matching unit.
 
 ## Open questions
 - GitHub repo name and visibility (default: `bangladesh-map`, public).

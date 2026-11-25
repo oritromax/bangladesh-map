@@ -43,10 +43,13 @@ a { color: inherit; }
 #results li.active, #results li:hover { background: var(--bg); }
 #results a { text-decoration: none; font-weight: 600; }
 #results small { color: var(--muted); }
-#lang {
-  font: inherit; padding: .45rem .8rem; border-radius: 8px; border: 1px solid rgba(255, 255, 255, .5);
-  background: transparent; color: #fff; cursor: pointer;
+#lang { display: flex; border: 1px solid rgba(255, 255, 255, .55); border-radius: 8px; overflow: hidden; flex-shrink: 0; }
+#lang button {
+  font: inherit; padding: .4rem .75rem; border: 0; background: transparent; color: #fff; cursor: pointer;
 }
+#lang button + button { border-left: 1px solid rgba(255, 255, 255, .55); }
+#lang button[aria-pressed="true"] { background: #fff; color: var(--green); font-weight: 600; }
+#lang button:focus-visible { outline: 2px solid #fff; outline-offset: -4px; }
 
 main { display: grid; grid-template-columns: 1fr 340px; min-height: 0; }
 .map-wrap { position: relative; min-height: 70vh; }

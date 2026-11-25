@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "population.schema.json",
+  "title": "Population of an administrative unit in one year",
+  "description": "One record of data/population/population.jsonl (population.csv has the same fields, with age flattened to age_<band> columns). Key: (pcode, year).",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["pcode", "year", "method", "source", "children_with_data", "total", "male", "female", "age"],
+  "properties": {
+    "pcode": { "type": "string", "description": "Unit pcode (see unit.schema.json)." },
+    "year": { "enum": [2011, 2022], "description": "2011: census count. 2022: COD-PS estimate." },
+    "method": { "enum": ["reported", "sum_of_children"], "description": "reported: taken from the source for this pcode. sum_of_children: sum of the unit's current children that have data." },
+    "source": { "enum": ["uscb-2011", "cod-ps-2022"], "description": "Id in sources/manifest.json." },
+    "children_with_data": { "type": ["string", "null"], "pattern": "^[0-9]+/[0-9]+$", "description": "For sum_of_children: children with data / all children. Below 100% means the sum is a lower bound." },
+    "total": { "type": "integer", "minimum": 0 },
+    "male": { "type": "integer", "minimum": 0 },
+    "female": { "type": "integer", "minimum": 0 },
+    "age": {
+      "type": "object",
+      "description": "Total population by five-year age band.",
+      "additionalProperties": false,
+      "required": ["00_04", "05_09", "10_14", "15_19", "20_24", "25_29", "30_34", "35_39", "40_44", "45_49", "50_54", "55_59", "60_64", "65_69", "70_74", "75_79", "80_plus"],
+      "patternProperties": { "^([0-9]{2}_[0-9]{2}|80_plus)$": { "type": "integer", "minimum": 0 } }
+    }
+  }
+}

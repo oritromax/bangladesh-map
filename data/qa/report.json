@@ -61,6 +61,258 @@
       "used": "BD20840007"
     }
   ],
+  "renamed_paurashavas": [
+    {
+      "pcode": "BD10040999",
+      "from": "Paurashava",
+      "to": "Amtali Paurashava"
+    },
+    {
+      "pcode": "BD10042899",
+      "from": "Paurashava",
+      "to": "Barguna Sadar Paurashava"
+    },
+    {
+      "pcode": "BD10044799",
+      "from": "Paurashava",
+      "to": "Betagi Paurashava"
+    },
+    {
+      "pcode": "BD10048599",
+      "from": "Paurashava",
+      "to": "Patharghata Paurashava"
+    },
+    {
+      "pcode": "BD10060799",
+      "from": "Paurashava",
+      "to": "Bakerganj Paurashava"
+    },
+    {
+      "pcode": "BD10061099",
+      "from": "Paurashava",
+      "to": "Banari Para Paurashava"
+    },
+    {
+      "pcode": "BD10063299",
+      "from": "Paurashava",
+      "to": "Gaurnadi Paurashava"
+    },
+    {
+      "pcode": "BD10066299",
+      "from": "Paurashava",
+      "to": "Mehendiganj Paurashava"
+    },
+    {
+      "pcode": "BD10066999",
+      "from": "Paurashava",
+      "to": "Muladi Paurashava"
+    },
+    {
+      "pcode": "BD10091899",
+      "from": "Paurashava",
+      "to": "Bhola Sadar Paurashava"
+    },
+    {
+      "pcode": "BD10092199",
+      "from": "Paurashava",
+      "to": "Burhanuddin Paurashava"
+    },
+    {
+      "pcode": "BD10092599",
+      "from": "Paurashava",
+      "to": "Char Fasson Paurashava"
+    },
+    {
+      "pcode": "BD10092999",
+      "from": "Paurashava",
+      "to": "Daulatkhan Paurashava"
+    },
+    {
+      "pcode": "BD10095499",
+      "from": "Paurashava",
+      "to": "Lalmohan Paurashava"
+    },
+    {
+      "pcode": "BD10424099",
+      "from": "Paurashava",
+      "to": "Jhalokati Sadar Paurashava"
+    },
+    {
+      "pcode": "BD10427399",
+      "from": "Paurashava",
+      "to": "Nalchity Paurashava"
+    },
+    {
+      "pcode": "BD10783899",
+      "from": "Paurashava",
+      "to": "Bauphal Paurashava"
+    },
+    {
+      "pcode": "BD10785799",
+      "from": "Paurashava",
+      "to": "Galachipa Paurashava"
+    },
+    {
+      "pcode": "BD10786699",
+      "from": "Paurashava",
+      "to": "Kala Para Paurashava"
+    },
+    {
+      "pcode": "BD10789599",
+      "from": "Paurashava",
+      "to": "Patuakhali Sadar Paurashava"
+    },
+    {
+      "pcode": "BD10795899",
+      "from": "Paurashava",
+      "to": "Mathbaria Paurashava"
+    },
+    {
+      "pcode": "BD10798099",
+      "from": "Paurashava",
+      "to": "Pirojpur Sadar Paurashava"
+    },
+    {
+      "pcode": "BD10798799",
+      "from": "Paurashava",
+      "to": "Nesarabad (Swarupkati) Paurashava"
+    },
+    {
+      "pcode": "BD50108599",
+      "from": "Paurashava",
+      "to": "Bogra Paurashava (Part)"
+    },
+    {
+      "pcode": "BD55271099",
+      "from": "Paurashava",
+      "to": "Birampur Paurashava"
+    },
+    {
+      "pcode": "BD55271299",
+      "from": "Paurashava",
+      "to": "Birganj Paurashava"
+    },
+    {
+      "pcode": "BD55273899",
+      "from": "Paurashava",
+      "to": "Fulbari Paurashava"
+    },
+    {
+      "pcode": "BD55274399",
+      "from": "Paurashava",
+      "to": "Ghoraghat Paurashava"
+    },
+    {
+      "pcode": "BD55274799",
+      "from": "Paurashava",
+      "to": "Hakimpur Paurashava"
+    },
+    {
+      "pcode": "BD55276499",
+      "from": "Paurashava",
+      "to": "Dinajpur Sadar Paurashava"
+    },
+    {
+      "pcode": "BD55277799",
+      "from": "Paurashava",
+      "to": "Parbatipur Paurashava"
+    },
+    {
+      "pcode": "BD55322499",
+      "from": "Paurashava",
+      "to": "Gaibandha Sadar Paurashava"
+    },
+    {
+      "pcode": "BD55323099",
+      "from": "Paurashava",
+      "to": "Gobindaganj Paurashava"
+    },
+    {
+      "pcode": "BD55495299",
+      "from": "Paurashava",
+      "to": "Kurigram Sadar Paurashava"
+    },
+    {
+      "pcode": "BD55496199",
+      "from": "Paurashava",
+      "to": "Nageshwari Paurashava"
+    },
+    {
+      "pcode": "BD55499499",
+      "from": "Paurashava",
+      "to": "Ulipur Paurashava"
+    },
+    {
+      "pcode": "BD55525599",
+      "from": "Paurashava",
+      "to": "Lalmonirhat Sadar Paurashava"
+    },
+    {
+      "pcode": "BD55527099",
+      "from": "Paurashava",
+      "to": "Patgram Paurashava"
+    },
+    {
+      "pcode": "BD55731599",
+      "from": "Paurashava",
+      "to": "Domar Paurashava"
+    },
+    {
+      "pcode": "BD55733699",
+      "from": "Paurashava",
+      "to": "Jaldhaka Paurashava"
+    },
+    {
+      "pcode": "BD55736499",
+      "from": "Paurashava",
+      "to": "Nilphamari Sadar Paurashava"
+    },
+    {
+      "pcode": "BD55738599",
+      "from": "Paurashava",
+      "to": "Saidpur Paurashava"
+    },
+    {
+      "pcode": "BD55772599",
+      "from": "Paurashava",
+      "to": "Boda Paurashava"
+    },
+    {
+      "pcode": "BD55777399",
+      "from": "Paurashava",
+      "to": "Panchagarh Sadar Paurashava"
+    },
+    {
+      "pcode": "BD55850399",
+      "from": "Paurashava",
+      "to": "Badarganj Paurashava"
+    },
+    {
+      "pcode": "BD55854299",
+      "from": "Paurashava",
+      "to": "Kaunia Paurashava"
+    },
+    {
+      "pcode": "BD55854999",
+      "from": "Paurashava",
+      "to": "Rangpur Sadar Paurashava"
+    },
+    {
+      "pcode": "BD55948299",
+      "from": "Paurashava",
+      "to": "Pirganj Paurashava"
+    },
+    {
+      "pcode": "BD55948699",
+      "from": "Paurashava",
+      "to": "Ranisankail Paurashava"
+    },
+    {
+      "pcode": "BD55949499",
+      "from": "Paurashava",
+      "to": "Thakurgaon Sadar Paurashava"
+    }
+  ],
   "unmatched_bn_unions": [
     {
       "upazila": "BD20190040",
@@ -3664,7 +3916,7 @@
     },
     {
       "pcode": "BD55854999",
-      "name_en": "Paurashava",
+      "name_en": "Rangpur Sadar Paurashava",
       "parent_pcode_2015": "BD558549",
       "parent_pcode": "BD55857500",
       "parent_name": "Rangpur City Corporation"

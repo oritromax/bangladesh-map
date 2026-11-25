@@ -55,6 +55,18 @@ for (const u of units.values()) {
   u.parent_pcode = legacy(u.parent_pcode_2015);
 }
 
+// The 2015 release names some paurashavas just "Paurashava"; the 2011 census
+// table (same pcodes) carries their full names.
+const censusNames = new Map(JSON.parse(readFileSync(`${BUILD}/census/uscb-2011.json`, 'utf8')).map((r) => [r.pcode, r.name]));
+const renamed = [];
+for (const u of units.values()) {
+  if (u.name_en !== 'Paurashava') continue;
+  const full = censusNames.get(u.pcode);
+  if (!full) throw new Error(`${u.pcode}: generic paurashava name with no census name`);
+  renamed.push({ pcode: u.pcode, from: u.name_en, to: full });
+  u.name_en = full;
+}
+
 for (const u of units.values()) {
   const chain = [];
   for (let p = u.parent_pcode; p; p = units.get(p)?.parent_pcode) chain.unshift(p);
@@ -128,8 +140,9 @@ const report = {
   union_bn_join: { by_pcode: unionMatch.by_pcode, by_name: unionMatch.by_name, unmatched_count: unionMatch.unmatched.length },
   reparented_unions: moved.length,
   cross_district_overrides: districtFix,
+  renamed_paurashavas: renamed,
   unmatched_bn_unions: unionMatch.unmatched,
   reparented: moved,
 };
 writeFileSync(`${DATA}/qa/report.json`, JSON.stringify(report, null, 2) + '\n');
-console.log(JSON.stringify({ counts: report.counts, union_bn_join: report.union_bn_join, reparented_unions: moved.length, cross_district_overrides: districtFix.length }));
+console.log(JSON.stringify({ counts: report.counts, union_bn_join: report.union_bn_join, reparented_unions: moved.length, cross_district_overrides: districtFix.length, renamed_paurashavas: renamed.length }));

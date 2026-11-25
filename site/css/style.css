@@ -178,3 +178,9 @@ footer a:hover, .link:hover { color: var(--accent); }
   #credits dl { grid-template-columns: 1fr; gap: .2rem; }
   #credits dd { margin-bottom: .6rem; }
 }
+
+/* 404 page */
+.notfound { grid-template-rows: 1fr; place-items: center; text-align: center; }
+.notfound main { overflow: visible; padding: 2rem; }
+.notfound h1 { font-size: 4rem; color: var(--accent); line-height: 1; margin-bottom: 1rem; }
+.notfound p { color: var(--muted); margin-bottom: .4rem; }

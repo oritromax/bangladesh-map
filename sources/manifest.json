@@ -1,0 +1,53 @@
+{
+  "sources": [
+    {
+      "id": "cod-ab-v03",
+      "title": "Bangladesh Subnational Administrative Boundaries (COD-AB v03)",
+      "publisher": "OCHA / HDX; source: Bangladesh Bureau of Statistics (BBS)",
+      "page": "https://data.humdata.org/dataset/cod-ab-bgd",
+      "license": "CC BY-IGO",
+      "valid_on": "2023-05-21",
+      "used_for": "Divisions, districts, upazilas and city corporations: geometry, pcodes, English names",
+      "url": "https://data.humdata.org/dataset/401d3fae-4262-48c9-891f-461fd776d49b/resource/cec2abe3-d8b7-4025-9362-9f7e780f2a07/download/bgd_admin_boundaries.geojson.zip",
+      "file": "bgd_admin_boundaries.geojson.zip",
+      "sha256": "ec54c97c2004bbee084afa3f662abb202d8ec038dbfd398af2ebb9b1bf3ec9e5",
+      "extract": [
+        "bgd_admin1.geojson",
+        "bgd_admin2.geojson",
+        "bgd_admin3.geojson"
+      ]
+    },
+    {
+      "id": "cod-ab-2015",
+      "title": "Bangladesh COD-AB, earlier release with admin level 4 (BBS 2015 boundaries)",
+      "publisher": "OCHA / HDX via fieldmaps.io (originals); source: BBS",
+      "page": "https://fieldmaps.io/data/cod",
+      "license": "CC BY-IGO",
+      "valid_on": "2020-11-13",
+      "used_for": "Unions, paurashavas and city-corporation wards: geometry, pcodes, English names",
+      "url": "https://data.fieldmaps.io/cod/originals/bgd.geojson.zip",
+      "file": "bgd.geojson.zip",
+      "sha256": "43a2378d893b92e024450358f1e6d60034520df39660665dd429c8b33ebc55b3",
+      "extract": [
+        "bgd_adm4.geojson"
+      ]
+    },
+    {
+      "id": "bd-geocode",
+      "title": "nuhil/bangladesh-geocode",
+      "publisher": "Nuhil Mehdy",
+      "page": "https://github.com/nuhil/bangladesh-geocode",
+      "license": "MIT",
+      "used_for": "Bangla names",
+      "base_url": "https://raw.githubusercontent.com/nuhil/bangladesh-geocode/c4b950b5cd2a65d42d75b12f7fad459e12777df6/",
+      "files": {
+        "divisions/divisions.csv": "0fcaa7b6e768b927eca48cd8a564157990223b5d10498decf9de6109a929bbd9",
+        "districts/districts.csv": "c8acb7731d433740c7b4a47ebbe2133a8c250dd3edc19ccb84f4e6c793124a1e",
+        "upazilas/upazilas.csv": "355f32658209fd32429adf138a95724b3e9a600add8d447954e105d4609a5dbe",
+        "unions/unions.csv": "985046d6828eb0a671d23439d2f5316c4344bcdc0de655a1cfc74e5f90aca4fa",
+        "city_corporations/city_corporations.csv": "a10aee1cc002dec20e0d0c20365230e1dd66a86e2d50e322b0f6bee2fbc0c569",
+        "LICENSE": "c3f77872e963b0c831ffbdc66e72a511f93b5365ffd28321e41b7559a48a18f7"
+      }
+    }
+  ]
+}

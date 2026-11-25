@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "unit.schema.json",
+  "title": "Administrative unit",
+  "description": "One record of data/gazetteer/units.jsonl (and the base of /api/v1/units/{pcode}.json).",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["pcode", "level", "kind", "name_en", "name_bn", "parent_pcode", "ancestry", "area_sqkm", "label_point", "boundary", "source", "valid_on", "parent_pcode_2015"],
+  "properties": {
+    "pcode": { "type": "string", "pattern": "^BD[0-9]{2}([0-9]{2}([0-9]{4})?|[0-9]{8})?$", "description": "Official OCHA/BBS pcode. Unique key." },
+    "level": { "enum": [1, 2, 3, 4], "description": "1 division, 2 district, 3 upazila or city corporation, 4 union, paurashava or ward." },
+    "kind": { "enum": ["division", "district", "upazila", "city_corporation", "union", "paurashava", "ward"] },
+    "name_en": { "type": "string", "minLength": 1 },
+    "name_bn": { "type": ["string", "null"], "description": "Bangla name; null where no open source provides one." },
+    "parent_pcode": { "type": ["string", "null"], "description": "Current parent. For level 4 this is the v03 upazila the unit lies in, so its pcode prefix may differ." },
+    "ancestry": { "type": "array", "items": { "type": "string" }, "description": "Ancestor pcodes from division downwards, excluding the unit itself." },
+    "area_sqkm": { "type": "number", "exclusiveMinimum": 0 },
+    "label_point": { "type": "array", "prefixItems": [{ "type": "number", "minimum": 88, "maximum": 93 }, { "type": "number", "minimum": 20, "maximum": 27 }], "minItems": 2, "maxItems": 2, "description": "[lon, lat] guaranteed inside the shape." },
+    "boundary": { "type": "string", "pattern": "^boundaries/.+\\.topo\\.json#(divisions|districts|upazilas|unions)$", "description": "TopoJSON file (relative to data/) and object name holding this unit's shape." },
+    "source": { "enum": ["cod-ab-v03", "cod-ab-2015"], "description": "Id in sources/manifest.json." },
+    "valid_on": { "type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$" },
+    "parent_pcode_2015": { "type": ["string", "null"], "description": "Level 4 only: upazila pcode in the 2015 release (old 8-character scheme)." }
+  }
+}

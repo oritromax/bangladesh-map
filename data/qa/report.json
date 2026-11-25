@@ -1,0 +1,4023 @@
+{
+  "counts": {
+    "1": 8,
+    "2": 64,
+    "3": 507,
+    "4": 5160
+  },
+  "by_kind": {
+    "division": {
+      "total": 8,
+      "with_bn": 8
+    },
+    "district": {
+      "total": 64,
+      "with_bn": 64
+    },
+    "upazila": {
+      "total": 495,
+      "with_bn": 495
+    },
+    "city_corporation": {
+      "total": 12,
+      "with_bn": 12
+    },
+    "union": {
+      "total": 4566,
+      "with_bn": 4392
+    },
+    "paurashava": {
+      "total": 309,
+      "with_bn": 0
+    },
+    "ward": {
+      "total": 285,
+      "with_bn": 0
+    }
+  },
+  "union_bn_join": {
+    "by_pcode": 4390,
+    "by_name": 2,
+    "unmatched_count": 148
+  },
+  "reparented_unions": 417,
+  "cross_district_overrides": [
+    {
+      "pcode": "BD20157813",
+      "name_en": "Azimpur",
+      "spatial": "BD20750036",
+      "used": "BD20150078"
+    },
+    {
+      "pcode": "BD20517355",
+      "name_en": "Char Gazi",
+      "spatial": "BD20750085",
+      "used": "BD20510073"
+    },
+    {
+      "pcode": "BD20840771",
+      "name_en": "Rupakari",
+      "spatial": "BD20460043",
+      "used": "BD20840007"
+    }
+  ],
+  "unmatched_bn_unions": [
+    {
+      "upazila": "BD20190040",
+      "en": "Yousufpur",
+      "bn": "ইউসুফপুর",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20190040",
+      "en": "Dhampti",
+      "bn": "ধামতী",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20190040",
+      "en": "Sultanpur",
+      "bn": "সুলতানপুর",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20190009",
+      "en": "Shakpur",
+      "bn": "শাকপুর",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20190009",
+      "en": "Bhaukshar",
+      "bn": "ভাউকসার",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20190009",
+      "en": "Payalgacha",
+      "bn": "পয়ালগাছা",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20190027",
+      "en": "Joag",
+      "bn": "জোয়াগ",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20190027",
+      "en": "Etberpur",
+      "bn": "এতবারপুর",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20190036",
+      "en": "Daudkandi",
+      "bn": "দাউদকান্দি",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20190072",
+      "en": "Laksam Purba",
+      "bn": "লাকসাম পুর্ব",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20190067",
+      "en": "Kalirbazer",
+      "bn": "কালীর বাজার",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20190075",
+      "en": "Vaorkhola",
+      "bn": "ভাওরখোলা",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20190074",
+      "en": "Uttarhowla",
+      "bn": "উত্তর হাওলা",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20190033",
+      "en": "Jorkanoneast",
+      "bn": "জোড়কানন (পুর্ব)",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20190033",
+      "en": "Bagmara (South)",
+      "bn": "বাগমারা (দক্ষিন)",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20190033",
+      "en": "Belgor (South)",
+      "bn": "বেলঘর (দক্ষিন)",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20190073",
+      "en": "Bagmara (North)",
+      "bn": "বাগমারা (উত্তর)",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20190073",
+      "en": "Bagmara (South)",
+      "bn": "বাগমারা (দক্ষিন)",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20190073",
+      "en": "Bhuloin (North)",
+      "bn": "ভূলইন (উত্তর)",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20190073",
+      "en": "Bhuloin (South)",
+      "bn": "ভূলইন (দক্ষিন)",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20190073",
+      "en": "Belgor (North)",
+      "bn": "বেলঘর (উত্তর)",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20190073",
+      "en": "Belgor (South)",
+      "bn": "বেলঘর (দক্ষিন)",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20190073",
+      "en": "Perul (North)",
+      "bn": "পেরুল (উত্তর)",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20190073",
+      "en": "Perul (South)",
+      "bn": "পেরুল (দক্ষিন)",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20300051",
+      "en": "Boxmahmmud",
+      "bn": "বক্সমাহমুদ",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20120013",
+      "en": "Talsahar",
+      "bn": "তালশহর",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20120013",
+      "en": "Natai",
+      "bn": "নাটাই (দক্ষিন)",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20120013",
+      "en": "Shuhilpur",
+      "bn": "সুহিলপুর",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20120094",
+      "en": "Panishor",
+      "bn": "পানিশ্বর",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20120033",
+      "en": "Talshaharw",
+      "bn": "তালশহর(পঃ)",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20120002",
+      "en": "Akhauran",
+      "bn": "আখাউড়া (উঃ)",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20120002",
+      "en": "Akhauras",
+      "bn": "আখাউড়া (দঃ)",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20120004",
+      "en": "Darikandi",
+      "bn": "দড়িকান্দি",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20120004",
+      "en": "Saifullyakandi",
+      "bn": "ছয়ফুল্লাকান্দি",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20120004",
+      "en": "Ayabpur",
+      "bn": "আইয়ুবপুর",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20120004",
+      "en": "Fardabad",
+      "bn": "ফরদাবাদ",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20120004",
+      "en": "Manikpur",
+      "bn": "মানিকপুর",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20120007",
+      "en": "Ichapura",
+      "bn": "ইছাপুরা",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20120007",
+      "en": "Singerbil",
+      "bn": "সিংগারবিল",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20130047",
+      "en": "Algidurgapur (South)",
+      "bn": "আলগী দুর্গাপুর (দক্ষিণ)",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20130095",
+      "en": "Tamta (South)",
+      "bn": "টামটা (দক্ষিণ)",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20130095",
+      "en": "Tamta (North)",
+      "bn": "টামটা (উত্তর)",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20130095",
+      "en": "Suchipara (North)",
+      "bn": "সুচিপাড়া (উত্তর)",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20130095",
+      "en": "Suchipara (South)",
+      "bn": "সুচিপাড়া (দক্ষিণ)",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20130022",
+      "en": "Laxmipur Model",
+      "bn": "লক্ষীপুর মডেল",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20510073",
+      "en": "Alxendar",
+      "bn": "আলেকজান্ডার",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20150070",
+      "en": "Swanirbor Rangunia",
+      "bn": "স্বনির্ভর রাঙ্গুনিয়া",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20150070",
+      "en": "Chandraghona",
+      "bn": "চন্দ্রঘোনা",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20150039",
+      "en": "Char Patharghata",
+      "bn": "চর পাথরঘাটা",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20150039",
+      "en": "Char Lakshya",
+      "bn": "চর লক্ষ্যা",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20150039",
+      "en": "Juldha",
+      "bn": "জুলধা",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20150039",
+      "en": "Barauthan",
+      "bn": "বড় উঠান",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20150039",
+      "en": "Sikalbaha",
+      "bn": "শিকলবাহা",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20220024",
+      "en": "Pmkhali",
+      "bn": "পিএমখালী",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20220090",
+      "en": "Saintmartin",
+      "bn": "সেন্ট মার্টিন",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20460070",
+      "en": "Guimara",
+      "bn": "গুইমারা",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20030073",
+      "en": "Gumdhum",
+      "bn": "ঘুমধুম",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD20030073",
+      "en": "Sonaychari",
+      "bn": "সোনাইছড়ি",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD50760083",
+      "en": "Vaina",
+      "bn": "ভায়না",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD50760039",
+      "en": "Luxmikunda",
+      "bn": "লক্ষীকুন্ডা",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD50100054",
+      "en": "Kalai",
+      "bn": "কালাই",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD50810031",
+      "en": "Pananagar",
+      "bn": "পানানগর",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD50690044",
+      "en": "Iswardi",
+      "bn": "ঈশ্বরদী",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD50690044",
+      "en": "Arjunpur",
+      "bn": "অর্জুনপুর বরমহাটী",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD50380061",
+      "en": "Tulshiganga",
+      "bn": " তুলশীগংগা",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD50640047",
+      "en": "Kosomba",
+      "bn": "কুসুম্বা",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD50640085",
+      "en": "Khatteshawr",
+      "bn": "খট্টেশ্বর রাণীনগর",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD40410047",
+      "en": "Dearamodel",
+      "bn": "দেয়ারা মডেল",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD40650028",
+      "en": "Chacuri",
+      "bn": "চাচুড়ী",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD40650028",
+      "en": "Panchgram",
+      "bn": "পাঁচগ্রাম",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD40180007",
+      "en": "Ailhash",
+      "bn": "আইলহাঁস",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD40180031",
+      "en": "Hawli",
+      "bn": "হাওলী",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD40180055",
+      "en": "Raypur",
+      "bn": "রায়পুর",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD40180055",
+      "en": "Hasadah",
+      "bn": "হাসাদাহ",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD40500079",
+      "en": "Bottail",
+      "bn": "বটতৈল",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD40500094",
+      "en": "Dhubail",
+      "bn": "ধূবইল",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD40470040",
+      "en": "Jogipol",
+      "bn": "যোগীপোল",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD40470075",
+      "en": "Tsb",
+      "bn": "টিএসবি",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD40470017",
+      "en": "Laudoba",
+      "bn": "লাউডোব",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD40010077",
+      "en": "Southkhali",
+      "bn": "সাউথখালী",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD40440071",
+      "en": "Sbk",
+      "bn": "এস, বি, কে",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD10780055",
+      "en": "Sreerampur",
+      "bn": "শ্রীরামপুর",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD10780066",
+      "en": "Mahipur",
+      "bn": "মহিপুর",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD10780066",
+      "en": "Champapur",
+      "bn": "চম্পাপুর",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD10780057",
+      "en": "Kalagachhia",
+      "bn": "কলাগাছিয়া",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD10790076",
+      "en": "Daulbari Dobra",
+      "bn": "দেউলবাড়ী দোবড়া",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD10790076",
+      "en": "Kolardoania",
+      "bn": "কলারদোয়ানিয়া",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD10790047",
+      "en": "Chirapara",
+      "bn": "চিরাপাড়া",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD10790087",
+      "en": "Shorupkathi",
+      "bn": "স্বরুপকাঠী",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD10060003",
+      "en": "Jahangir Nagar",
+      "bn": "জাহাঙ্গীর নগর",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD10060094",
+      "en": "Shikerpur Wazirpur",
+      "bn": "শিকারপুর উজিরপুর",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD10090025",
+      "en": "Awajpur",
+      "bn": "আওয়াজপুর",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD10040090",
+      "en": "Chhotabagi",
+      "bn": "ছোটবগি",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD60910060",
+      "en": "Umorpur",
+      "bn": "উমরপুর",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD60910008",
+      "en": "Boaljur",
+      "bn": "বোয়ালজুর",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD60910060",
+      "en": "Burungabazar",
+      "bn": "বুরুঙ্গাবাজার",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD60910060",
+      "en": "Usmanpur",
+      "bn": "উসমানপুর",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD60910035",
+      "en": "Uttar Kushiara",
+      "bn": "উত্তর কুশিয়ারা",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD60910035",
+      "en": "Uttar Fenchuganj",
+      "bn": "উত্তর ফেঞ্চুগঞ্জ",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD60910038",
+      "en": "West Amura",
+      "bn": "পশ্চিম আমুরা",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD60910041",
+      "en": "Daubari",
+      "bn": "ডৌবাড়ী",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD60910059",
+      "en": "Lakshiprashad Pashim",
+      "bn": "লক্ষীপ্রাসাদ পশ্চিম",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD60910059",
+      "en": "Satbakh",
+      "bn": "সাতবাক",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD60910031",
+      "en": "Kamalbazar",
+      "bn": "কামালবাজার",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD60580014",
+      "en": "Talimpur",
+      "bn": "তালিমপুর",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD60580035",
+      "en": "Eastjuri",
+      "bn": "পুর্ব জুড়ী",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD60360077",
+      "en": "Barabhakoir Purba",
+      "bn": "বড় ভাকৈর (পূর্ব)",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD60900023",
+      "en": "Islampur",
+      "bn": "ইসলামপুর",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD60900023",
+      "en": "Gobindganj-Syedergaon",
+      "bn": "গোবিন্দগঞ্জ-সৈদেরগাঁও",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD60900047",
+      "en": "Chilaura Holdipur",
+      "bn": "চিলাউড়া হলদিপুর",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD60900047",
+      "en": "Syedpur Shaharpara",
+      "bn": "সৈয়দপুর শাহাড়পাড়া",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD60900033",
+      "en": "Dowarabazar",
+      "bn": "দোয়ারাবাজার",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD60900092",
+      "en": "Badaghat",
+      "bn": "বাদাঘাট",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD60900032",
+      "en": "Sukhair Rajapur South",
+      "bn": "সুখাইড় রাজাপুর দক্ষিণ",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD30680007",
+      "en": "Diara",
+      "bn": "দেয়ারা মডেল",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD30680052",
+      "en": "Krisnopur",
+      "bn": "কৃষ্ণপুর",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD30860094",
+      "en": "Bknagar",
+      "bn": "বি. কে. নগর",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD30860036",
+      "en": "Alaolpur",
+      "bn": "আলাওলপুর",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD30860014",
+      "en": "D.M Khali",
+      "bn": "ডি.এম খালি",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD30860014",
+      "en": "North Tarabunia",
+      "bn": "উত্তর তারাবুনিয়া",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD30930019",
+      "en": "Aloa",
+      "bn": "আলোয়া",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD30930076",
+      "en": "Bekrah Atgram",
+      "bn": "বেকরা আটগ্রাম",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD30930085",
+      "en": "Dariapur",
+      "bn": "দরিয়াপুর",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD30930085",
+      "en": "Kalmegha",
+      "bn": "কালমেঘা",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD30930095",
+      "en": "Dyenna",
+      "bn": "দাইন্যা",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD30930025",
+      "en": "Jadunathpur",
+      "bn": "যদুনাথপুর",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD30480033",
+      "en": "Alonjori",
+      "bn": "এলংজুরী",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD30560028",
+      "en": "Lacharagonj",
+      "bn": "লেছড়াগঞ্জ",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD30260072",
+      "en": "Bongaon",
+      "bn": "বনগাঁও",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD30590094",
+      "en": "Arial Baligaon",
+      "bn": "আড়িয়ল বালিগাঁও",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD30820047",
+      "en": "Kalukhali",
+      "bn": "কালুখালী",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD55770025",
+      "en": "Banghari",
+      "bn": "বেংহারী",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD55770090",
+      "en": "Bhojoanpur",
+      "bn": "ভজনপুর",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD55770090",
+      "en": "Debnagar",
+      "bn": "দেবনগর",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD55270038",
+      "en": "Aloary",
+      "bn": "এলুয়াড়ী",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD55270017",
+      "en": "Rajarampur",
+      "bn": "রাজারামপুর",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD55320082",
+      "en": "Khodkomor",
+      "bn": "খোদকোমরপুর",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD55940094",
+      "en": "Ruhia Pashchim",
+      "bn": "রুহিয়া পশ্চিম",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD55940094",
+      "en": "Dholarhat",
+      "bn": "ঢোলারহাট",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD55850092",
+      "en": "Kurshatara",
+      "bn": "কুর্শা",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD55850003",
+      "en": "Kalupara",
+      "bn": "কালুপাড়া",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD55850042",
+      "en": "Balapara",
+      "bn": "বালাপাড়া",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD55850073",
+      "en": "Saula",
+      "bn": "ছাওলা",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD45890088",
+      "en": "Rouha",
+      "bn": "রৌহা",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD45890037",
+      "en": "Hatibandha",
+      "bn": "হাতিবান্দা",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD45610052",
+      "en": "Char Ishwardia",
+      "bn": "চর ঈশ্বরদিয়া",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD45720047",
+      "en": "Roailbari Amtala",
+      "bn": "রোয়াইলবাড়ী আমতলা",
+      "code": "",
+      "candidates": 0
+    },
+    {
+      "upazila": "BD45720074",
+      "en": "Rouha",
+      "bn": "রৌহা",
+      "code": "",
+      "candidates": 0
+    }
+  ],
+  "reparented": [
+    {
+      "pcode": "BD10040939",
+      "name_en": "Barabagi",
+      "parent_pcode_2015": "BD100409",
+      "parent_pcode": "BD10040090",
+      "parent_name": "Taltali"
+    },
+    {
+      "pcode": "BD10040943",
+      "name_en": "Chhota Bagi",
+      "parent_pcode_2015": "BD100409",
+      "parent_pcode": "BD10040090",
+      "parent_name": "Taltali"
+    },
+    {
+      "pcode": "BD10040979",
+      "name_en": "Karaibaria",
+      "parent_pcode_2015": "BD100409",
+      "parent_pcode": "BD10040090",
+      "parent_name": "Taltali"
+    },
+    {
+      "pcode": "BD10040991",
+      "name_en": "Nishanbaria",
+      "parent_pcode_2015": "BD100409",
+      "parent_pcode": "BD10040090",
+      "parent_name": "Taltali"
+    },
+    {
+      "pcode": "BD10040994",
+      "name_en": "Pancha Koralia",
+      "parent_pcode_2015": "BD100409",
+      "parent_pcode": "BD10040090",
+      "parent_name": "Taltali"
+    },
+    {
+      "pcode": "BD10040995",
+      "name_en": "Sarikkhali",
+      "parent_pcode_2015": "BD100409",
+      "parent_pcode": "BD10040090",
+      "parent_name": "Taltali"
+    },
+    {
+      "pcode": "BD10040996",
+      "name_en": "Sonakata",
+      "parent_pcode_2015": "BD100409",
+      "parent_pcode": "BD10040090",
+      "parent_name": "Taltali"
+    },
+    {
+      "pcode": "BD10065101",
+      "name_en": "Ward No-01",
+      "parent_pcode_2015": "BD100651",
+      "parent_pcode": "BD10065000",
+      "parent_name": "Barishal City Corporation"
+    },
+    {
+      "pcode": "BD10065102",
+      "name_en": "Ward No-02",
+      "parent_pcode_2015": "BD100651",
+      "parent_pcode": "BD10065000",
+      "parent_name": "Barishal City Corporation"
+    },
+    {
+      "pcode": "BD10065103",
+      "name_en": "Ward No-03",
+      "parent_pcode_2015": "BD100651",
+      "parent_pcode": "BD10065000",
+      "parent_name": "Barishal City Corporation"
+    },
+    {
+      "pcode": "BD10065104",
+      "name_en": "Ward No-04",
+      "parent_pcode_2015": "BD100651",
+      "parent_pcode": "BD10065000",
+      "parent_name": "Barishal City Corporation"
+    },
+    {
+      "pcode": "BD10065105",
+      "name_en": "Ward No-05",
+      "parent_pcode_2015": "BD100651",
+      "parent_pcode": "BD10065000",
+      "parent_name": "Barishal City Corporation"
+    },
+    {
+      "pcode": "BD10065106",
+      "name_en": "Ward No-06",
+      "parent_pcode_2015": "BD100651",
+      "parent_pcode": "BD10065000",
+      "parent_name": "Barishal City Corporation"
+    },
+    {
+      "pcode": "BD10065107",
+      "name_en": "Ward No-07",
+      "parent_pcode_2015": "BD100651",
+      "parent_pcode": "BD10065000",
+      "parent_name": "Barishal City Corporation"
+    },
+    {
+      "pcode": "BD10065108",
+      "name_en": "Ward No-08",
+      "parent_pcode_2015": "BD100651",
+      "parent_pcode": "BD10065000",
+      "parent_name": "Barishal City Corporation"
+    },
+    {
+      "pcode": "BD10065109",
+      "name_en": "Ward No-09",
+      "parent_pcode_2015": "BD100651",
+      "parent_pcode": "BD10065000",
+      "parent_name": "Barishal City Corporation"
+    },
+    {
+      "pcode": "BD10065110",
+      "name_en": "Ward No-10",
+      "parent_pcode_2015": "BD100651",
+      "parent_pcode": "BD10065000",
+      "parent_name": "Barishal City Corporation"
+    },
+    {
+      "pcode": "BD10065111",
+      "name_en": "Ward No-11",
+      "parent_pcode_2015": "BD100651",
+      "parent_pcode": "BD10065000",
+      "parent_name": "Barishal City Corporation"
+    },
+    {
+      "pcode": "BD10065112",
+      "name_en": "Ward No-12",
+      "parent_pcode_2015": "BD100651",
+      "parent_pcode": "BD10065000",
+      "parent_name": "Barishal City Corporation"
+    },
+    {
+      "pcode": "BD10065113",
+      "name_en": "Ward No-13",
+      "parent_pcode_2015": "BD100651",
+      "parent_pcode": "BD10065000",
+      "parent_name": "Barishal City Corporation"
+    },
+    {
+      "pcode": "BD10065114",
+      "name_en": "Ward No-14",
+      "parent_pcode_2015": "BD100651",
+      "parent_pcode": "BD10065000",
+      "parent_name": "Barishal City Corporation"
+    },
+    {
+      "pcode": "BD10065115",
+      "name_en": "Ward No-15",
+      "parent_pcode_2015": "BD100651",
+      "parent_pcode": "BD10065000",
+      "parent_name": "Barishal City Corporation"
+    },
+    {
+      "pcode": "BD10065116",
+      "name_en": "Ward No-16",
+      "parent_pcode_2015": "BD100651",
+      "parent_pcode": "BD10065000",
+      "parent_name": "Barishal City Corporation"
+    },
+    {
+      "pcode": "BD10065117",
+      "name_en": "Ward No-17",
+      "parent_pcode_2015": "BD100651",
+      "parent_pcode": "BD10065000",
+      "parent_name": "Barishal City Corporation"
+    },
+    {
+      "pcode": "BD10065118",
+      "name_en": "Ward No-18",
+      "parent_pcode_2015": "BD100651",
+      "parent_pcode": "BD10065000",
+      "parent_name": "Barishal City Corporation"
+    },
+    {
+      "pcode": "BD10065119",
+      "name_en": "Ward No-19",
+      "parent_pcode_2015": "BD100651",
+      "parent_pcode": "BD10065000",
+      "parent_name": "Barishal City Corporation"
+    },
+    {
+      "pcode": "BD10065120",
+      "name_en": "Ward No-20",
+      "parent_pcode_2015": "BD100651",
+      "parent_pcode": "BD10065000",
+      "parent_name": "Barishal City Corporation"
+    },
+    {
+      "pcode": "BD10065121",
+      "name_en": "Ward No-21",
+      "parent_pcode_2015": "BD100651",
+      "parent_pcode": "BD10065000",
+      "parent_name": "Barishal City Corporation"
+    },
+    {
+      "pcode": "BD10065122",
+      "name_en": "Ward No-22",
+      "parent_pcode_2015": "BD100651",
+      "parent_pcode": "BD10065000",
+      "parent_name": "Barishal City Corporation"
+    },
+    {
+      "pcode": "BD10065123",
+      "name_en": "Ward No-23",
+      "parent_pcode_2015": "BD100651",
+      "parent_pcode": "BD10065000",
+      "parent_name": "Barishal City Corporation"
+    },
+    {
+      "pcode": "BD10065124",
+      "name_en": "Ward No-24",
+      "parent_pcode_2015": "BD100651",
+      "parent_pcode": "BD10065000",
+      "parent_name": "Barishal City Corporation"
+    },
+    {
+      "pcode": "BD10065125",
+      "name_en": "Ward No-25",
+      "parent_pcode_2015": "BD100651",
+      "parent_pcode": "BD10065000",
+      "parent_name": "Barishal City Corporation"
+    },
+    {
+      "pcode": "BD10065126",
+      "name_en": "Ward No-26",
+      "parent_pcode_2015": "BD100651",
+      "parent_pcode": "BD10065000",
+      "parent_name": "Barishal City Corporation"
+    },
+    {
+      "pcode": "BD10065127",
+      "name_en": "Ward No-27",
+      "parent_pcode_2015": "BD100651",
+      "parent_pcode": "BD10065000",
+      "parent_name": "Barishal City Corporation"
+    },
+    {
+      "pcode": "BD10065128",
+      "name_en": "Ward No-28",
+      "parent_pcode_2015": "BD100651",
+      "parent_pcode": "BD10065000",
+      "parent_name": "Barishal City Corporation"
+    },
+    {
+      "pcode": "BD10065129",
+      "name_en": "Ward No-29",
+      "parent_pcode_2015": "BD100651",
+      "parent_pcode": "BD10065000",
+      "parent_name": "Barishal City Corporation"
+    },
+    {
+      "pcode": "BD10065130",
+      "name_en": "Ward No-30",
+      "parent_pcode_2015": "BD100651",
+      "parent_pcode": "BD10065000",
+      "parent_name": "Barishal City Corporation"
+    },
+    {
+      "pcode": "BD10785727",
+      "name_en": "Bara Baisdia",
+      "parent_pcode_2015": "BD107857",
+      "parent_pcode": "BD10780097",
+      "parent_name": "Rangabali"
+    },
+    {
+      "pcode": "BD10785732",
+      "name_en": "Chalitabunia",
+      "parent_pcode_2015": "BD107857",
+      "parent_pcode": "BD10780097",
+      "parent_name": "Rangabali"
+    },
+    {
+      "pcode": "BD10785734",
+      "name_en": "Char Montaz",
+      "parent_pcode_2015": "BD107857",
+      "parent_pcode": "BD10780097",
+      "parent_name": "Rangabali"
+    },
+    {
+      "pcode": "BD10785744",
+      "name_en": "Chhota Baisdia",
+      "parent_pcode_2015": "BD107857",
+      "parent_pcode": "BD10780097",
+      "parent_name": "Rangabali"
+    },
+    {
+      "pcode": "BD10785783",
+      "name_en": "Rangabali",
+      "parent_pcode_2015": "BD107857",
+      "parent_pcode": "BD10780097",
+      "parent_name": "Rangabali"
+    },
+    {
+      "pcode": "BD20150601",
+      "name_en": "Ward No-01",
+      "parent_pcode_2015": "BD201506",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20150602",
+      "name_en": "Ward No-02",
+      "parent_pcode_2015": "BD201506",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20150603",
+      "name_en": "Ward No-03",
+      "parent_pcode_2015": "BD201506",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20151017",
+      "name_en": "Ward No-17",
+      "parent_pcode_2015": "BD201510",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20151018",
+      "name_en": "Ward No-18",
+      "parent_pcode_2015": "BD201510",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20151019",
+      "name_en": "Ward No-19",
+      "parent_pcode_2015": "BD201510",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20151035",
+      "name_en": "Ward No-35 (part)",
+      "parent_pcode_2015": "BD201510",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20151904",
+      "name_en": "Ward No-04",
+      "parent_pcode_2015": "BD201519",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20151905",
+      "name_en": "Ward No-05",
+      "parent_pcode_2015": "BD201519",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20151906",
+      "name_en": "Ward No-06",
+      "parent_pcode_2015": "BD201519",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20152036",
+      "name_en": "Ward No-36 (Part)",
+      "parent_pcode_2015": "BD201520",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20152037",
+      "name_en": "Ward No-37",
+      "parent_pcode_2015": "BD201520",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20152038",
+      "name_en": "Ward No-38",
+      "parent_pcode_2015": "BD201520",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20152039",
+      "name_en": "Ward No-39 (Part)",
+      "parent_pcode_2015": "BD201520",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20152812",
+      "name_en": "Ward No-12 (Part)",
+      "parent_pcode_2015": "BD201528",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20152823",
+      "name_en": "Ward No-23",
+      "parent_pcode_2015": "BD201528",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20152824",
+      "name_en": "Ward No-24 (part)",
+      "parent_pcode_2015": "BD201528",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20152827",
+      "name_en": "Ward No-27",
+      "parent_pcode_2015": "BD201528",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20152828",
+      "name_en": "Ward No-28",
+      "parent_pcode_2015": "BD201528",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20152829",
+      "name_en": "Ward No-29",
+      "parent_pcode_2015": "BD201528",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20152830",
+      "name_en": "Ward No-30 (Part)",
+      "parent_pcode_2015": "BD201528",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20152836",
+      "name_en": "Ward No-36 (Part)",
+      "parent_pcode_2015": "BD201528",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20153511",
+      "name_en": "Ward No-11 (Part)",
+      "parent_pcode_2015": "BD201535",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20153524",
+      "name_en": "Ward No-24 (part)",
+      "parent_pcode_2015": "BD201535",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20153525",
+      "name_en": "Ward No-25",
+      "parent_pcode_2015": "BD201535",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20153526",
+      "name_en": "Ward No-26",
+      "parent_pcode_2015": "BD201535",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20154115",
+      "name_en": "Ward No-15 (Part)",
+      "parent_pcode_2015": "BD201541",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20154116",
+      "name_en": "Ward No-16",
+      "parent_pcode_2015": "BD201541",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20154120",
+      "name_en": "Ward No-20",
+      "parent_pcode_2015": "BD201541",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20154121",
+      "name_en": "Ward No-21",
+      "parent_pcode_2015": "BD201541",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20154122",
+      "name_en": "Ward No-22",
+      "parent_pcode_2015": "BD201541",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20154130",
+      "name_en": "Ward No-30 (Part)",
+      "parent_pcode_2015": "BD201541",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20154131",
+      "name_en": "Ward No-31",
+      "parent_pcode_2015": "BD201541",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20154132",
+      "name_en": "Ward No-32",
+      "parent_pcode_2015": "BD201541",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20154133",
+      "name_en": "Ward No-33",
+      "parent_pcode_2015": "BD201541",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20154134",
+      "name_en": "Ward No-34",
+      "parent_pcode_2015": "BD201541",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20154135",
+      "name_en": "Ward No-35 (part)",
+      "parent_pcode_2015": "BD201541",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20154308",
+      "name_en": "Ward No-08 (part)",
+      "parent_pcode_2015": "BD201543",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20154309",
+      "name_en": "Ward No-09 (Part)",
+      "parent_pcode_2015": "BD201543",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20154313",
+      "name_en": "Ward No-13",
+      "parent_pcode_2015": "BD201543",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20154314",
+      "name_en": "Ward No-14",
+      "parent_pcode_2015": "BD201543",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20155509",
+      "name_en": "Ward No-09 (Part)",
+      "parent_pcode_2015": "BD201555",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20155510",
+      "name_en": "Ward No-10",
+      "parent_pcode_2015": "BD201555",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20155511",
+      "name_en": "Ward No-11 (Part)",
+      "parent_pcode_2015": "BD201555",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20155512",
+      "name_en": "Ward No-12 (Part)",
+      "parent_pcode_2015": "BD201555",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20155707",
+      "name_en": "Ward No-07",
+      "parent_pcode_2015": "BD201557",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20155708",
+      "name_en": "Ward No-08 (part)",
+      "parent_pcode_2015": "BD201557",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20155715",
+      "name_en": "Ward No-15 (Part)",
+      "parent_pcode_2015": "BD201557",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20156118",
+      "name_en": "Bara Uthan",
+      "parent_pcode_2015": "BD201561",
+      "parent_pcode": "BD20150039",
+      "parent_name": "Karnaphuli"
+    },
+    {
+      "pcode": "BD20156124",
+      "name_en": "Char Lakshya",
+      "parent_pcode_2015": "BD201561",
+      "parent_pcode": "BD20150039",
+      "parent_name": "Karnaphuli"
+    },
+    {
+      "pcode": "BD20156127",
+      "name_en": "Char Patharghata",
+      "parent_pcode_2015": "BD201561",
+      "parent_pcode": "BD20150039",
+      "parent_name": "Karnaphuli"
+    },
+    {
+      "pcode": "BD20156155",
+      "name_en": "Juldha",
+      "parent_pcode_2015": "BD201561",
+      "parent_pcode": "BD20150039",
+      "parent_name": "Karnaphuli"
+    },
+    {
+      "pcode": "BD20156185",
+      "name_en": "Sikalbaha",
+      "parent_pcode_2015": "BD201561",
+      "parent_pcode": "BD20150039",
+      "parent_name": "Karnaphuli"
+    },
+    {
+      "pcode": "BD20156539",
+      "name_en": "Ward No-39 (Part)",
+      "parent_pcode_2015": "BD201565",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20156540",
+      "name_en": "Ward No-40",
+      "parent_pcode_2015": "BD201565",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20156541",
+      "name_en": "Ward No-41",
+      "parent_pcode_2015": "BD201565",
+      "parent_pcode": "BD20151600",
+      "parent_name": "Chattogram City Corporation"
+    },
+    {
+      "pcode": "BD20193312",
+      "name_en": "Baghmara",
+      "parent_pcode_2015": "BD201933",
+      "parent_pcode": "BD20190073",
+      "parent_name": "Lalmai"
+    },
+    {
+      "pcode": "BD20193313",
+      "name_en": "Baghmara Uttar",
+      "parent_pcode_2015": "BD201933",
+      "parent_pcode": "BD20190073",
+      "parent_name": "Lalmai"
+    },
+    {
+      "pcode": "BD20193328",
+      "name_en": "Belghar",
+      "parent_pcode_2015": "BD201933",
+      "parent_pcode": "BD20190073",
+      "parent_name": "Lalmai"
+    },
+    {
+      "pcode": "BD20193329",
+      "name_en": "Belghar Uttar",
+      "parent_pcode_2015": "BD201933",
+      "parent_pcode": "BD20190073",
+      "parent_name": "Lalmai"
+    },
+    {
+      "pcode": "BD20193331",
+      "name_en": "Bholain (Dakshin)",
+      "parent_pcode_2015": "BD201933",
+      "parent_pcode": "BD20190073",
+      "parent_name": "Lalmai"
+    },
+    {
+      "pcode": "BD20193333",
+      "name_en": "Bholain (Uttar)",
+      "parent_pcode_2015": "BD201933",
+      "parent_pcode": "BD20190073",
+      "parent_name": "Lalmai"
+    },
+    {
+      "pcode": "BD20193383",
+      "name_en": "Perul (Dakshin)",
+      "parent_pcode_2015": "BD201933",
+      "parent_pcode": "BD20190073",
+      "parent_name": "Lalmai"
+    },
+    {
+      "pcode": "BD20193387",
+      "name_en": "Perul (Uttar)",
+      "parent_pcode_2015": "BD201933",
+      "parent_pcode": "BD20190073",
+      "parent_name": "Lalmai"
+    },
+    {
+      "pcode": "BD20193399",
+      "name_en": "Comilla Dakshin Paurashava",
+      "parent_pcode_2015": "BD201933",
+      "parent_pcode": "BD20195000",
+      "parent_name": "Cumilla City Corporation"
+    },
+    {
+      "pcode": "BD20196799",
+      "name_en": "Comilla Paurashava",
+      "parent_pcode_2015": "BD201967",
+      "parent_pcode": "BD20195000",
+      "parent_name": "Cumilla City Corporation"
+    },
+    {
+      "pcode": "BD20222435",
+      "name_en": "Idgaon",
+      "parent_pcode_2015": "BD202224",
+      "parent_pcode": "BD20220032",
+      "parent_name": "Eidgaon"
+    },
+    {
+      "pcode": "BD20222438",
+      "name_en": "Islampur",
+      "parent_pcode_2015": "BD202224",
+      "parent_pcode": "BD20220032",
+      "parent_name": "Eidgaon"
+    },
+    {
+      "pcode": "BD20222442",
+      "name_en": "Islamabad",
+      "parent_pcode_2015": "BD202224",
+      "parent_pcode": "BD20220032",
+      "parent_name": "Eidgaon"
+    },
+    {
+      "pcode": "BD20222445",
+      "name_en": "Jalalabad",
+      "parent_pcode_2015": "BD202224",
+      "parent_pcode": "BD20220032",
+      "parent_name": "Eidgaon"
+    },
+    {
+      "pcode": "BD20222483",
+      "name_en": "Pokkhali",
+      "parent_pcode_2015": "BD202224",
+      "parent_pcode": "BD20220032",
+      "parent_name": "Eidgaon"
+    },
+    {
+      "pcode": "BD20464963",
+      "name_en": "Khagrachhari",
+      "parent_pcode_2015": "BD204649",
+      "parent_pcode": "BD20460065",
+      "parent_name": "Mahalchhari"
+    },
+    {
+      "pcode": "BD20466579",
+      "name_en": "Sindukchari",
+      "parent_pcode_2015": "BD204665",
+      "parent_pcode": "BD20460047",
+      "parent_name": "Guimara"
+    },
+    {
+      "pcode": "BD20467035",
+      "name_en": "Beimar",
+      "parent_pcode_2015": "BD204670",
+      "parent_pcode": "BD20460047",
+      "parent_name": "Guimara"
+    },
+    {
+      "pcode": "BD20468038",
+      "name_en": "Hapchhari",
+      "parent_pcode_2015": "BD204680",
+      "parent_pcode": "BD20460047",
+      "parent_name": "Guimara"
+    },
+    {
+      "pcode": "BD20840710",
+      "name_en": "Amtali",
+      "parent_pcode_2015": "BD208407",
+      "parent_pcode": "BD20840058",
+      "parent_name": "Langadu"
+    },
+    {
+      "pcode": "BD30260243",
+      "name_en": "Ward No-43",
+      "parent_pcode_2015": "BD302602",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30260246",
+      "name_en": "Ward No-46",
+      "parent_pcode_2015": "BD302602",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30260413",
+      "name_en": "Badda",
+      "parent_pcode_2015": "BD302604",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30260417",
+      "name_en": "Ward No-17 (Part)",
+      "parent_pcode_2015": "BD302604",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30260419",
+      "name_en": "Beraid",
+      "parent_pcode_2015": "BD302604",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30260421",
+      "name_en": "Ward No-21",
+      "parent_pcode_2015": "BD302604",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30260457",
+      "name_en": "Bhatara",
+      "parent_pcode_2015": "BD302604",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30260482",
+      "name_en": "Satarkul",
+      "parent_pcode_2015": "BD302604",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30260563",
+      "name_en": "Ward No-63 (Part)",
+      "parent_pcode_2015": "BD302605",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30260566",
+      "name_en": "Ward No-66 (Part)",
+      "parent_pcode_2015": "BD302605",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30260567",
+      "name_en": "Ward No-67 (part)",
+      "parent_pcode_2015": "BD302605",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30260568",
+      "name_en": "Ward No-68 (part)",
+      "parent_pcode_2015": "BD302605",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30260569",
+      "name_en": "Ward No-69",
+      "parent_pcode_2015": "BD302605",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30260570",
+      "name_en": "Ward No-70",
+      "parent_pcode_2015": "BD302605",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30260571",
+      "name_en": "Ward No-71 (Part)",
+      "parent_pcode_2015": "BD302605",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30260601",
+      "name_en": "Ward No-01",
+      "parent_pcode_2015": "BD302606",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30260638",
+      "name_en": "Dakshinkhan (part)",
+      "parent_pcode_2015": "BD302606",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30260698",
+      "name_en": "Ward No-98 (rest. Area)",
+      "parent_pcode_2015": "BD302606",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30260815",
+      "name_en": "Ward No-15 (part)",
+      "parent_pcode_2015": "BD302608",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30260898",
+      "name_en": "Ward No-98 (Rest. Area)",
+      "parent_pcode_2015": "BD302608",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30260963",
+      "name_en": "Ward No-63 (Part)",
+      "parent_pcode_2015": "BD302609",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30260964",
+      "name_en": "Ward No-64",
+      "parent_pcode_2015": "BD302609",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30260965",
+      "name_en": "Ward No-65",
+      "parent_pcode_2015": "BD302609",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30260966",
+      "name_en": "Ward No-66 (Part)",
+      "parent_pcode_2015": "BD302609",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30260967",
+      "name_en": "Ward No-67 (Part)",
+      "parent_pcode_2015": "BD302609",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30261038",
+      "name_en": "Dakshinkhan (Part)",
+      "parent_pcode_2015": "BD302610",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30261109",
+      "name_en": "Ward No-09",
+      "parent_pcode_2015": "BD302611",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30261110",
+      "name_en": "Ward No-10",
+      "parent_pcode_2015": "BD302611",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30261265",
+      "name_en": "Demra (part)",
+      "parent_pcode_2015": "BD302612",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30261280",
+      "name_en": "Matuail (part)",
+      "parent_pcode_2015": "BD302612",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30261293",
+      "name_en": "Saralia",
+      "parent_pcode_2015": "BD302612",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30261647",
+      "name_en": "Ward No-47 (Part)",
+      "parent_pcode_2015": "BD302616",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30261648",
+      "name_en": "Ward No-48 (Part)",
+      "parent_pcode_2015": "BD302616",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30261649",
+      "name_en": "Ward No-49",
+      "parent_pcode_2015": "BD302616",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30262476",
+      "name_en": "Ward No-76 (Part)",
+      "parent_pcode_2015": "BD302624",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30262480",
+      "name_en": "Ward No-80 (Part)",
+      "parent_pcode_2015": "BD302624",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30262481",
+      "name_en": "Ward No-81",
+      "parent_pcode_2015": "BD302624",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30262482",
+      "name_en": "Ward No-82",
+      "parent_pcode_2015": "BD302624",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30262618",
+      "name_en": "Ward No-18",
+      "parent_pcode_2015": "BD302626",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30262619",
+      "name_en": "Ward No-19",
+      "parent_pcode_2015": "BD302626",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30262620",
+      "name_en": "Ward No-20 (Part)",
+      "parent_pcode_2015": "BD302626",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30262846",
+      "name_en": "Ward No-46 (Part)",
+      "parent_pcode_2015": "BD302628",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30262848",
+      "name_en": "Ward No-48 (Part)",
+      "parent_pcode_2015": "BD302628",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30262858",
+      "name_en": "Ward No-58",
+      "parent_pcode_2015": "BD302628",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30262935",
+      "name_en": "Dhania (part)",
+      "parent_pcode_2015": "BD302629",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30262976",
+      "name_en": "Ward No-76 (Part)",
+      "parent_pcode_2015": "BD302629",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30262980",
+      "name_en": "Matuail (part)",
+      "parent_pcode_2015": "BD302629",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30262984",
+      "name_en": "Ward No-84",
+      "parent_pcode_2015": "BD302629",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30262985",
+      "name_en": "Ward No-85",
+      "parent_pcode_2015": "BD302629",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30262986",
+      "name_en": "Ward No-86",
+      "parent_pcode_2015": "BD302629",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30263004",
+      "name_en": "Ward No-04",
+      "parent_pcode_2015": "BD302630",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30263014",
+      "name_en": "Ward No-14 (part)",
+      "parent_pcode_2015": "BD302630",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30263015",
+      "name_en": "Ward No-15 (part)",
+      "parent_pcode_2015": "BD302630",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30263016",
+      "name_en": "Ward No-16",
+      "parent_pcode_2015": "BD302630",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30263235",
+      "name_en": "Dhania (part)",
+      "parent_pcode_2015": "BD302632",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30263280",
+      "name_en": "Matuail (part)",
+      "parent_pcode_2015": "BD302632",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30263288",
+      "name_en": "Ward No-88",
+      "parent_pcode_2015": "BD302632",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30263289",
+      "name_en": "Ward No-89",
+      "parent_pcode_2015": "BD302632",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30263295",
+      "name_en": "Shyampur",
+      "parent_pcode_2015": "BD302632",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30263350",
+      "name_en": "Ward No-50",
+      "parent_pcode_2015": "BD302633",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30263351",
+      "name_en": "Ward No-51 (Part)",
+      "parent_pcode_2015": "BD302633",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30263451",
+      "name_en": "Sultanganj",
+      "parent_pcode_2015": "BD302634",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30263624",
+      "name_en": "Ward No-24",
+      "parent_pcode_2015": "BD302636",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30263625",
+      "name_en": "Ward No-25",
+      "parent_pcode_2015": "BD302636",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30263626",
+      "name_en": "Ward No-26",
+      "parent_pcode_2015": "BD302636",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30263660",
+      "name_en": "Dakshingaon (Part)",
+      "parent_pcode_2015": "BD302636",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30263685",
+      "name_en": "Nasirabad",
+      "parent_pcode_2015": "BD302636",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30263717",
+      "name_en": "Ward No-17 (Part)",
+      "parent_pcode_2015": "BD302637",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30263738",
+      "name_en": "Dakshinkhan (part)",
+      "parent_pcode_2015": "BD302637",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30263749",
+      "name_en": "Dumni",
+      "parent_pcode_2015": "BD302637",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30264068",
+      "name_en": "Ward No-68 (Part)",
+      "parent_pcode_2015": "BD302640",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30264071",
+      "name_en": "Ward No-71 (Part)",
+      "parent_pcode_2015": "BD302640",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30264072",
+      "name_en": "Ward No-72",
+      "parent_pcode_2015": "BD302640",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30264073",
+      "name_en": "Ward No-73",
+      "parent_pcode_2015": "BD302640",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30264256",
+      "name_en": "Ward No-56 (Part)",
+      "parent_pcode_2015": "BD302642",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30264259",
+      "name_en": "Ward No-59",
+      "parent_pcode_2015": "BD302642",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30264260",
+      "name_en": "Ward No-60",
+      "parent_pcode_2015": "BD302642",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30264261",
+      "name_en": "Ward No-61",
+      "parent_pcode_2015": "BD302642",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30264262",
+      "name_en": "Ward No-62",
+      "parent_pcode_2015": "BD302642",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30264291",
+      "name_en": "Ward No-91",
+      "parent_pcode_2015": "BD302642",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30264292",
+      "name_en": "Ward No-92",
+      "parent_pcode_2015": "BD302642",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30264807",
+      "name_en": "Ward No-07 (Part)",
+      "parent_pcode_2015": "BD302648",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30264811",
+      "name_en": "Ward No-11",
+      "parent_pcode_2015": "BD302648",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30264812",
+      "name_en": "Ward No-12",
+      "parent_pcode_2015": "BD302648",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30264813",
+      "name_en": "Ward No-13",
+      "parent_pcode_2015": "BD302648",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30264814",
+      "name_en": "Ward No-14 (part)",
+      "parent_pcode_2015": "BD302648",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30265042",
+      "name_en": "Ward No-42",
+      "parent_pcode_2015": "BD302650",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30265044",
+      "name_en": "Ward No-44",
+      "parent_pcode_2015": "BD302650",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30265045",
+      "name_en": "Ward No-45",
+      "parent_pcode_2015": "BD302650",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30265046",
+      "name_en": "Ward No-46",
+      "parent_pcode_2015": "BD302650",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30265047",
+      "name_en": "Ward No-47 (part)",
+      "parent_pcode_2015": "BD302650",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30265051",
+      "name_en": "Ward No-51 (part)",
+      "parent_pcode_2015": "BD302650",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30265431",
+      "name_en": "Ward No-31",
+      "parent_pcode_2015": "BD302654",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30265432",
+      "name_en": "Ward No-32",
+      "parent_pcode_2015": "BD302654",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30265433",
+      "name_en": "Ward No-33",
+      "parent_pcode_2015": "BD302654",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30265434",
+      "name_en": "Ward No-34",
+      "parent_pcode_2015": "BD302654",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30265435",
+      "name_en": "Ward No-35",
+      "parent_pcode_2015": "BD302654",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30266352",
+      "name_en": "Ward No-52",
+      "parent_pcode_2015": "BD302663",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30266402",
+      "name_en": "Ward No-02",
+      "parent_pcode_2015": "BD302664",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30266403",
+      "name_en": "Ward No-03",
+      "parent_pcode_2015": "BD302664",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30266405",
+      "name_en": "Ward No-05",
+      "parent_pcode_2015": "BD302664",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30266406",
+      "name_en": "Ward No-06",
+      "parent_pcode_2015": "BD302664",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30266415",
+      "name_en": "Ward No-15 (part)",
+      "parent_pcode_2015": "BD302664",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30266536",
+      "name_en": "Ward No-36",
+      "parent_pcode_2015": "BD302665",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30266653",
+      "name_en": "Ward No-53",
+      "parent_pcode_2015": "BD302666",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30266654",
+      "name_en": "Ward No-54",
+      "parent_pcode_2015": "BD302666",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30266655",
+      "name_en": "Ward No-55",
+      "parent_pcode_2015": "BD302666",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30266722",
+      "name_en": "Ward No-22",
+      "parent_pcode_2015": "BD302667",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30266723",
+      "name_en": "Ward No-23",
+      "parent_pcode_2015": "BD302667",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30266827",
+      "name_en": "Ward No-27",
+      "parent_pcode_2015": "BD302668",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30266828",
+      "name_en": "Ward No-28",
+      "parent_pcode_2015": "BD302668",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30266829",
+      "name_en": "Ward No-29",
+      "parent_pcode_2015": "BD302668",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30266830",
+      "name_en": "Ward No-30",
+      "parent_pcode_2015": "BD302668",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30266860",
+      "name_en": "Dakshingaon (Part)",
+      "parent_pcode_2015": "BD302668",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30266882",
+      "name_en": "Manda",
+      "parent_pcode_2015": "BD302668",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30267408",
+      "name_en": "Ward No-08",
+      "parent_pcode_2015": "BD302674",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30267556",
+      "name_en": "Ward No-56 (part)",
+      "parent_pcode_2015": "BD302675",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30267557",
+      "name_en": "Ward No-57",
+      "parent_pcode_2015": "BD302675",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30267683",
+      "name_en": "Ward No-83",
+      "parent_pcode_2015": "BD302676",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30267687",
+      "name_en": "Ward No-87",
+      "parent_pcode_2015": "BD302676",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30267690",
+      "name_en": "Ward No-90",
+      "parent_pcode_2015": "BD302676",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30268040",
+      "name_en": "Ward No-40 (Part)",
+      "parent_pcode_2015": "BD302680",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30268041",
+      "name_en": "Ward No-41",
+      "parent_pcode_2015": "BD302680",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30268874",
+      "name_en": "Ward No-74",
+      "parent_pcode_2015": "BD302688",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30268875",
+      "name_en": "Ward No-75",
+      "parent_pcode_2015": "BD302688",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30268877",
+      "name_en": "Ward No-77",
+      "parent_pcode_2015": "BD302688",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30268878",
+      "name_en": "Ward No-78",
+      "parent_pcode_2015": "BD302688",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30268879",
+      "name_en": "Ward No-79",
+      "parent_pcode_2015": "BD302688",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30268880",
+      "name_en": "Ward No-80 (Part)",
+      "parent_pcode_2015": "BD302688",
+      "parent_pcode": "BD30262000",
+      "parent_name": "Dhaka South City Corporation"
+    },
+    {
+      "pcode": "BD30269038",
+      "name_en": "Ward No-38 (Part)",
+      "parent_pcode_2015": "BD302690",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30269039",
+      "name_en": "Ward No-39",
+      "parent_pcode_2015": "BD302690",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30269040",
+      "name_en": "Ward No-40 (Part)",
+      "parent_pcode_2015": "BD302690",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30269220",
+      "name_en": "Ward No-20 (Part)",
+      "parent_pcode_2015": "BD302692",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30269237",
+      "name_en": "Ward No-37",
+      "parent_pcode_2015": "BD302692",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30269238",
+      "name_en": "Ward No-38 (Part)",
+      "parent_pcode_2015": "BD302692",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30269351",
+      "name_en": "Harirampur (Part)",
+      "parent_pcode_2015": "BD302693",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30269501",
+      "name_en": "Ward No-01",
+      "parent_pcode_2015": "BD302695",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30269676",
+      "name_en": "Uttar Khan",
+      "parent_pcode_2015": "BD302696",
+      "parent_pcode": "BD30262500",
+      "parent_name": "Dhaka North City Corporation"
+    },
+    {
+      "pcode": "BD30291820",
+      "name_en": "Chandpur",
+      "parent_pcode_2015": "BD302918",
+      "parent_pcode": "BD30290047",
+      "parent_name": "Faridpur Sadar"
+    },
+    {
+      "pcode": "BD30333000",
+      "name_en": "Tongi Paurashava",
+      "parent_pcode_2015": "BD303330",
+      "parent_pcode": "BD30333300",
+      "parent_name": "Gazipur City Corporation"
+    },
+    {
+      "pcode": "BD30333023",
+      "name_en": "Basan",
+      "parent_pcode_2015": "BD303330",
+      "parent_pcode": "BD30333300",
+      "parent_name": "Gazipur City Corporation"
+    },
+    {
+      "pcode": "BD30333031",
+      "name_en": "Gachha",
+      "parent_pcode_2015": "BD303330",
+      "parent_pcode": "BD30333300",
+      "parent_name": "Gazipur City Corporation"
+    },
+    {
+      "pcode": "BD30333047",
+      "name_en": "Kashimpur",
+      "parent_pcode_2015": "BD303330",
+      "parent_pcode": "BD30333300",
+      "parent_name": "Gazipur City Corporation"
+    },
+    {
+      "pcode": "BD30333054",
+      "name_en": "Kayaltia",
+      "parent_pcode_2015": "BD303330",
+      "parent_pcode": "BD30333300",
+      "parent_name": "Gazipur City Corporation"
+    },
+    {
+      "pcode": "BD30333060",
+      "name_en": "Konabari",
+      "parent_pcode_2015": "BD303330",
+      "parent_pcode": "BD30333300",
+      "parent_name": "Gazipur City Corporation"
+    },
+    {
+      "pcode": "BD30333081",
+      "name_en": "Pubail",
+      "parent_pcode_2015": "BD303330",
+      "parent_pcode": "BD30333300",
+      "parent_name": "Gazipur City Corporation"
+    },
+    {
+      "pcode": "BD30333099",
+      "name_en": "Gazipur Paurashava",
+      "parent_pcode_2015": "BD303330",
+      "parent_pcode": "BD30333300",
+      "parent_name": "Gazipur City Corporation"
+    },
+    {
+      "pcode": "BD30544012",
+      "name_en": "Baligram",
+      "parent_pcode_2015": "BD305440",
+      "parent_pcode": "BD30540018",
+      "parent_name": "Dasar"
+    },
+    {
+      "pcode": "BD30544031",
+      "name_en": "Dasar",
+      "parent_pcode_2015": "BD305440",
+      "parent_pcode": "BD30540018",
+      "parent_name": "Dasar"
+    },
+    {
+      "pcode": "BD30544044",
+      "name_en": "Gopalpur",
+      "parent_pcode_2015": "BD305440",
+      "parent_pcode": "BD30540018",
+      "parent_name": "Dasar"
+    },
+    {
+      "pcode": "BD30544063",
+      "name_en": "Kazibakai",
+      "parent_pcode_2015": "BD305440",
+      "parent_pcode": "BD30540018",
+      "parent_name": "Dasar"
+    },
+    {
+      "pcode": "BD30544075",
+      "name_en": "Nabagram",
+      "parent_pcode_2015": "BD305440",
+      "parent_pcode": "BD30540018",
+      "parent_name": "Dasar"
+    },
+    {
+      "pcode": "BD30670699",
+      "name_en": "Kadam Rasul Paurashava",
+      "parent_pcode_2015": "BD306706",
+      "parent_pcode": "BD30674400",
+      "parent_name": "Narayanganj City Corporation"
+    },
+    {
+      "pcode": "BD30675800",
+      "name_en": "Siddirganj Paurashava",
+      "parent_pcode_2015": "BD306758",
+      "parent_pcode": "BD30674400",
+      "parent_name": "Narayanganj City Corporation"
+    },
+    {
+      "pcode": "BD30675899",
+      "name_en": "Narayanganj Paurashava",
+      "parent_pcode_2015": "BD306758",
+      "parent_pcode": "BD30674400",
+      "parent_name": "Narayanganj City Corporation"
+    },
+    {
+      "pcode": "BD40472101",
+      "name_en": "Ward No-01",
+      "parent_pcode_2015": "BD404721",
+      "parent_pcode": "BD40473300",
+      "parent_name": "Khulna City Corporation"
+    },
+    {
+      "pcode": "BD40472102",
+      "name_en": "Ward No-02 (part)",
+      "parent_pcode_2015": "BD404721",
+      "parent_pcode": "BD40473300",
+      "parent_name": "Khulna City Corporation"
+    },
+    {
+      "pcode": "BD40472103",
+      "name_en": "Ward No-03",
+      "parent_pcode_2015": "BD404721",
+      "parent_pcode": "BD40473300",
+      "parent_name": "Khulna City Corporation"
+    },
+    {
+      "pcode": "BD40472104",
+      "name_en": "Ward No-04",
+      "parent_pcode_2015": "BD404721",
+      "parent_pcode": "BD40473300",
+      "parent_name": "Khulna City Corporation"
+    },
+    {
+      "pcode": "BD40472105",
+      "name_en": "Ward No-05",
+      "parent_pcode_2015": "BD404721",
+      "parent_pcode": "BD40473300",
+      "parent_name": "Khulna City Corporation"
+    },
+    {
+      "pcode": "BD40472106",
+      "name_en": "Ward No-06",
+      "parent_pcode_2015": "BD404721",
+      "parent_pcode": "BD40473300",
+      "parent_name": "Khulna City Corporation"
+    },
+    {
+      "pcode": "BD40472110",
+      "name_en": "Aranghata",
+      "parent_pcode_2015": "BD404721",
+      "parent_pcode": "BD40470040",
+      "parent_name": "Dighalia"
+    },
+    {
+      "pcode": "BD40474507",
+      "name_en": "Ward No-07",
+      "parent_pcode_2015": "BD404745",
+      "parent_pcode": "BD40473300",
+      "parent_name": "Khulna City Corporation"
+    },
+    {
+      "pcode": "BD40474508",
+      "name_en": "Ward No-08",
+      "parent_pcode_2015": "BD404745",
+      "parent_pcode": "BD40473300",
+      "parent_name": "Khulna City Corporation"
+    },
+    {
+      "pcode": "BD40474509",
+      "name_en": "Ward No-09",
+      "parent_pcode_2015": "BD404745",
+      "parent_pcode": "BD40473300",
+      "parent_name": "Khulna City Corporation"
+    },
+    {
+      "pcode": "BD40474510",
+      "name_en": "Ward No-10",
+      "parent_pcode_2015": "BD404745",
+      "parent_pcode": "BD40473300",
+      "parent_name": "Khulna City Corporation"
+    },
+    {
+      "pcode": "BD40474511",
+      "name_en": "Ward No-11",
+      "parent_pcode_2015": "BD404745",
+      "parent_pcode": "BD40473300",
+      "parent_name": "Khulna City Corporation"
+    },
+    {
+      "pcode": "BD40474512",
+      "name_en": "Ward No-12",
+      "parent_pcode_2015": "BD404745",
+      "parent_pcode": "BD40473300",
+      "parent_name": "Khulna City Corporation"
+    },
+    {
+      "pcode": "BD40474513",
+      "name_en": "Ward No-13",
+      "parent_pcode_2015": "BD404745",
+      "parent_pcode": "BD40473300",
+      "parent_name": "Khulna City Corporation"
+    },
+    {
+      "pcode": "BD40474514",
+      "name_en": "Ward No-14",
+      "parent_pcode_2015": "BD404745",
+      "parent_pcode": "BD40473300",
+      "parent_name": "Khulna City Corporation"
+    },
+    {
+      "pcode": "BD40474515",
+      "name_en": "Ward No-15",
+      "parent_pcode_2015": "BD404745",
+      "parent_pcode": "BD40473300",
+      "parent_name": "Khulna City Corporation"
+    },
+    {
+      "pcode": "BD40474802",
+      "name_en": "Ward No-02 (part)",
+      "parent_pcode_2015": "BD404748",
+      "parent_pcode": "BD40473300",
+      "parent_name": "Khulna City Corporation"
+    },
+    {
+      "pcode": "BD40474819",
+      "name_en": "Atra Gilatala",
+      "parent_pcode_2015": "BD404748",
+      "parent_pcode": "BD40470069",
+      "parent_name": "Phultala"
+    },
+    {
+      "pcode": "BD40474875",
+      "name_en": "Jugipole",
+      "parent_pcode_2015": "BD404748",
+      "parent_pcode": "BD40470040",
+      "parent_name": "Dighalia"
+    },
+    {
+      "pcode": "BD40475121",
+      "name_en": "Ward No-21",
+      "parent_pcode_2015": "BD404751",
+      "parent_pcode": "BD40473300",
+      "parent_name": "Khulna City Corporation"
+    },
+    {
+      "pcode": "BD40475122",
+      "name_en": "Ward No-22",
+      "parent_pcode_2015": "BD404751",
+      "parent_pcode": "BD40473300",
+      "parent_name": "Khulna City Corporation"
+    },
+    {
+      "pcode": "BD40475123",
+      "name_en": "Ward No-23",
+      "parent_pcode_2015": "BD404751",
+      "parent_pcode": "BD40473300",
+      "parent_name": "Khulna City Corporation"
+    },
+    {
+      "pcode": "BD40475124",
+      "name_en": "Ward No-24",
+      "parent_pcode_2015": "BD404751",
+      "parent_pcode": "BD40473300",
+      "parent_name": "Khulna City Corporation"
+    },
+    {
+      "pcode": "BD40475127",
+      "name_en": "Ward No-27",
+      "parent_pcode_2015": "BD404751",
+      "parent_pcode": "BD40473300",
+      "parent_name": "Khulna City Corporation"
+    },
+    {
+      "pcode": "BD40475128",
+      "name_en": "Ward No-28",
+      "parent_pcode_2015": "BD404751",
+      "parent_pcode": "BD40473300",
+      "parent_name": "Khulna City Corporation"
+    },
+    {
+      "pcode": "BD40475129",
+      "name_en": "Ward No-29",
+      "parent_pcode_2015": "BD404751",
+      "parent_pcode": "BD40473300",
+      "parent_name": "Khulna City Corporation"
+    },
+    {
+      "pcode": "BD40475130",
+      "name_en": "Ward No-30",
+      "parent_pcode_2015": "BD404751",
+      "parent_pcode": "BD40473300",
+      "parent_name": "Khulna City Corporation"
+    },
+    {
+      "pcode": "BD40475131",
+      "name_en": "Ward No-31",
+      "parent_pcode_2015": "BD404751",
+      "parent_pcode": "BD40473300",
+      "parent_name": "Khulna City Corporation"
+    },
+    {
+      "pcode": "BD40478516",
+      "name_en": "Ward No-16",
+      "parent_pcode_2015": "BD404785",
+      "parent_pcode": "BD40473300",
+      "parent_name": "Khulna City Corporation"
+    },
+    {
+      "pcode": "BD40478517",
+      "name_en": "Ward No-17",
+      "parent_pcode_2015": "BD404785",
+      "parent_pcode": "BD40473300",
+      "parent_name": "Khulna City Corporation"
+    },
+    {
+      "pcode": "BD40478518",
+      "name_en": "Ward No-18",
+      "parent_pcode_2015": "BD404785",
+      "parent_pcode": "BD40473300",
+      "parent_name": "Khulna City Corporation"
+    },
+    {
+      "pcode": "BD40478519",
+      "name_en": "Ward No-19",
+      "parent_pcode_2015": "BD404785",
+      "parent_pcode": "BD40473300",
+      "parent_name": "Khulna City Corporation"
+    },
+    {
+      "pcode": "BD40478520",
+      "name_en": "Ward No-20",
+      "parent_pcode_2015": "BD404785",
+      "parent_pcode": "BD40473300",
+      "parent_name": "Khulna City Corporation"
+    },
+    {
+      "pcode": "BD40478525",
+      "name_en": "Ward No-25",
+      "parent_pcode_2015": "BD404785",
+      "parent_pcode": "BD40473300",
+      "parent_name": "Khulna City Corporation"
+    },
+    {
+      "pcode": "BD40478526",
+      "name_en": "Ward No-26",
+      "parent_pcode_2015": "BD404785",
+      "parent_pcode": "BD40473300",
+      "parent_name": "Khulna City Corporation"
+    },
+    {
+      "pcode": "BD45615223",
+      "name_en": "Akua",
+      "parent_pcode_2015": "BD456152",
+      "parent_pcode": "BD45614000",
+      "parent_name": "Mymensingh City Corporation"
+    },
+    {
+      "pcode": "BD45615227",
+      "name_en": "Baira (kewatkhali)",
+      "parent_pcode_2015": "BD456152",
+      "parent_pcode": "BD45614000",
+      "parent_name": "Mymensingh City Corporation"
+    },
+    {
+      "pcode": "BD45615233",
+      "name_en": "Char Ishwardia",
+      "parent_pcode_2015": "BD456152",
+      "parent_pcode": "BD45614000",
+      "parent_name": "Mymensingh City Corporation"
+    },
+    {
+      "pcode": "BD45615299",
+      "name_en": "Mymensingh Paurashava",
+      "parent_pcode_2015": "BD456152",
+      "parent_pcode": "BD45614000",
+      "parent_name": "Mymensingh City Corporation"
+    },
+    {
+      "pcode": "BD45618112",
+      "name_en": "Balikhan",
+      "parent_pcode_2015": "BD456181",
+      "parent_pcode": "BD45610088",
+      "parent_name": "Tarakanda"
+    },
+    {
+      "pcode": "BD45618113",
+      "name_en": "Banihala",
+      "parent_pcode_2015": "BD456181",
+      "parent_pcode": "BD45610088",
+      "parent_name": "Tarakanda"
+    },
+    {
+      "pcode": "BD45618122",
+      "name_en": "Bishka",
+      "parent_pcode_2015": "BD456181",
+      "parent_pcode": "BD45610088",
+      "parent_name": "Tarakanda"
+    },
+    {
+      "pcode": "BD45618131",
+      "name_en": "Dhakua",
+      "parent_pcode_2015": "BD456181",
+      "parent_pcode": "BD45610088",
+      "parent_name": "Tarakanda"
+    },
+    {
+      "pcode": "BD45618136",
+      "name_en": "Galagaon",
+      "parent_pcode_2015": "BD456181",
+      "parent_pcode": "BD45610088",
+      "parent_name": "Tarakanda"
+    },
+    {
+      "pcode": "BD45618140",
+      "name_en": "Kakni",
+      "parent_pcode_2015": "BD456181",
+      "parent_pcode": "BD45610088",
+      "parent_name": "Tarakanda"
+    },
+    {
+      "pcode": "BD45618145",
+      "name_en": "Kamargaon",
+      "parent_pcode_2015": "BD456181",
+      "parent_pcode": "BD45610088",
+      "parent_name": "Tarakanda"
+    },
+    {
+      "pcode": "BD45618149",
+      "name_en": "Kamaria",
+      "parent_pcode_2015": "BD456181",
+      "parent_pcode": "BD45610088",
+      "parent_name": "Tarakanda"
+    },
+    {
+      "pcode": "BD45618172",
+      "name_en": "Rampur",
+      "parent_pcode_2015": "BD456181",
+      "parent_pcode": "BD45610088",
+      "parent_name": "Tarakanda"
+    },
+    {
+      "pcode": "BD45618194",
+      "name_en": "Tarakanda",
+      "parent_pcode_2015": "BD456181",
+      "parent_pcode": "BD45610088",
+      "parent_name": "Tarakanda"
+    },
+    {
+      "pcode": "BD50696300",
+      "name_en": "Naldanga Paurashava",
+      "parent_pcode_2015": "BD506963",
+      "parent_pcode": "BD50690055",
+      "parent_name": "Naldanga"
+    },
+    {
+      "pcode": "BD50696323",
+      "name_en": "Bipra Belgharia",
+      "parent_pcode_2015": "BD506963",
+      "parent_pcode": "BD50690055",
+      "parent_name": "Naldanga"
+    },
+    {
+      "pcode": "BD50696326",
+      "name_en": "Brahmapur",
+      "parent_pcode_2015": "BD506963",
+      "parent_pcode": "BD50690055",
+      "parent_name": "Naldanga"
+    },
+    {
+      "pcode": "BD50696358",
+      "name_en": "Khajuria",
+      "parent_pcode_2015": "BD506963",
+      "parent_pcode": "BD50690055",
+      "parent_name": "Naldanga"
+    },
+    {
+      "pcode": "BD50696373",
+      "name_en": "Madhnagar",
+      "parent_pcode_2015": "BD506963",
+      "parent_pcode": "BD50690055",
+      "parent_name": "Naldanga"
+    },
+    {
+      "pcode": "BD50696387",
+      "name_en": "Piprul",
+      "parent_pcode_2015": "BD506963",
+      "parent_pcode": "BD50690055",
+      "parent_name": "Naldanga"
+    },
+    {
+      "pcode": "BD50812208",
+      "name_en": "Ward No-08",
+      "parent_pcode_2015": "BD508122",
+      "parent_pcode": "BD50816600",
+      "parent_name": "Rajshahi City Corporation"
+    },
+    {
+      "pcode": "BD50812209",
+      "name_en": "Ward No-09",
+      "parent_pcode_2015": "BD508122",
+      "parent_pcode": "BD50816600",
+      "parent_name": "Rajshahi City Corporation"
+    },
+    {
+      "pcode": "BD50812210",
+      "name_en": "Ward No-10 (part)",
+      "parent_pcode_2015": "BD508122",
+      "parent_pcode": "BD50816600",
+      "parent_name": "Rajshahi City Corporation"
+    },
+    {
+      "pcode": "BD50812211",
+      "name_en": "Ward No-11",
+      "parent_pcode_2015": "BD508122",
+      "parent_pcode": "BD50816600",
+      "parent_name": "Rajshahi City Corporation"
+    },
+    {
+      "pcode": "BD50812212",
+      "name_en": "Ward No-12",
+      "parent_pcode_2015": "BD508122",
+      "parent_pcode": "BD50816600",
+      "parent_name": "Rajshahi City Corporation"
+    },
+    {
+      "pcode": "BD50812213",
+      "name_en": "Ward No-13",
+      "parent_pcode_2015": "BD508122",
+      "parent_pcode": "BD50816600",
+      "parent_name": "Rajshahi City Corporation"
+    },
+    {
+      "pcode": "BD50812214",
+      "name_en": "Ward No-14",
+      "parent_pcode_2015": "BD508122",
+      "parent_pcode": "BD50816600",
+      "parent_name": "Rajshahi City Corporation"
+    },
+    {
+      "pcode": "BD50812215",
+      "name_en": "Ward No-15",
+      "parent_pcode_2015": "BD508122",
+      "parent_pcode": "BD50816600",
+      "parent_name": "Rajshahi City Corporation"
+    },
+    {
+      "pcode": "BD50812216",
+      "name_en": "Ward No-16",
+      "parent_pcode_2015": "BD508122",
+      "parent_pcode": "BD50816600",
+      "parent_name": "Rajshahi City Corporation"
+    },
+    {
+      "pcode": "BD50812218",
+      "name_en": "Ward No-18 (part)",
+      "parent_pcode_2015": "BD508122",
+      "parent_pcode": "BD50816600",
+      "parent_name": "Rajshahi City Corporation"
+    },
+    {
+      "pcode": "BD50812219",
+      "name_en": "Ward No-19",
+      "parent_pcode_2015": "BD508122",
+      "parent_pcode": "BD50816600",
+      "parent_name": "Rajshahi City Corporation"
+    },
+    {
+      "pcode": "BD50812220",
+      "name_en": "Ward No-20",
+      "parent_pcode_2015": "BD508122",
+      "parent_pcode": "BD50816600",
+      "parent_name": "Rajshahi City Corporation"
+    },
+    {
+      "pcode": "BD50812221",
+      "name_en": "Ward No-21",
+      "parent_pcode_2015": "BD508122",
+      "parent_pcode": "BD50816600",
+      "parent_name": "Rajshahi City Corporation"
+    },
+    {
+      "pcode": "BD50812222",
+      "name_en": "Ward No-22",
+      "parent_pcode_2015": "BD508122",
+      "parent_pcode": "BD50816600",
+      "parent_name": "Rajshahi City Corporation"
+    },
+    {
+      "pcode": "BD50812223",
+      "name_en": "Ward No-23",
+      "parent_pcode_2015": "BD508122",
+      "parent_pcode": "BD50816600",
+      "parent_name": "Rajshahi City Corporation"
+    },
+    {
+      "pcode": "BD50812224",
+      "name_en": "Ward No-24",
+      "parent_pcode_2015": "BD508122",
+      "parent_pcode": "BD50816600",
+      "parent_name": "Rajshahi City Corporation"
+    },
+    {
+      "pcode": "BD50812225",
+      "name_en": "Ward No-25",
+      "parent_pcode_2015": "BD508122",
+      "parent_pcode": "BD50816600",
+      "parent_name": "Rajshahi City Corporation"
+    },
+    {
+      "pcode": "BD50812226",
+      "name_en": "Ward No-26",
+      "parent_pcode_2015": "BD508122",
+      "parent_pcode": "BD50816600",
+      "parent_name": "Rajshahi City Corporation"
+    },
+    {
+      "pcode": "BD50812227",
+      "name_en": "Ward No-27",
+      "parent_pcode_2015": "BD508122",
+      "parent_pcode": "BD50816600",
+      "parent_name": "Rajshahi City Corporation"
+    },
+    {
+      "pcode": "BD50814028",
+      "name_en": "Ward No-28",
+      "parent_pcode_2015": "BD508140",
+      "parent_pcode": "BD50816600",
+      "parent_name": "Rajshahi City Corporation"
+    },
+    {
+      "pcode": "BD50814029",
+      "name_en": "Ward No-29",
+      "parent_pcode_2015": "BD508140",
+      "parent_pcode": "BD50816600",
+      "parent_name": "Rajshahi City Corporation"
+    },
+    {
+      "pcode": "BD50814030",
+      "name_en": "Ward No-30",
+      "parent_pcode_2015": "BD508140",
+      "parent_pcode": "BD50816600",
+      "parent_name": "Rajshahi City Corporation"
+    },
+    {
+      "pcode": "BD50818501",
+      "name_en": "Ward No-01",
+      "parent_pcode_2015": "BD508185",
+      "parent_pcode": "BD50816600",
+      "parent_name": "Rajshahi City Corporation"
+    },
+    {
+      "pcode": "BD50818503",
+      "name_en": "Ward No-03",
+      "parent_pcode_2015": "BD508185",
+      "parent_pcode": "BD50816600",
+      "parent_name": "Rajshahi City Corporation"
+    },
+    {
+      "pcode": "BD50818505",
+      "name_en": "Ward No-05",
+      "parent_pcode_2015": "BD508185",
+      "parent_pcode": "BD50816600",
+      "parent_name": "Rajshahi City Corporation"
+    },
+    {
+      "pcode": "BD50818506",
+      "name_en": "Ward No-06",
+      "parent_pcode_2015": "BD508185",
+      "parent_pcode": "BD50816600",
+      "parent_name": "Rajshahi City Corporation"
+    },
+    {
+      "pcode": "BD50818507",
+      "name_en": "Ward No-07",
+      "parent_pcode_2015": "BD508185",
+      "parent_pcode": "BD50816600",
+      "parent_name": "Rajshahi City Corporation"
+    },
+    {
+      "pcode": "BD50818510",
+      "name_en": "Ward No-10 (part)",
+      "parent_pcode_2015": "BD508185",
+      "parent_pcode": "BD50816600",
+      "parent_name": "Rajshahi City Corporation"
+    },
+    {
+      "pcode": "BD50819017",
+      "name_en": "Ward No-17",
+      "parent_pcode_2015": "BD508190",
+      "parent_pcode": "BD50816600",
+      "parent_name": "Rajshahi City Corporation"
+    },
+    {
+      "pcode": "BD50819018",
+      "name_en": "Ward No-18 (part)",
+      "parent_pcode_2015": "BD508190",
+      "parent_pcode": "BD50816600",
+      "parent_name": "Rajshahi City Corporation"
+    },
+    {
+      "pcode": "BD55852752",
+      "name_en": "Khaleya",
+      "parent_pcode_2015": "BD558527",
+      "parent_pcode": "BD55850049",
+      "parent_name": "Rangpur Sadar"
+    },
+    {
+      "pcode": "BD55854919",
+      "name_en": "Darshana",
+      "parent_pcode_2015": "BD558549",
+      "parent_pcode": "BD55857500",
+      "parent_name": "Rangpur City Corporation"
+    },
+    {
+      "pcode": "BD55854939",
+      "name_en": "Pashuram",
+      "parent_pcode_2015": "BD558549",
+      "parent_pcode": "BD55857500",
+      "parent_name": "Rangpur City Corporation"
+    },
+    {
+      "pcode": "BD55854947",
+      "name_en": "Rajendrapur",
+      "parent_pcode_2015": "BD558549",
+      "parent_pcode": "BD55857500",
+      "parent_name": "Rangpur City Corporation"
+    },
+    {
+      "pcode": "BD55854971",
+      "name_en": "Satgara",
+      "parent_pcode_2015": "BD558549",
+      "parent_pcode": "BD55857500",
+      "parent_name": "Rangpur City Corporation"
+    },
+    {
+      "pcode": "BD55854979",
+      "name_en": "Tamphat",
+      "parent_pcode_2015": "BD558549",
+      "parent_pcode": "BD55857500",
+      "parent_name": "Rangpur City Corporation"
+    },
+    {
+      "pcode": "BD55854987",
+      "name_en": "Tapodhan",
+      "parent_pcode_2015": "BD558549",
+      "parent_pcode": "BD55857500",
+      "parent_name": "Rangpur City Corporation"
+    },
+    {
+      "pcode": "BD55854994",
+      "name_en": "Uttam",
+      "parent_pcode_2015": "BD558549",
+      "parent_pcode": "BD55857500",
+      "parent_name": "Rangpur City Corporation"
+    },
+    {
+      "pcode": "BD55854999",
+      "name_en": "Paurashava",
+      "parent_pcode_2015": "BD558549",
+      "parent_pcode": "BD55857500",
+      "parent_name": "Rangpur City Corporation"
+    },
+    {
+      "pcode": "BD60364400",
+      "name_en": "Shayestagang Paurashava",
+      "parent_pcode_2015": "BD603644",
+      "parent_pcode": "BD60360087",
+      "parent_name": "Shayestaganj"
+    },
+    {
+      "pcode": "BD60364447",
+      "name_en": "Nurpur",
+      "parent_pcode_2015": "BD603644",
+      "parent_pcode": "BD60360087",
+      "parent_name": "Shayestaganj"
+    },
+    {
+      "pcode": "BD60364485",
+      "name_en": "Saistaganj",
+      "parent_pcode_2015": "BD603644",
+      "parent_pcode": "BD60360087",
+      "parent_name": "Shayestaganj"
+    },
+    {
+      "pcode": "BD60902711",
+      "name_en": "Durgapasha",
+      "parent_pcode_2015": "BD609027",
+      "parent_pcode": "BD60900087",
+      "parent_name": "Shantiganj"
+    },
+    {
+      "pcode": "BD60902733",
+      "name_en": "Joykalas",
+      "parent_pcode_2015": "BD609027",
+      "parent_pcode": "BD60900087",
+      "parent_name": "Shantiganj"
+    },
+    {
+      "pcode": "BD60902761",
+      "name_en": "Patharia",
+      "parent_pcode_2015": "BD609027",
+      "parent_pcode": "BD60900087",
+      "parent_name": "Shantiganj"
+    },
+    {
+      "pcode": "BD60902778",
+      "name_en": "Shimulbak",
+      "parent_pcode_2015": "BD609027",
+      "parent_pcode": "BD60900087",
+      "parent_name": "Shantiganj"
+    },
+    {
+      "pcode": "BD60902789",
+      "name_en": "Paschim Birgaon",
+      "parent_pcode_2015": "BD609027",
+      "parent_pcode": "BD60900087",
+      "parent_name": "Shantiganj"
+    },
+    {
+      "pcode": "BD60902790",
+      "name_en": "Paschim Pagla",
+      "parent_pcode_2015": "BD609027",
+      "parent_pcode": "BD60900087",
+      "parent_name": "Shantiganj"
+    },
+    {
+      "pcode": "BD60902792",
+      "name_en": "Purba Birgoan",
+      "parent_pcode_2015": "BD609027",
+      "parent_pcode": "BD60900087",
+      "parent_name": "Shantiganj"
+    },
+    {
+      "pcode": "BD60902794",
+      "name_en": "Purba Pagla",
+      "parent_pcode_2015": "BD609027",
+      "parent_pcode": "BD60900087",
+      "parent_name": "Shantiganj"
+    },
+    {
+      "pcode": "BD60903223",
+      "name_en": "Chamardani",
+      "parent_pcode_2015": "BD609032",
+      "parent_pcode": "BD60900063",
+      "parent_name": "Madhyanagar"
+    },
+    {
+      "pcode": "BD60903235",
+      "name_en": "Dakshin Bongshikunda",
+      "parent_pcode_2015": "BD609032",
+      "parent_pcode": "BD60900063",
+      "parent_name": "Madhyanagar"
+    },
+    {
+      "pcode": "BD60903257",
+      "name_en": "Madhyanagar",
+      "parent_pcode_2015": "BD609032",
+      "parent_pcode": "BD60900063",
+      "parent_name": "Madhyanagar"
+    },
+    {
+      "pcode": "BD60903290",
+      "name_en": "Uttar Bangshikunda",
+      "parent_pcode_2015": "BD609032",
+      "parent_pcode": "BD60900063",
+      "parent_name": "Madhyanagar"
+    },
+    {
+      "pcode": "BD60910820",
+      "name_en": "Burunga",
+      "parent_pcode_2015": "BD609108",
+      "parent_pcode": "BD60910060",
+      "parent_name": "Osmaninagar"
+    },
+    {
+      "pcode": "BD60910827",
+      "name_en": "Dayamir",
+      "parent_pcode_2015": "BD609108",
+      "parent_pcode": "BD60910060",
+      "parent_name": "Osmaninagar"
+    },
+    {
+      "pcode": "BD60910840",
+      "name_en": "Goula Bazar",
+      "parent_pcode_2015": "BD609108",
+      "parent_pcode": "BD60910060",
+      "parent_name": "Osmaninagar"
+    },
+    {
+      "pcode": "BD60910851",
+      "name_en": "Omarpur",
+      "parent_pcode_2015": "BD609108",
+      "parent_pcode": "BD60910060",
+      "parent_name": "Osmaninagar"
+    },
+    {
+      "pcode": "BD60910855",
+      "name_en": "Osmanpur",
+      "parent_pcode_2015": "BD609108",
+      "parent_pcode": "BD60910060",
+      "parent_name": "Osmaninagar"
+    },
+    {
+      "pcode": "BD60910864",
+      "name_en": "Paschim Pailanpur",
+      "parent_pcode_2015": "BD609108",
+      "parent_pcode": "BD60910060",
+      "parent_name": "Osmaninagar"
+    },
+    {
+      "pcode": "BD60910881",
+      "name_en": "Sadipur",
+      "parent_pcode_2015": "BD609108",
+      "parent_pcode": "BD60910060",
+      "parent_name": "Osmaninagar"
+    },
+    {
+      "pcode": "BD60910888",
+      "name_en": "Tajpur",
+      "parent_pcode_2015": "BD609108",
+      "parent_pcode": "BD60910060",
+      "parent_name": "Osmaninagar"
+    },
+    {
+      "pcode": "BD60916201",
+      "name_en": "Ward No-01",
+      "parent_pcode_2015": "BD609162",
+      "parent_pcode": "BD60915000",
+      "parent_name": "Sylhet City Corporation"
+    },
+    {
+      "pcode": "BD60916202",
+      "name_en": "Ward No-02",
+      "parent_pcode_2015": "BD609162",
+      "parent_pcode": "BD60915000",
+      "parent_name": "Sylhet City Corporation"
+    },
+    {
+      "pcode": "BD60916203",
+      "name_en": "Ward No-03",
+      "parent_pcode_2015": "BD609162",
+      "parent_pcode": "BD60915000",
+      "parent_name": "Sylhet City Corporation"
+    },
+    {
+      "pcode": "BD60916204",
+      "name_en": "Ward No-04",
+      "parent_pcode_2015": "BD609162",
+      "parent_pcode": "BD60915000",
+      "parent_name": "Sylhet City Corporation"
+    },
+    {
+      "pcode": "BD60916205",
+      "name_en": "Ward No-05",
+      "parent_pcode_2015": "BD609162",
+      "parent_pcode": "BD60915000",
+      "parent_name": "Sylhet City Corporation"
+    },
+    {
+      "pcode": "BD60916206",
+      "name_en": "Ward No-06",
+      "parent_pcode_2015": "BD609162",
+      "parent_pcode": "BD60915000",
+      "parent_name": "Sylhet City Corporation"
+    },
+    {
+      "pcode": "BD60916207",
+      "name_en": "Ward No-07",
+      "parent_pcode_2015": "BD609162",
+      "parent_pcode": "BD60915000",
+      "parent_name": "Sylhet City Corporation"
+    },
+    {
+      "pcode": "BD60916208",
+      "name_en": "Ward No-08",
+      "parent_pcode_2015": "BD609162",
+      "parent_pcode": "BD60915000",
+      "parent_name": "Sylhet City Corporation"
+    },
+    {
+      "pcode": "BD60916209",
+      "name_en": "Ward No-09",
+      "parent_pcode_2015": "BD609162",
+      "parent_pcode": "BD60915000",
+      "parent_name": "Sylhet City Corporation"
+    },
+    {
+      "pcode": "BD60916210",
+      "name_en": "Ward No-10",
+      "parent_pcode_2015": "BD609162",
+      "parent_pcode": "BD60915000",
+      "parent_name": "Sylhet City Corporation"
+    },
+    {
+      "pcode": "BD60916211",
+      "name_en": "Ward No-11",
+      "parent_pcode_2015": "BD609162",
+      "parent_pcode": "BD60915000",
+      "parent_name": "Sylhet City Corporation"
+    },
+    {
+      "pcode": "BD60916212",
+      "name_en": "Ward No-12",
+      "parent_pcode_2015": "BD609162",
+      "parent_pcode": "BD60915000",
+      "parent_name": "Sylhet City Corporation"
+    },
+    {
+      "pcode": "BD60916213",
+      "name_en": "Ward No-13",
+      "parent_pcode_2015": "BD609162",
+      "parent_pcode": "BD60915000",
+      "parent_name": "Sylhet City Corporation"
+    },
+    {
+      "pcode": "BD60916214",
+      "name_en": "Ward No-14",
+      "parent_pcode_2015": "BD609162",
+      "parent_pcode": "BD60915000",
+      "parent_name": "Sylhet City Corporation"
+    },
+    {
+      "pcode": "BD60916215",
+      "name_en": "Ward No-15",
+      "parent_pcode_2015": "BD609162",
+      "parent_pcode": "BD60915000",
+      "parent_name": "Sylhet City Corporation"
+    },
+    {
+      "pcode": "BD60916216",
+      "name_en": "Ward No-16",
+      "parent_pcode_2015": "BD609162",
+      "parent_pcode": "BD60915000",
+      "parent_name": "Sylhet City Corporation"
+    },
+    {
+      "pcode": "BD60916217",
+      "name_en": "Ward No-17",
+      "parent_pcode_2015": "BD609162",
+      "parent_pcode": "BD60915000",
+      "parent_name": "Sylhet City Corporation"
+    },
+    {
+      "pcode": "BD60916218",
+      "name_en": "Ward No-18",
+      "parent_pcode_2015": "BD609162",
+      "parent_pcode": "BD60915000",
+      "parent_name": "Sylhet City Corporation"
+    },
+    {
+      "pcode": "BD60916219",
+      "name_en": "Ward No-19",
+      "parent_pcode_2015": "BD609162",
+      "parent_pcode": "BD60915000",
+      "parent_name": "Sylhet City Corporation"
+    },
+    {
+      "pcode": "BD60916220",
+      "name_en": "Ward No-20",
+      "parent_pcode_2015": "BD609162",
+      "parent_pcode": "BD60915000",
+      "parent_name": "Sylhet City Corporation"
+    },
+    {
+      "pcode": "BD60916221",
+      "name_en": "Ward No-21",
+      "parent_pcode_2015": "BD609162",
+      "parent_pcode": "BD60915000",
+      "parent_name": "Sylhet City Corporation"
+    },
+    {
+      "pcode": "BD60916222",
+      "name_en": "Ward No-22",
+      "parent_pcode_2015": "BD609162",
+      "parent_pcode": "BD60915000",
+      "parent_name": "Sylhet City Corporation"
+    },
+    {
+      "pcode": "BD60916223",
+      "name_en": "Ward No-23",
+      "parent_pcode_2015": "BD609162",
+      "parent_pcode": "BD60915000",
+      "parent_name": "Sylhet City Corporation"
+    },
+    {
+      "pcode": "BD60916224",
+      "name_en": "Ward No-24",
+      "parent_pcode_2015": "BD609162",
+      "parent_pcode": "BD60915000",
+      "parent_name": "Sylhet City Corporation"
+    },
+    {
+      "pcode": "BD60916225",
+      "name_en": "Ward No-25",
+      "parent_pcode_2015": "BD609162",
+      "parent_pcode": "BD60915000",
+      "parent_name": "Sylhet City Corporation"
+    },
+    {
+      "pcode": "BD60916226",
+      "name_en": "Ward No-26",
+      "parent_pcode_2015": "BD609162",
+      "parent_pcode": "BD60915000",
+      "parent_name": "Sylhet City Corporation"
+    },
+    {
+      "pcode": "BD60916227",
+      "name_en": "Ward No-27",
+      "parent_pcode_2015": "BD609162",
+      "parent_pcode": "BD60915000",
+      "parent_name": "Sylhet City Corporation"
+    }
+  ]
+}

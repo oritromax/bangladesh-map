@@ -1,0 +1,20 @@
+# Bangladesh Map
+
+> Open data and static JSON API for every administrative unit of Bangladesh: 8 divisions, 64 districts, 507 upazilas and city corporations, and 5,160 unions, paurashavas and city-corporation wards. English and Bangla names, official OCHA/BBS pcodes, TopoJSON boundaries.
+
+Every unit is identified by its pcode (e.g. BD20 Chattogram division, BD2019 Cumilla district, BD20190040 Debidwar upazila). Levels: 1 division, 2 district, 3 upazila or city corporation, 4 union, paurashava or ward. Level-4 boundaries come from the 2015 BBS release; their parent is the current upazila they lie in, so a level-4 pcode prefix may not match its parent.
+
+## API
+- [Index](/api/v1/index.json): counts, endpoint templates, sources and licences
+- Unit: /api/v1/units/{pcode}.json — the unit, its ancestors, children and boundary file
+- [Search index](/api/v1/search.json): every unit as compact rows (pcode, level, kind, name_en, name_bn, parent_pcode, lon, lat)
+
+## Data
+- [Gazetteer CSV](/data/gazetteer/units.csv) and [JSONL](/data/gazetteer/units.jsonl): one row per unit
+- [Unit schema](/data/schema/unit.schema.json)
+- [National boundaries](/data/boundaries/national.topo.json): divisions and districts
+- District boundaries: /data/boundaries/districts/{district_pcode}.topo.json — upazilas and unions
+- [QA report](/data/qa/report.json): join coverage and re-parented units
+
+## Licence
+Boundaries: Bangladesh Bureau of Statistics via OCHA/HDX, CC BY-IGO. Bangla names: nuhil/bangladesh-geocode, MIT.

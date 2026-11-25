@@ -1,0 +1,25 @@
+{
+  "name": "bangladesh-map",
+  "version": "0.1.0",
+  "description": "Open, agent-friendly atlas of Bangladesh administrative units (division to union) with an interactive map",
+  "scripts": {
+    "fetch": "node pipeline/fetch.mjs",
+    "build:data": "node pipeline/fetch.mjs && node --max-old-space-size=8192 pipeline/geometry.mjs && node pipeline/units.mjs && node --max-old-space-size=8192 pipeline/boundaries.mjs",
+    "build": "node pipeline/site.mjs",
+    "test": "node --test test/*.test.mjs",
+    "dev": "npm run build && node pipeline/serve.mjs",
+    "deploy": "npm run build && npx wrangler deploy"
+  },
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "ajv": "^8.20.0",
+    "mapshaper": "^0.8.10"
+  },
+  "dependencies": {
+    "d3-array": "^3.2.5",
+    "d3-geo": "^3.1.2",
+    "topojson-client": "^3.1.0"
+  },
+  "private": true
+}

@@ -50,7 +50,7 @@ Open, static, agent-friendly atlas of Bangladesh's administrative units: divisio
 ## Licensing
 - Code: MIT.
 - Data outputs: CC BY-IGO (attribution: "BBS via OCHA/HDX"). Bangla names credited to nuhil/bangladesh-geocode (MIT).
-- Redistribution terms for nuhil's own upstream Bangla sources are unverified. Noted in README.
+- nuhil's Bangla names are its own original collection, published under the repo's MIT licence (verified at the pinned commit).
 
 ## Milestones
 - [x] Research sources and verify counts and joins (v03 adm3 507, old adm4 5,160, Bangla join rates above)
@@ -77,6 +77,9 @@ Open, static, agent-friendly atlas of Bangladesh's administrative units: divisio
   - Population shown in the panel and exposed in the unit API.
 - [x] Full names for the 50 paurashavas named only "Paurashava", taken from the census table
 - [x] Commit population work
+- [x] Site redesign ("clean atlas"): neutral surfaces, floating panel, themed map tints
+- [x] Light/dark switch next to the language switch (persisted, defaults to system)
+- [x] Attributions moved to a modal opened from the footer; author credit in footer and README
 - [ ] Publish GitHub repo and deploy
 
 ## Enrichment backlog (from source research, 2026-11-25)

@@ -16,7 +16,7 @@ const num = (n) => n.toLocaleString(state.lang === 'bn' ? 'bn-BD' : 'en-US');
 const HUE = { BD10: 174, BD20: 4, BD30: 200, BD40: 140, BD45: 45, BD50: 300, BD55: 160, BD60: 32 };
 const hash = (s) => [...s].reduce((h, c) => (h * 31 + c.charCodeAt(0)) >>> 0, 7);
 const tint = (pcode, divisionPcode = pcode.slice(0, 4)) =>
-  `hsl(${HUE[divisionPcode]} 48% ${62 + (hash(pcode) % 20)}%)`;
+  `hsl(${HUE[divisionPcode]} var(--tint-s) calc(var(--tint-l) + ${hash(pcode) % 14}%))`;
 
 // ---- Scenes -----------------------------------------------------------------
 const byPcode = (features, pcode) => features.find((f) => f.properties.pcode === pcode);
@@ -190,6 +190,7 @@ function applyLang() {
   document.documentElement.lang = state.lang;
   for (const b of $('lang').querySelectorAll('button')) b.setAttribute('aria-pressed', String(b.dataset.lang === state.lang));
   $('q').placeholder = t('যেকোনো এলাকা খুঁজুন (বাংলা বা English)', 'Search any area (English or বাংলা)');
+  applyTheme();
 }
 $('lang').addEventListener('click', (e) => {
   const lang = e.target.closest('button')?.dataset.lang;
@@ -199,6 +200,21 @@ $('lang').addEventListener('click', (e) => {
   applyLang();
   show();
 });
+
+// ---- Theme and attribution --------------------------------------------------
+function applyTheme() {
+  const dark = document.documentElement.dataset.theme === 'dark';
+  $('theme').setAttribute('aria-pressed', String(dark));
+  $('theme').title = dark ? t('লাইট মোড', 'Light mode') : t('ডার্ক মোড', 'Dark mode');
+}
+$('theme').addEventListener('click', () => {
+  const theme = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark';
+  document.documentElement.dataset.theme = theme;
+  localStorage.setItem('theme', theme);
+  applyTheme();
+});
+$('credits-open').addEventListener('click', () => $('credits').showModal());
+$('credits').addEventListener('click', (e) => { if (e.target === $('credits')) $('credits').close(); });
 
 // ---- Search -------------------------------------------------------------------
 const all = [...index.units.values()];

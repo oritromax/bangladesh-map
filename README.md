@@ -2,6 +2,8 @@
 
 An interactive map and open dataset of every administrative unit in Bangladesh, from division down to union. It includes English and Bangla names, official pcodes, boundaries, and population by sex and age (2011 census and 2022 estimates). A static JSON API lets people and AI agents query it directly.
 
+Made by [Nidal Siddique Oritro](https://ioritro.com).
+
 | Level | Units | Count |
 |---|---|---|
 | 1 | Division | 8 |
@@ -37,7 +39,7 @@ See [AGENTS.md](AGENTS.md) for the full data model, the pipeline and the rules f
   - Their edges don't always line up with the current upazila borders.
   - Each one is assigned to the current upazila it overlaps most.
   - About 150 unions created after 2015 are not in this data.
-- **Bangla names**: [nuhil/bangladesh-geocode](https://github.com/nuhil/bangladesh-geocode). I have not checked the redistribution terms of that project's own sources.
+- **Bangla names**: [nuhil/bangladesh-geocode](https://github.com/nuhil/bangladesh-geocode), MIT licensed.
 - **Population 2011**: the BBS census, from US Census Bureau tables on HDX.
   - Reported for each union, paurashava and ward.
   - Upazila, district and division figures are sums over today's boundaries.
